@@ -1,0 +1,7719 @@
+/system/bin/linker64
+Android
+r26b
+10909125
+n"O.
+,h?p
+[1]g$,c
+__libc_init
+__cxa_atexit
+__register_atfork
+curl_slist_append
+curl_easy_setopt
+curl_easy_perform
+curl_easy_cleanup
+curl_easy_strerror
+curl_easy_init
+OPENSSL_init_ssl
+EVP_MD_CTX_free
+EVP_DigestInit_ex
+EVP_DigestUpdate
+EVP_MD_CTX_new
+EVP_DigestFinal_ex
+EVP_Digest
+EVP_md5
+EVP_sha256
+malloc
+free
+abort
+memset
+memcpy
+rand
+time
+gettimeofday
+inet_aton
+gethostbyname
+inet_ntoa
+strlen
+gethostbyaddr
+bind
+getsockname
+listen
+socket
+ioctl
+setsockopt
+getsockopt
+connect
+__errno
+accept
+shutdown
+close
+sendmsg
+recvmsg
+select
+__FD_SET_chk
+__FD_ISSET_chk
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6appendEPKc
+_Znwm
+memmove
+_ZNSt6__ndk1plIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_12basic_stringIT_T0_T1_EEPKS6_RKS9_
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6appendEPKcm
+_ZdlPv
+_ZNSt6__ndk19to_stringEi
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1ERKS5_
+_ZTCNSt6__ndk119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE0_NS_13basic_ostreamIcS2_EE
+_ZNSt6__ndk18ios_base4initEPv
+_ZTVNSt6__ndk119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZNSt6__ndk115basic_streambufIcNS_11char_traitsIcEEEC2Ev
+_ZTVNSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZNSt6__ndk15ctypeIcE2idE
+_ZNKSt6__ndk18ios_base6getlocEv
+_ZNKSt6__ndk16locale9use_facetERNS0_2idE
+_ZNSt6__ndk16localeD1Ev
+_ZNSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEElsEj
+_ZNKSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+_ZNSt6__ndk115basic_streambufIcNS_11char_traitsIcEEED2Ev
+_ZTTNSt6__ndk119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZNSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEED2Ev
+_ZNSt6__ndk19basic_iosIcNS_11char_traitsIcEEED2Ev
+__cxa_begin_catch
+_ZSt9terminatev
+sprintf
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEaSERKS5_
+fclose
+_ZNSt6__ndk18ios_base5clearEj
+_ZTVNSt6__ndk114basic_ifstreamIcNS_11char_traitsIcEEEE
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEED2Ev
+_ZTTNSt6__ndk114basic_ifstreamIcNS_11char_traitsIcEEEE
+_ZNSt6__ndk113basic_istreamIcNS_11char_traitsIcEEED2Ev
+_ZTCNSt6__ndk114basic_ifstreamIcNS_11char_traitsIcEEEE0_NS_13basic_istreamIcS2_EE
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEEC2Ev
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEE4openEPKcj
+memchr
+memcmp
+_ZNSt6__ndk111this_thread9sleep_forERKNS_6chrono8durationIxNS_5ratioILl1ELl1000000000EEEEE
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6insertEmPKc
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1ERKS5_mmRKS4_
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6assignEPKc
+_ZNSt6__ndk16thread6detachEv
+_ZNSt6__ndk16threadD1Ev
+_ZNSt6__ndk115__thread_structC1Ev
+pthread_create
+_ZNSt6__ndk120__throw_system_errorEiPKc
+_ZNSt6__ndk14stoiERKNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEPmi
+_ZNSt6__ndk14coutE
+_ZNSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEE3putEc
+_ZNSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEE5flushEv
+printf
+puts
+_ZNSt6__ndk19to_stringEj
+_ZTVNSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZTTNSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZNSt6__ndk114basic_iostreamIcNS_11char_traitsIcEEED2Ev
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE5eraseEmm
+_ZNSt6__ndk15mutex4lockEv
+_ZNSt6__ndk15mutex6unlockEv
+fwrite
+_ZNSt6__ndk14cerrE
+atoi
+_ZNSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEElsEi
+remove
+_ZNSt6__ndk19to_stringEf
+__cxa_get_exception_ptr
+_ZTVSt9exception
+_ZNSt9exceptionD1Ev
+__cxa_end_catch
+srand
+__cxa_guard_acquire
+_ZNSt6__ndk16chrono12system_clock3nowEv
+__cxa_guard_release
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6resizeEmc
+_ZTCNSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE0_NS_13basic_istreamIcS2_EE
+_ZNSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strERKNS_12basic_stringIcS2_S4_EE
+_ZTCNSt6__ndk114basic_ofstreamIcNS_11char_traitsIcEEEE0_NS_13basic_ostreamIcS2_EE
+_ZTVNSt6__ndk114basic_ofstreamIcNS_11char_traitsIcEEEE
+_ZTTNSt6__ndk114basic_ofstreamIcNS_11char_traitsIcEEEE
+fopen
+_ZNSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEE6sentryC1ERS3_
+_ZNSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEE6sentryD1Ev
+_ZNKSt9exception4whatEv
+_ZNSt6__ndk16chrono12steady_clock3nowEv
+_ZNSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE7seekoffExNS_8ios_base7seekdirEj
+_ZNSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE9underflowEv
+_ZNSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE9pbackfailEi
+_ZNSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE8overflowEi
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9push_backEc
+_ZTVNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEEE
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEE4syncEv
+_ZdaPv
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEED0Ev
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEE5imbueERKNS_6localeE
+_ZNSt6__ndk17codecvtIcc9mbstate_tE2idE
+_Znam
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEE6setbufEPcl
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEE7seekoffExNS_8ios_base7seekdirEj
+fseeko
+ftello
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEE7seekposENS_4fposI9mbstate_tEEj
+fflush
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEE9underflowEv
+fread
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEE9pbackfailEi
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEE8overflowEi
+__cxa_allocate_exception
+_ZNSt8bad_castC1Ev
+_ZTISt8bad_cast
+_ZNSt8bad_castD1Ev
+__cxa_throw
+_ZTISt12length_error
+_ZNSt12length_errorD1Ev
+__cxa_free_exception
+_ZNSt11logic_errorC2EPKc
+_ZTVSt12length_error
+_ZNSt20bad_array_new_lengthC1Ev
+_ZTISt20bad_array_new_length
+_ZNSt20bad_array_new_lengthD1Ev
+_ZNSt6__ndk113basic_istreamIcNS_11char_traitsIcEEE6sentryC1ERS3_b
+__cxa_rethrow
+_ZNSt6__ndk112__next_primeEm
+_ZNKSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE4findEcm
+_ZNSt11logic_errorD2Ev
+getaddrinfo
+freeaddrinfo
+_ZNSt13runtime_errorC2EPKc
+_ZNSt13runtime_errorD2Ev
+_ZNSt6__ndk115system_categoryEv
+_ZNSt6__ndk112system_errorC1EiRKNS_14error_categoryERKNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZTINSt6__ndk112system_errorE
+_ZNSt6__ndk112system_errorD1Ev
+_ZNSt13runtime_errorC2ERKNSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6insertEmPKcm
+_ZNSt6__ndk19to_stringEm
+fcntl
+_ZNSt6__ndk112system_errorC1EiRKNS_14error_categoryEPKc
+send
+recv
+__assert2
+_ZNSt6__ndk18ios_base33__set_badbit_and_consider_rethrowEv
+_ZNSt6__ndk16localeC1ERKS0_
+_ZNKSt6__ndk16locale9has_facetERNS0_2idE
+fseek
+_ZTISt12out_of_range
+_ZNSt12out_of_rangeD1Ev
+_ZTVSt12out_of_range
+_ZNSt6__ndk119__thread_local_dataEv
+pthread_setspecific
+_ZNSt6__ndk115__thread_structD1Ev
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEED2Ev
+_ZNSt6__ndk15mutexD1Ev
+_ZTINSt6__ndk119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZTINSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEEE
+_ZNSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEED1Ev
+_ZNSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEED0Ev
+_ZTv0_n24_NSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEED1Ev
+_ZTv0_n24_NSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEED0Ev
+_ZTSNSt6__ndk119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZTVN10__cxxabiv120__si_class_type_infoE
+_ZTINSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZNSt6__ndk115basic_streambufIcNS_11char_traitsIcEEE5imbueERKNS_6localeE
+_ZNSt6__ndk115basic_streambufIcNS_11char_traitsIcEEE6setbufEPcl
+_ZNSt6__ndk115basic_streambufIcNS_11char_traitsIcEEE4syncEv
+_ZNSt6__ndk115basic_streambufIcNS_11char_traitsIcEEE9showmanycEv
+_ZNSt6__ndk115basic_streambufIcNS_11char_traitsIcEEE6xsgetnEPcl
+_ZNSt6__ndk115basic_streambufIcNS_11char_traitsIcEEE5uflowEv
+_ZNSt6__ndk115basic_streambufIcNS_11char_traitsIcEEE6xsputnEPKcl
+_ZTSNSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZTINSt6__ndk115basic_streambufIcNS_11char_traitsIcEEEE
+_ZTINSt6__ndk114basic_ifstreamIcNS_11char_traitsIcEEEE
+_ZTINSt6__ndk113basic_istreamIcNS_11char_traitsIcEEEE
+_ZNSt6__ndk113basic_istreamIcNS_11char_traitsIcEEED1Ev
+_ZNSt6__ndk113basic_istreamIcNS_11char_traitsIcEEED0Ev
+_ZTv0_n24_NSt6__ndk113basic_istreamIcNS_11char_traitsIcEEED1Ev
+_ZTv0_n24_NSt6__ndk113basic_istreamIcNS_11char_traitsIcEEED0Ev
+_ZTSNSt6__ndk114basic_ifstreamIcNS_11char_traitsIcEEEE
+_ZTINSt6__ndk113basic_filebufIcNS_11char_traitsIcEEEE
+_ZTSNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEEE
+_ZTINSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZTCNSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE0_NS_14basic_iostreamIcS2_EE
+_ZTCNSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE16_NS_13basic_ostreamIcS2_EE
+_ZTINSt6__ndk114basic_iostreamIcNS_11char_traitsIcEEEE
+_ZNSt6__ndk114basic_iostreamIcNS_11char_traitsIcEEED1Ev
+_ZNSt6__ndk114basic_iostreamIcNS_11char_traitsIcEEED0Ev
+_ZThn16_NSt6__ndk114basic_iostreamIcNS_11char_traitsIcEEED1Ev
+_ZThn16_NSt6__ndk114basic_iostreamIcNS_11char_traitsIcEEED0Ev
+_ZTv0_n24_NSt6__ndk114basic_iostreamIcNS_11char_traitsIcEEED1Ev
+_ZTv0_n24_NSt6__ndk114basic_iostreamIcNS_11char_traitsIcEEED0Ev
+_ZTSNSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZTINSt6__ndk114basic_ofstreamIcNS_11char_traitsIcEEEE
+_ZTSNSt6__ndk114basic_ofstreamIcNS_11char_traitsIcEEEE
+_ZTISt11logic_error
+_ZNKSt11logic_error4whatEv
+_ZTISt13runtime_error
+_ZNKSt13runtime_error4whatEv
+_ZTISt9exception
+__gxx_personality_v0
+vsnprintf
+ftell
+calloc
+geteuid
+usleep
+__system_property_get
+stderr
+fprintf
+system
+_ZNSt6__ndk113basic_istreamIcNS_11char_traitsIcEEE5tellgEv
+_ZNSt6__ndk113basic_istreamIcNS_11char_traitsIcEEE5seekgExNS_8ios_base7seekdirE
+_ZNSt6__ndk113basic_istreamIcNS_11char_traitsIcEEE4readEPcl
+realloc
+strchr
+strcspn
+strspn
+signal
+sscanf
+getpeername
+inet_ntop
+_ZNSt6__ndk16chrono12system_clock9to_time_tERKNS0_10time_pointIS1_NS0_8durationIxNS_5ratioILl1ELl1000000EEEEEEE
+localtime
+strftime
+pthread_self
+_ZNSt6__ndk118condition_variable10notify_allEv
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE7replaceEmmPKcm
+__sF
+pthread_rwlock_wrlock
+pthread_rwlock_unlock
+dl_iterate_phdr
+pthread_rwlock_rdlock
+getpid
+syscall
+libssl.so.3
+OPENSSL_3.0.0
+libcrypto.so.3
+libdl.so
+LIBC
+libc.so
+/data/data/com.termux/files/usr/lib
+libcurl.so
+libc++_shared.so
+libm.so
+8D1C
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+,c85df9056ee603b849a93e1ebab5dd5f66e1fb8b2f4a8caef8d13b9f9e013fa4
+`#@NoFace
+38690496
+`#@Bleulabel
+36310143
+294619
+server
+`` Seconds Before Using Mod Checker Again.
+/proxy `9(Opens Proxy Commands Dialog)
+/send `9[Message] `9(Chat with proxy users)
+/pos4 `9(Set Display Box Pos 4) [Optional]
+/tp `9(Take wls/dls/bgls from positions)
+/showoc `9(Enables Show Public/Closed Doors/Gates) 
+/split `9[%] `9(Split your wls/dls with percent)
+/warp `9[world] `9(Warp To Other World)
+maxlevel
+action|setSkin
+color|
+dls, but you `4dont `9have that many.
+POption|Titles|
+title|maxlevel
+userID|
+wls, `btaken `#
+bm: `2Bermuda
+do: `2Dominican Republic
+gq: `2Equatorial Guinea
+kz: `2Kazakhstan
+kg: `2Kyrgyzstan
+fm: `2Micronesia
+mm: `2Myanmar
+nz: `2New Zealand
+za: `2South Africa
+tv: `2Tuvalu
+vn: `2Vietnam
+keepweather
+`9Your Drop History
+autocpwd
+wordrmv_
+dialog_name|drop_item
+esp|
+farmpage
+`2Enable`# Antigravity          
+`2Enable`# Antilava          
+`2Enable`# Fast Trash/Recycle          
+Will Hide The Message "You Need To Be Level"
+realfake|
+`7[```5[```w
+`9Pos 4 isn't set yet!
+/switch
+`1You haven't logged in any account yet.
+add_label_with_icon_button||||170|Del_
+/speed
+VisualWeather_60
+VisualWeather_72
+`9Crystal Spam is now `2enabled.
+`2Enable `#Fast Vend Withdraw Locks          
+/growscan
+ddrop 
+[CLIENT]: Game message: %s
+`cSolved Captcha As `9
+[W]_ `6<`w
+embed_data|tiley|
+tilex|
+embed_data|num|53785
+|tool4310|
+Incisions: `
+Target is offline, cant find uid.
+Item_id|^^242
+void World::Serialize(MemoryReader &, uint16_t, const std::pair<uint16_t, uint16_t> &)
+false
+17091
+NULL
+`9You `4Can't`` Collect Any Items (`4Autoban`` `2Protect`` `1For Visual Drop/Spawn``)
+ `1Blocks!
+huge
+`6@Ubidev
+23369178
+41539504
+`#@Xinyi
+41537968
+47119248
+/antizombie, /az `9(Enables Anti Zombie)
+/banall `9(Ban Everyone in Same World)
+POption|JoinWorld|
+name|
+`b<`9PROXY``>`` 
+POption|AJ_Command
+action|input
+|text|/banall
+ `9Dls.
+`9Dropping`c 
+`bThis game `#
+bz: `2Belize
+bt: `2Bhutan
+et: `2Ethiopia
+buttonClicked|Del_
+buttonClicked|tlreset
+|left|2480|
+instantdice
+Will Visually Add Antigravity Generator To World, Which Allows You To Jump `2Unlimitedly``
+`2Enable`# Wrench Mode `b[
+buttonClicked|backscan
+action|trash
+.000000
+acc|
+buttonClicked|visg4g
+action|wrench
+action|input
+text|/pull 
+Weather Machine - Frozen Cliffs
+vdrop 
+`9Show `0[`2REAL`0]`w, `0[`4FAKE`0]`9 Spin is `4OFF
+`9Mod Detector is `4OFF
+/spam
+[SERVER]: varlist: %s
+0098/captcha/generated/
+spun the wheel and got 
+ `1REME `c7
+ `9Because This Person Said `bBlacklisted `9Word: `9
+add_label_with_icon|big|`wEdit 
+buttonClicked|give
+count|
+add_checkbox|checkbox_set_as_home_world|Set as Home World|
+checkbox_disable_music_render|
+Status: `6Coming to``|left|
+action|dialog_return
+dialog_name|trash_item
+itemID|
+`2Automatically `9Stopped Auto Spam Because `1Owner/Admin`` Entered.
+onlineID
+type|local
+action|log
+msg|`4Login failed, please try again..``
+ `9World Lock
+PLAYER.
+ItemsDat
+Successfully Started AJAndroid!
+Content-Disposition
+`9You Collected `c
+[SERVER]: port is %d and server is %s
+`8You Can't Pathfind In This World due to Serialization problems.
+libunwind: %s - %s
+DW_EH_PE_funcrel pointer encoding not supported
+`#@ByteCode
+ per 1 wl``]
+version=4.5&platform=2&protocol=205
+/tax `9[Amount (%)]`9 (Set game tax)
+/blink `9(Automatic Skin Changer)
+/autofish, /fish `9(Enables Auto Fish)
+itemidz3
+`9Spam Delay `4Cannot `9be less than 1000ms. Do /spam to change it.
+ Bgls
+`b [`#
+am: `2Armenia
+cr: `2Costa Rica
+gd: `2Grenada
+mr: `2Mauritania
+lc: `2Saint Lucia
+tj: `2Tajikistan
+ve: `2Venezuela
+count
+`bYou typed something `4wrong``! `9Try again. `1(If it was a dialog, ignore this message)
+VisualWeather_
+action|dialog_return
+dialog_name|socialportal
+buttonClicked|trade_history
+|showGuild|
+You Can See The Dice Number `2Instantly`` Instead Of Waiting Couple Of Seconds
+`4Ban
+buttonClicked|vismaxlvl
+/fdonate
+`9Pos 3 isn't set yet!
+Weather Machine - Rainy City
+Weather Machine - Spooky
+Weather Machine - Meteor Shower
+Weather Machine - Celebrity Hills
+VisualWeather_70
+`9Going Back To: `#
+`9Auto Spammer is `4OFF
+`9Warping to Save World `9[`w
+action|quit_to_exit
+arange|
+noob
+action|dialog_return
+dialog_name|puzzle_captcha_submit
+ `5pulls``
+add_textbox|How many to put in the box as a gift?
+tempo|
+buttonClicked|pullstock
+`2Successfully `5Modified A `2
+ANESTHETIC!
+proxy/proxy.cpp
+version=4.63&platform=0&protocol=209
+127.0.0.1
+HTTP/1.1 %d %s
+getSavedFloatRegister
+add_spacer|small|
+`#@Tharapita
+44250099
+protocol
+/news `9(Opens Proxy's News Gazette)
+/win4, /w4 `9(Drop winnings to Player 4)
+/game `9[Bet Amount]`9 (Calculate Tax From Bet)
+/fdice `9(Enables Show Instant Dice Roll in Tile) 
+/modexit `9(Enables Auto Leave when mod joins)
+netID|
+`#@Moderator `4Just joined the world
+Press on the icon to extract the item into your inventory.
+add_label_with_icon|small|`w
+add_label_with_icon|big|`wFloating Items|left|6016|
+add_spacer|small
+cg: `2Republic of the Congo
+fr: `2France
+kr: `2South Korea
+yt: `2Mayotte
+ne: `2Niger
+sn: `2Senegal
+sz: `2Eswatini
+`9Blacklisted Words List
+`2Successfully `4Removed `9Word: '
+gpullz
+`2Enable`# QQ Spins          
+autoacc|
+`4Kick
+input
+/donate
+radius 
+`9Specific `2ItemID`` for AutoCollect. [Choose `20`` To Collect Everything]
+VisualWeather_4
+VisualWeather_20
+Weather Machine - Digital Rain
+VisualWeather_42
+Weather Machine - Dark Mountains
+Weather Machine - Crack in Reality
+`9World's Drop/Collect Tracker is now `4disabled.
+showallcntr
+`9Vending Page
+`9 wls is: `2
+`9Fast Trash/Recycle is now `2ON
+`9Auto Exit World When `#@Mod `9Joins is `2ON
+`9Show `0[`2REAL`0]`w, `0[`4FAKE`0]`9 Spin is `2ON
+/win4
+`2Enable `#Auto Spam
+spdelay
+`9Item scanner is `2ON
+@cs4y 
+There was nothing on the line!
+ `5QQ `29
+add_checkbox|checkbox_
+expectitem|
+action|dialog_return
+dialog_name|surgery
+buttonClicked|tool1258
+action|dialog_return
+dialog_name|surgery
+buttonClicked|tool1270
+action|dialog_return
+dialog_name|surgery
+buttonClicked|tool4318
+action|dialog_return
+dialog_name|surgery
+buttonClicked|tool1266
+ shattered``
+`9You Need To Have A `2Online`` Friend To Use Mod Checker.
+Recycle
+`#@Moderator/Guardian's `5NetID: `4
+(none)
+ro.product.brand
+ro.board.platform
+LoginMsg
+curl -o items2.dat -O 
+`9You Dropped `c
+libunwind: malformed DW_CFA_def_cfa DWARF unwind, reg too big
+|staticBlueFrame|
+add_button_with_icon||END_LIST|noflags|0|0|
+|left|
+536707
+45400905
+`#@HuffleWitz
+`#@Akrius
+`#@Lunatary
+47094621
+action|dialog_return
+dialog_name|friends
+buttonClicked|
+hash
+/psb `9[Text] `9(Proxy Super Broadcast)
+optionlsls
+Could not initialize ENet
+add_label_with_icon|big|`wFind item: 
+wls]
+tutorial_2_
+invitedWorld|0
+dz: `2Algeria
+cd: `2Democratic Republic of the Congo
+fo: `2Faroe Islands
+ml: `2Mali
+mc: `2Monaco
+ru: `2Russia
+tc: `2Turks and Caicos Islands
+acdelay
+buttonClicked|chistory
+blwrds
+`2Enable`# Auto Access          
+When You `2Place Something``, You Will Instantly `2Teleport`` To The Location Where You Placed If Possible
+`2Enable`# Show Public/Closed Doors/Gates          
+ect|
+`9Pos 1 isn't set yet!
+`9Fast Dice Roll is now `4Disabled.
+action|input
+|text|/mods
+setdelay 
+surg
+`9Auto Change BGL is now `2ON
+`9Visual Clothes Equip is `4OFF
+action|input
+|text|/kick 
+`9Amount to drop is: `c
+`9Enter atleast 3 letters!
+ to break that!
+spun the wheel and got
+embed_data|expectprice|
+verify|1|
+buycount|
+action|dialog_return
+dialog_name|surgery
+buttonClicked|tool1268
+`8`2[
+eventName|102_PLAYER.AUTHENTICATION
+eventName|100_MOBILE.START
+[EMPTY]
+Basic 
+proxy/world.h
+] `w
+`1Wait before pathfinding again
+libunwind: malformed DW_CFA_val_offset DWARF unwind, reg (%lu) out of range
+CIE version is not 1 or 3
+`#@nPlus1
+`#@Kodrex
+`#@akiko
+308143
+7275489
+47120399
+buttonClicked|send
+text|
+/logs `9(Opens Logs Page for Item Collecting/Dropping/Trading History)
+/gdrop, /gd `9(Drop last played game winnings)
+/dropall `9(Drop all items from inventory) 
+/back `9(Warps Back to Previous World)
+[LOGS]
+us|showGuild|donor
+action|input
+|text|
+cn: `2China
+ge: `2Georgia
+in: `2India
+md: `2Moldova
+mz: `2Mozambique
+pe: `2Peru
+rw: `2Rwanda
+buttonClicked|clearswitch
+`9Mod Detect Settings
+spampg
+antigravity
+When Someone Punches You, You Won't Move At All
+rop|
+`9Hide Proxy Broadcast is now `2enabled.
+`9Fast Edit Lock Page
+setmsg 
+`2Account Switcher
+thistory
+VisualWeather_3
+Weather Machine - Protostar Landing
+`9QQ Spins is now `2enabled
+POption|hiddenlist
+invitedWorld|0
+`9PathFinder is now `2enabled.
+`2Auto Spam Page
+`#Auto `4Leave`` When Admin/Owner Enters
+AJ_Keep_Settings
+cntr|
+msghide|
+@cdlw
+checkbox_public|1
+expectitem|
+Excellent! I'm happy to sell you a Blue Gem Lock in exchange for 100 Diamond Lock
+FIX IT!
+tool4316
+smstate
+Clever perhaps
+othercurrency|^^
+`9You Might Have Been `4Shadowbanned``, `2Try To Change/Reset`` Your Wifi And `5Reconnect`` To Growtopia.
+Authorization
+Invalid header field value
+Failed to send data
+thread constructor failed
+MODERATOR DETECTED!
+User-Agent: UbiServices_SDK_2022.Release.9_PC64_ansi_static
+ro.product.cpu.abilist
+_Unwind_Resume() can't return
+libunwind: malformed DW_CFA_def_cfa_sf DWARF unwind, reg too big
+Can't binary search on variable length encoded data.
+add_label_with_icon|small|
+32036726
+`6@UbiOps
+`#@Sabaei
+`#@Gatello
+`#@Caitriona
+`#@Nevalis
+Hidden
+meta
+/keep `9(Saves Current Settings/Commands)
+/speed `9(Opens a Speed Changer Dialog)
+/fdonate `9(Opens a Dialog for Setting Fake Donation) 
+`5[`9AJ``] ``
+OnSetClothing
+action|dialog_return
+dialog_name|unaccess
+`9Dropping `c
+OnParticleEffect
+`1Didn't find any dropped locks.
+.0% tax] [
+`b[`#
+`wTotal `9World Locks: `w
+ba: `2Bosnia and Herzegovina
+bi: `2Burundi
+dm: `2Dominica
+gn: `2Guinea
+is: `2Iceland
+mg: `2Madagascar
+nr: `2Nauru
+mp: `2Northern Mariana Islands
+sr: `2Suriname
+tz: `2Tanzania
+input_
+buttonClicked|VisualWeather_
+`9Your Collect History
+speed1|
+`#Automatically Remove Your Access   
+buttonClicked|searchvend
+buttonClicked|getItem-
+dialog_name|end
+add_smalltext|`9You Can Also Type /farm to `2Enable`9/`4Disable `9AutoFarming.|left|
+add_spacer|small
+You Can't Get Zombie Infection When Someone Infected Tries To Infect You
+`9You cant use this command, becuase you aren't connected to Proxy Server.
+/autocollect
+`9Fast Edit Lock is now `4disabled.
+`9Fast Drop & Fast Trash/Recycle Count Set To: `c
+`1Custom Weather Machine Changer
+VisualWeather_59
+Weather Machine - Nebula
+add_textbox|How many to drop?|left|
+add_text_input|count||0|5|
+embed_data|itemID|
+name 
+`9Country Changer Page
+cntrinput
+`9Reme Spins is now `4disabled
+`9Mod Detector is `2ON
+`9Wrench Mode is `2ON
+door 
+add_label_with_icon|big|`1>> Results For `9
+/dropall1
+@crmv 
+You need to be Level 
+ `5QQ `c9
+``>``
+Successfully `2Opened `9A 
+[PROXY]: 
+[31mFailed To Get Server Data File!
+[1;36m
+vars.txt
+{"meta" : "%s"}
+Successfully Loaded Items Data!
+[CLIENT]: port: %d token %d user %d server %s doorid %s
+getULEB128
+300429
+50736935
+`#@Cardai
+`b[`9Proxy``]`` `2Mods Online: All mods are offline.
+/instantgem, /ig `9(Enable Show Instant Gem Count in Tile)
+/dcount [count] `9(Set Fast Donate Count)
+/antigravity, /ag `9(Enables Anti Gravity)
+/switch `9(Opens Dialog For Account Switching) 
+/daw `9(Drop all WLS/DLS/BGLS)
+/dropall1 `9(Drop all items from inventory with count 1) 
+/autoacc `9(Enables Auto Take Access)
+PState
+`9 Dls & `c
+`wTotal Gems: 
+ext_
+ck: `2Cook Islands
+ht: `2Haiti
+ly: `2Libya
+mo: `2Macau
+ps: `2Palestine
+vc: `2Saint Vincent and the Grenadines
+ug: `2Uganda
+gb: `2United Kingdom
+`91000ms = 1 second
+`9World Collect/Drop History
+`9Your Drop History is `4Empty.
+AJ_AccountSwitcher
+antizombie
+vendpage
+vendrestock
+venditemwithdraw
+buttonClicked|iso11pul1
+action|dialog_return
+dialog_name|
+`9Pos 2 isn't set yet!
+/fastlock
+/vendhub
+`2Enable `#Speed Changer
+dhistory
+VisualWeather_2
+Weather Machine - Warp Speed
+Weather Machine - Snowy Night
+VisualWeather_64
+/vend
+`9Auto Surg is now disabled.
+`oReality flickers as you begin to wake up. (`$Ban`o mod added, `$730`o days left)
+`9Auto Unaccess When `#@Mod `9Joins is `2ON
+`9Show `2Open`9/`4Closed`9 Doors is now `2enabled.
+`9Show `2Open`9/`4Closed`9 Doors is now `4disabled.
+modtest
+/save
+ `5QQ `c2
+lb. 
+buttonClicked|withdraw
+action|dialog_return
+dialog_name|phonecall
+tilex|
+num|-34|
+buttonClicked|chc0
+add_textbox|Wow, that's fast delivery. Excellent! If you have more I'm happy to sell you another Blue Gem Lock in exchange for 100 Diamond Lock.|left|
+|tool1260|
+ANTIBIOTICS!
+action|dialog_return
+dialog_name|friends_guilds
+buttonClicked|showfriend
+`8World Serialization has `4failed.`` `6Pathfind, AutoCollect, etc..`` `4Won't`` Work in This World.
+unknown
+Invalid hex digit
+] World Serialization failed.
+Host: www.growtopia1.com
+Proxy might be already running, You need to Force Close termux.
+[CLIENT]: Packet Type: %d
+] `5
+libunwind: malformed DW_CFA_offset_extended DWARF unwind, reg too big
+FDE has zero length
+||staticBlueFrame|
+73eff5914c61a20a71ada81a6fc7780700fb1c0285659b4899bc172a24c14fc1
+`#@Solorien
+`#@VectorCat
+requestedName|
+/win1, /w1 `9(Drop winnings to Player 1)
+/remespins, /reme `9(Enables Reme Spins)
+/mod `9(Enables Moderator Mode)
+/res `9(Respawn Shortcut)
+itemidx1
+itemidy2
+`b[`9Proxy-Chat`b]:`1 
+af: `2Afghanistan
+ag: `2Antigua and Barbuda
+bo: `2Bolivia
+cl: `2Chile
+sk: `2Slovakia
+vi: `2United States Virgin Islands
+game_version|
+acpage
+wordban
+banfire
+`b]          
+You Can Pull/Kick/Ban A Player Instantly By Wrenching The Player
+Will Show You Real/Fake(Typed Spin) Spins When Someone Spins Roulette Wheel
+`9Trashed Visual Item: `w
+dialog_name
+psb 
+`` `2
+Search For Item
+/antigravity
+VisualWeather_8
+VisualWeather_10
+Weather Machine - Plaza
+`9Show Instant Gem Count in Tile is now `2enabled
+`2Enable `#Fast Vend Restock Items          
+`2Enable `#Fast Vend Withdraw Items          
+`9Auto Change BGL is now `4OFF
+/showoc
+/hidemsg
+`9Tax set to (
+ `cBlue Gem Locks.
+/keep
+exitmod|
+`9Pos4 Set to: `2
+ `5QQ `c3
+embed_data|tilex|
+``|1
+playerNetID|
+embed_data|expectitem|
+add_button|report_player|`wReport Player``|noflags|0|0|
+Dial a number to call somebody in Growtopia.
+[CLIENT]: SPONGE
+Patient's fever is 
+you have 
+action|input
+|text|`9Collected `2+
+`9Last Visited World: `#
+chunked
+Host
+truncated uleb128 expression
+libunwind: unsupported .eh_frame_hdr version: %u at %lx
+29160268
+45518360
+`#@GadnokBow
+33836788
+"`` From A `2
+UbiServices_SDK_2019.Release.27_PC64_unicode_static
+[PROXY]: Meta: %s
+Communication Through Proxy Server:
+/pos2 `9(Set Display Box Pos 2)
+/gems `9(Displays Gem Count in All Tiles)
+/fastdonate `9(Enables Fast Put To Donate Box)
+/relog `9(Fast leave and enter to world)
+Broadcast
+[PROXY]: [OnSetClothing]
+list|%d|%d|%d|%d|%d|%d|%d|%d|%d
+UserID|%d
+PunchID|%d
+PState|%d
+[PROXY]:  local pos: %.0f %.0f
+gg: `2Guernsey
+pw: `2Palau
+sb: `2Solomon Islands
+gs: `2South Georgia and the South Sandwich Islands
+us: `2United States
+farmID|
+add_quick_exit|
+end_dialog|cntrids|Cancel||
+fastdoor
+`9Auto Farm is now `4disabled.
+/fastdonate
+`9Fast `2Open`9/`4Close`9 Doors is now `4disabled.
+`2Anti `9Zombie is now `4disabled.
+speed3
+`2Logs Page
+/weather
+VisualWeather_15
+VisualWeather_34
+VisualWeather_36
+`9Auto Acc is now enabled.
+`9Note: 1000ms = 1 second
+/balance
+tres
+`9Dropping `#
+ping|
+`9Pos2 Set to: `2
+``!`7]``
+ `1REME `c8
+ `5QQ `c1
+ `9Diamond Lock```` With Account: `2
+ `9Blue Gem Lock```` With Account: `2
+tiley|
+action|dialog_return
+dialog_name|donation_box_edit
+tilex|
+add_label_with_icon|big|`wVending Machine``|left|2978|
+add_label_with_icon|big|`wPurchase Confirmation``|left|1366|
+`9, `4Ignore `6Empty Air = `c
+Patient is `6losing blood
+[CLIENT]: STITCH
+LAB KIT!
+PINS!
+localhost
+Amount_dropped|
+a+be
+Failed to initialize libcurl.
+Server & client proxy is running.
+ ``Blocks!
+unsupported arm64 register
+unsupported restore location for register
+getTableEntrySize
+36559671
+tankIDPass
+Proxy Info:
+/pos3 `9(Set Display Box Pos 3) [Optional]
+/titles `9(Opens a dialog of Visual Titles) 
+/collect `9(Auto Collect all items in 10 Far)
+/logout `9(Logout from account to login page)
+add_label_with_icon|big|`#@Moderators `4Detected `9List|left|732|
+itemidx2
+OnAddNotification
+action|dialog_return
+dialog_name|drop_item
+itemID|1796
+count|
+wls, but you `4dont `9have that many.
+ `b[`9
+``]`` 
+ar: `2Argentina
+by: `2Belarus
+be: `2Belgium
+bf: `2Burkina Faso
+dk: `2Denmark
+ir: `2Iran
+jp: `2Japan
+jo: `2Jordan
+la: `2Laos
+ma: `2Morocco
+nl: `2Netherlands
+tn: `2Tunisia
+dvisible
+dcount
+Del_
+, Cost: 
+ `8World Locks each`w.
+blwrdtxt
+add_label_with_icon|small|`2Current `1Farmable Item: `9
+buttonClicked|scanobjects
+Will Show Players Last Spinned Number Next To Their Name
+`2Enable`# Auto Ban Fire Starters        
+/fastdoor
+`9Please Wrench Your World Lock To Give Access To 
+`2Antigravity `9is now `2enabled.
+Weather Machine - Jungle
+Weather Machine - Stargazing
+/autofish
+`9Successfully reseted your name.
+`9Auto Pull Specific Player is now disabled.
+`9Number Name is now disabled
+`9Bet hasn't been set!
+pullstop
+game 
+`9You have `2
+/titles
+acdelay|
+/dropall
+C:\Users\Public\AJ_Stuff\AJ_AccountSwitcher
+`2Collected `w
+ In world: `c
+ Blue Gem Lock``.``
+expectprice|
+add_label_with_icon|big|`w
+|tool1264|
+|tool1266|
+`` Gems.
+Only HTTP scheme is supported
+[CLIENT]: Error sending packet! code: 
+truncated sleb128 expression
+DW_OP_piece not implemented
+add_textbox|
+41538133
+553625
+`#@MissDropBear
+41208310
+38753466
+ `4[Hidden],
+`9Please Wait `2
+/wk (Change Wrench Mode to `4Kick)
+/pvend `9[ItemID] `9(Pathfinds To The Vend Which Is Selling The Item)
+/dev `9(Enables Developer Mode) [`4Bannable`` if you try go inside block many times]
+/re `9(Repeats Previously Used Command)
+userID
+PState|
+Send
+netID|
+audio/hub_open.wav
+Auto Collecting...
+pos2f count: 
+`4Dr.
+itemscanner
+mf: `2Saint Martin
+sg: `2Singapore
+lk: `2Sri Lanka
+sj: `2Svalbard and Jan Mayen
+wf: `2Wallis and Futuna
+zw: `2Zimbabwe
+`2Range: 
+Okey
+fdonatepg
+`9When A `#@Moderator `9Enters, You Will:
+modunaccess
+`2Successfully `bBlacklisted `9Word: '
+lor|
+add_quick_exit|
+end_dialog|farmpage|Cancel|Okey|
+`2Enable`# Show Ping Latency
+`2Enable`# REME Spins          
+/lock
+set_default_color|`9
+add_label_with_icon|big|`2Fast Account Switching|left|9474|
+add_spacer|small|
+add_smalltext|Click on a `9Player Icon`` to Log in to an account!|
+add_smalltext|Or click on a `4Red Icon`` to Remove an account from the list!|
+add_spacer|small|
+Weather Machine - Howling Sky
+VisualWeather_69
+`9Filling The `2Whole World `9With `1
+`9Crystal Spam is now `4disabled.
+split 
+action|respawn
+`9Fast Drop is `2ON
+`9Ghost mode is `4OFF
+detector
+`#@Moderator Mode `9is now `4Disabled.
+`9Hide All Private Messages is now `2enabled.
+/gdrop
+add_label_with_icon|big|`9Titles Page|left|1794|
+add_spacer|small
+add_button|vismaxlvl|`9Max Level|noflags|0|0|
+add_button|visdoctor|`9Doctor|noflags|0|0|
+add_button|vislegend|`9Legendary|noflags|0|0|
+add_friend_image_label_button|visg4g|`9Grow4Good|game/g4g.rttex|1.6|28|23|32|false|false|
+add_friend_image_label_button|vismaster|`9Master|interface/flags/master_icon.rttex|1.6|28|23|32|false|false|
+add_button|tlreset|`9Reset Current Title|noflags|0|0|
+add_quick_exit|
+end_dialog|titlespg|Close||
+|getItem-
+proxy
+`4Banning `w
+Diamond Lock``.``
+ Diamond Lock``.``
+add_checkbox|checkbox_disable_music_render|Make Custom Music Blocks invisible|
+`9, `2Public = `c
+SPLINT!
+`#@Moderator's Real GrowID: `w[
+buttonClicked|remove
+`9Collected `2+
+eventName|305_DROP
+`9World Lock Balance: `#0
+eventName|300_WORLD_VISIT
+`2This world is locked by a world lock.
+http
+Invalid chunk
+Invalid token
+defined
+9088
+Content-Type: application/json
+Version
+%15s %n%*s %15s
+`2Player '`w
+evaluateExpression
+add_label_with_icon_button||
+add_smalltext|
+3ca373dffbf463bb337e0fd768a2f395b8e417475438916506c721551f32038d
+/vendhub `9(Free Vending Hub Dialog)
+/replace `9(Replaces All Dark Cave Background to Glass Pane)
+/cd, /cdrop `9[amount] `9(Drop wls, dls by amount)
+message|
+`b[`9PROXY``] `6<
+action|drop
+|itemID|242
+action|dialog_return
+dialog_name|drop_item
+itemID|7188|
+count|
+POption|Titles|
+title|g4g
+userID|
+cm: `2Cameroon
+gh: `2Ghana
+lr: `2Liberia
+mv: `2Maldives
+na: `2Namibia
+pn: `2Pitcairn Islands
+th: `2Thailand
+`4Auto Collect Range Can't be more than 10 tiles.
+spdelay|
+flockpage
+lockignoreair
+When Someone Says "gas", You Will Automatically Pull The Player
+`9Fake Donate
+`#Set `1Donation `2Item Name: 
+`#Set `1Donation `2Count: 
+`4Kicking `9Everyone `2Near `9Position `c2`9!
+`2Antipunch `9is now `2enabled.
+speed1
+`9[Default: `c1000``] `2Fall Speed: 
+VisualWeather_11
+VisualWeather_35
+VisualWeather_61
+Weather Machine - Nian's Mountains
+``|left|
+Wrench Mode Set To: `4Ban `wDo /wm to enable Wrench Mode
+arroz 
+buttonClicked|acceptlock
+`9Successfully `2Opened `9A 
+add_label_with_icon|big|`wDrop World Lock``|left|242|
+TRANSFUSION!
+Failed to create socket
+Connection: keep-alive
+not found
+unwind_phase2
+malformed uleb128 expression
+unsupported restore location for float register
+add_button_with_icon|
+`#@Seth
+`#@pTORT
+`#@Jenuine
+36713808
+`#@trinculo
+action|dialog_return
+dialog_name|friends_message
+friendID|
+"`` From Any Vending Machine.
+tankIDPass|
+/reset `9(Reset All Positions)
+/p1, /p2, /p3, /p4, /k1, /k2, /b1, /b2 `9(`5Pull`9/`4Kick`9/`4Ban `9Everyone Near Pos 1, 2, 3 or 4)
+/fastdoor `9(Enables Fast Open/Close Doors With Wrench)
+/vgems `9(Enables Gems Collect visible to others)
+/mods `9(Mod Checker for Hidden/Online Moderators) 
+/modtest `9(Mod Detect Test) 
+/ghost `9(Enables Ghost Mode) (Other people wont see when you move)
+userID|
+Proxy-Chat
+OnTalkBubble
+name|
+`b[`9PROXY`b]`1 
+[SERVER]: varlist: %s
+add_textbox|Enter a word below to find the item|
+add_text_input|item|Item Name||30|
+end_dialog|findid|Cancel|Find the item!|
+count|1
+action|input
+text|PR
+as: `2American Samoa
+td: `2Chad
+cc: `2Cocos (Keeling) Islands
+ie: `2Ireland
+sd: `2Sudan
+va: `2Vatican City
+`2Auto Correcting `9Password for `5
+`wVending Hub
+add_item_picker|farmID|`2Change Farmable Item|Select Item From Your Inventory|
+add_custom_margin|x:0;y:-32|
+`2Enable`# World Drop/Collect Tracker          
+When Someone Spins A Wheel, It Will Show The QQ Number Of The Spin Number
+`9Fast Put Donate is now `2enabled.
+`9Fast Put Donate is now `4disabled.
+add_friend_image_label_button|resetswitch|`4Delete All Accounts From Switch List|game/tiles_page14.rttex|1.6|30|23|32|false|false|
+end_dialog|accswitching|Cancel||
+pfind 
+Weather Machine - Night
+VisualWeather_62
+`9Spam Delay Set To: `c
+/hidden
+`9Auto Collect is now `2enabled.
+`9Auto Collect is now `4disabled.
+`9Auto Spammer is `2ON
+`9WLS`2&`#
+action|dialog_return
+dialog_name|drop_item
+itemID|4604|
+count|
+`1 <<|left|8|
+add_spacer|small
+igem|
+qqsp|
+|CaptchaID|
+splash
+@crmv
+OnRemove
+You received a MAGPLANT 5000 Remote.
+end_dialog|gateway_edit|
+[CLIENT]: TRANSFUSION
+[CLIENT]: SPLINT
+action|dialog_return
+dialog_name|surgery
+buttonClicked|tool4316
+action|dialog_return
+dialog_name|friends_remove
+friendID|
+Nobody is currently online with the name
+Invalid header field name
+[HTTP]: %s %s
+ro.product.device
+https://silviozas.com/images/items.dat
+Downloading items.dat, Please Wait.
+You can now login to Growtopia.
+success
+`9Fishing Position Set To: `2
+libunwind: malformed DW_CFA_register DWARF unwind, reg2 too big
+DW_EH_PE_aligned pointer encoding not supported
+getSavedRegister
+end_dialog|
+24233063
+`#@pharaohboi
+15006163
+`#@Explorate
+`#@WindyPlay
+/name `9[name] `9(Change your GrowID Visually)
+/autocollect `9(Auto Collect Settings Page)
+/balance `9(Show Current Lock Balance)
+world|
+add_quick_exit|
+end_dialog|end|Cancel|Okay|
+``|left|3802|
+add_spacer|small|
+`9You're trying to drop 
+action|dialog_return
+dialog_name|drop_item
+itemID|242|
+count|
+bd: `2Bangladesh
+gr: `2Greece
+gt: `2Guatemala
+ke: `2Kenya
+sx: `2Sint Maarten
+ss: `2South Sudan
+vg: `2British Virgin Islands
+itemID|
+When Someone Gives You `2Access`` To Any Lock, You Will `2Automatically`` Accept Them
+Same As /gems But You See The Gem Amount Every Time When Gems Spawn
+`9Repeating `1Previously `9Used Command: `#
+action|input
+text|/kick 
+`4Banning `9Everyone `2Near `9Position `c2`9!
+`9[Default: `c125``] `2Water Speed: 
+Save
+/fdice
+worldlogs
+Weather Machine - St. Paddy's Day
+/logout
+`9Auto Pull is now disabled.
+`9Gas Pull is `4OFF
+`9Ghost mode is `2ON
+pullall
+/gscan
+`2]|left|
+ltoken|
+PuzzleWithMissingPiece.rttex
+ `1REME `c4
+ `5QQ `c6
+odinsexyisback69
+Collected
+`2ACCESS GRANTED!
+add_text_input|tempo|Music BPM|
+|tool1262|
+tool4314
+embed_data|itemID|242
+action|log
+msg|Server is currently initializing or re - syncing with sub servers.Please try again in a minute.
+Invalid status line
+std::string base64_decode(const std::string &)
+vars
+PGTport
+Download successful!
+bad result code from event handler
+cannot open file
+ Block
+``'`9 Collected `c
+getRegister
+FDE is really a CIE
+add_label_with_icon|big|
+add_checkbox|
+|left|
+`#@ThePsyborg
+`#@Pangloss
+41263973
+50733363
+`#@MistPhantom
+reset
+action|dialog_return
+dialog_name|socialportal
+buttonClicked|showfriend
+213.179.209.168
+Successfully Parsed Server Meta!
+tankIDName|
+/give [player name] `9(Fast Give Access To Specific Player With Name)
+/fd `9(Enables Fast Drop)
+/dd, /ddrop `9[amount] `9(Drop dls & bgls by amount)
+/surg `9(Enables Auto Surg) 
+/modban `9(Enables Ban All when mod joins)
+itemidx2|
+itemidz2|
+`5[`9AJ`5] ``
+action|dialog_return
+dialog_name|drop_item
+itemID|1796|
+count|
+.0% tax) `bresult is`# 
+`1Dropping `2
+Cancel
+er: `2Eritrea
+kw: `2Kuwait
+lb: `2Lebanon
+`9Specific `2ItemID `9for AutoCollect. `9[Choose `20 `9To Collect Everything]
+buttonClicked|modsettings
+You Can See Your Ping Latency Next To Your Name
+`2Enable`# Show Instant Gem Count On Tile          
+`2Enable`# Fast Drop          
+vendamount
+ull|
+/gazette
+action|input
+|text|/news
+give 
+`2Anti `9Zombie is now `2enabled.
+count 
+`9Fast Drop & Fast Trash/Recycle Count `2Reseted.
+VisualWeather_5
+Weather Machine - Spring
+VisualWeather_30
+Weather Machine - Black Hole
+Weather Machine - Holiday Haven
+add_label_with_icon|big|`wDrop 
+/back
+/reset
+`9Successfully Reset All Positions.
+pullname
+`9Visual Clothes Equip is `2ON
+`9Set Spam Text: 
+/daw
+unaccmod|
+banmod|
+fireban|
+`9Show Ping Latency is now `2enabled.
+That user is no longer your friend.  People can be cruel.
+set_default_color|`o
+add_label_with_icon|big|`wEdit My First World Lock``|left|9640|
+add_text_input|minimum_entry_level|World Level: |
+|tool4308|
+|tool4316|
+|tool4318|
+action|dialog_return
+dialog_name|surgery
+buttonClicked|tool4308
+count|
+add_label_with_icon|big|`wReport this player ``|left|3732|
+action|input
+|text|/msg 
+invis
+`1Login `4Failed``! `5Reconnecting`` Without Login Spoof...
+World_owner|
+content-length
+got socket fd larger than FD_SETSIZE
+`#@Baskerville
+33737951
+`#@Elbanna
+/pos1 `9(Set Display Box Pos 1)
+/spam `9(Opens Auto Spam Page Dialog for Auto Spamming)
+/bwords `9(Opens Dialog For Autoban Blacklisted Words) 
+/country `9(Change Country Flag) [Not Visual]
+POption|JoinWorld|
+`5[`9AJ`5] `4Dr.
+master
+itemidz1
+Bubble-Chat
+action|input
+|text|/ban 
+POption|Titles|
+title|legend
+userID|
+wls tax`b]
+action|input
+text|AJ
+fi: `2Finland
+hn: `2Honduras
+mw: `2Malawi
+mn: `2Mongolia
+tl: `2Timor-Leste
+mid|
+speedchanger
+wordadd
+hidelevel
+add_text_input|farminterval|`1AutoFarm `2Interval `9[ms] |
+buttonClicked|scanblocks
+`2Enable`# Fast Open/Close Doors With Wrench          
+`2Enable`# Hide You Need To Be Level Message          
+vendbuytoggle
+mod|
+wrenchmode|
+buttonClicked|bannj
+buttonClicked|vislegend
+customweather
+action
+`9You `4Haven't`` `2Used`` Any Command Yet.
+`9 Tiles!
+`9Fast Dice Roll is now `2Enabled.
+/logs
+Weather Machine - Comet
+VisualWeather_32
+Weather Machine - Realm of Spirits
+/clist
+`9Auto Pull is now enabled.
+/win3
+`#Auto `4Disable`` Spam When Admin/Owner Enters
+setspam 
+-|noflags|0|0|
+blink|
+acollect|
+/ping
+OnConsoleMessage
+UrkumattiMK
+`9Automatically `4Stopped `9Spam for Pulling Someone
+Successfully `4Closed `9A 
+action|dialog_return
+dialog_name|give_item
+itemID|
+add_label_with_icon|small|Accept Access To World|left|242|
+action|dialog_return
+dialog_name|surgery
+buttonClicked|tool4310
+[CLIENT]: FIX IT!
+Status: `4Awake``|
+ULTRASOUND!
+add_label_with_icon|big|`5Message to
+`2Automatically `9Leaving Because `1Owner/Admin`` Entered.
+action|log
+msg|`4SERVER OVERLOADED`` : Sorry, our servers are currently at max capacity with 75000 online, please try later. We are working to improve this!
+Item_id|^^7188
+Level|
+Failed to select socket
+0.0.0.0
+PBG892FXX982ABC*
+`9 Collected `c
+`8Couldn't Find Path To This `4Position.
+[SERVER]: Failed to connect to real server.
+libunwind: malformed DW_CFA_expression DWARF unwind, reg too big
+36709249
+`#@MrKeter
+/numbername, /nn `9(Show last spinned number next to player name)
+/gscan, /growscan `9(Free GrowScan with Proxy)
+/weather `9(Opens Visual Weather Changer Page)
+/clothes `9(Visual Clothes Page) 
+/autofarm (Opens AutoFarm Page for Changing Item, delay, etc..)
+PState|
+POption|
+Chat
+OnNameChanged
+|showGuild|master
+start_custom_tabs|
+add_label_with_icon|big|`2Proxy News Gazette|left|5016|
+end_custom_tabs|
+add_label_with_icon|big|`#AJAndroid `9Gazette|left|7188|
+add_smalltext|`9Proxy's Creators/Owners Are: Joakim & Naade|left|
+add_url_button||`9Join To The New Proxy `cDiscord Server|NOFLAGS|https://discord.gg/ajproxy|
+add_textbox|`2Enjoy `9the proxy made by `b[`9joakimmer1k0``]``|left|2480|
+add_spacer|small
+action|dialog_return
+dialog_name|drop_item
+itemID|
+action|drop
+|itemID|1796
+OnChangeSkin
+[PROXY]:  local pos: %.0f %.0f (People can't see you move because Ghost Mode is on)
+aw: `2Aruba
+gi: `2Gibraltar
+gl: `2Greenland
+my: `2Malaysia
+uy: `2Uruguay
+ftue_start_popup_close
+worldrmv_
+sptext|
+hidemsg
+wrenchmode
+add_custom_margin|x:0;y:10|
+vendudu
+fastdrop|
+OnLogout
+searchvend
+`9Type `2'/count 0'`9 to reset the count.
+`9Trade History
+Weather Machine - Arid
+`9Chat Color `2Reseted.
+/remespins
+`9Auto Ban is now disabled.
+`9Fast Trash/Recycle is now `4OFF
+/win2
+`2Enable `#Random Colors
+setsave 
+spmer|
+the wheel and got
+ `1REME `c1
+ `1REME `c2
+ `5QQ `c8
+`9Successfully `4Closed `9A 
+buttonClicked|clear
+checkbox|0
+`5Modified A 
+tool4312
+|tool4314|
+Patient is losing blood
+action|dialog_return
+dialog_name|surgery
+buttonClicked|tool1262
+Temp: `4
+add_friend_image_label_button|
+`5Reconnecting...
+action|log
+msg|`4OOPS:`` Too many people logging in at once. Please press `5CANCEL`` and try again in a few seconds.
+Request timed out
+https://files.northproxy.site/d/joakim/android_vars.txt
+ConsoleMsg
+[PROXY]: Connecting to server.
+got invalid packet. (too small)
+libunwind: malformed DW_CFA_offset_extended_sf DWARF unwind, reg too big
+`#@Hamumu
+`#@Misthios
+22353525
+25374
+`#@Nostos
+`b[`9Proxy``]`` `2Mods Online:
+`1Found `9"
+/wm `9(Enables Fast Wrench)
+/track `9(Enables Dropping/Collecting Tracker)
+/hidemsg `9(Enables Hide Private Messages) (Useful if bots msg you)
+/count, /c [count] `9(Set Custom Fast Drop & Trash Count)
+/ac `9(Enables Auto Collect)
+itemidy2|
+itemidz3|
+|bgl|
+us|showGuild|maxLevel
+buttonClicked|report_player
+action|join_request
+name|exit
+ `9Wls, `c
+OnInvis
+wls`b]
+ao: `2Angola
+az: `2Azerbaijan
+kh: `2Cambodia
+gm: `2Gambia
+im: `2Isle of Man
+ng: `2Nigeria
+pk: `2Pakistan
+qa: `2Qatar
+st: `2S
+o Tom
+ and Pr
+ncipe
+ae: `2United Arab Emirates
+vu: `2Vanuatu
+enablesc|
+`#Ban Everyone From The World   
+`2Enable`# Path Finder          
+`2Enable`# Hide Private Messages          
+You Won't See Any MSGs [This Isn't Useful Anymore]
+When You Try To Trash An Item, You Don't Have To Press OK (It Instantly Trashes The Item)
+logspage
+/replace
+`9Fast Empty Donate Box is now `4disabled.
+enablesc
+`9My Collect History
+Weather Machine - Mt. Growmore
+/track
+/qqspins
+autopull
+`9Auto Ban is now enabled.
+fakeban
+Warning from `4System``: You've been `4BANNED`` from `wGrowtopia`` for 730 days
+autobgl
+`9Number Name is now enabled
+`9Wrench mode is `4OFF
+option
+ `9World Locks, `2
+mode|
+action|input
+|text|`
+OnSuperMainStartAcceptLogon
+````
+action|input
+|text|/daw
+add_label_with_icon|big|`wEdit World Lock``|left|242|
+action|dialog_return
+dialog_name|vending
+tilex|
+|tool1270|
+CLAMP!
+add_smalltext|Pulse: `4Extremely Weak``
+action|dialog_return
+dialog_name|surgery
+buttonClicked|tool1296
+SCALPEL!
+`4Stop ignoring
+`#@Moderator's `5NetID: `4
+World_name|^^
+param 
+Invalid digit
+http://g-api.nubiza.my.id/growtopia/meta.php
+`9 In `5
+[SERVER]: enet host compressing failed
+unknown pointer encoding
+getSLEB128
+DW_OP_deref_size with bad size
+`#@Morse1
+`9All Proxy Features
+/hidelevel `9(Enables Hide You Need To Be Level Message)
+/vc `9(Enables Visual Clothes Equip) 
+PEffect
+buttonClicked|pull
+interface/science_button.rttex
+action|dialog_return
+dialog_name|drop_item
+itemID|242
+count|
+OnSetPos
+buttonClicked|worldban
+`#@Moderator `5just joined this world with name`0: 
+add_spacer|small
+add_quick_exit|
+add_button|backscan|Back|noflags|0|0|
+ai: `2Anguilla
+au: `2Australia
+br: `2Brazil
+eg: `2Egypt
+fj: `2Fiji
+pf: `2French Polynesia
+je: `2Jersey
+mh: `2Marshall Islands
+ni: `2Nicaragua
+nu: `2Niue
+ro: `2Romania
+so: `2Somalia
+to: `2Tonga
+zm: `2Zambia
+buttonClicked|banner_input_
+speed2|
+buttonClicked|Log_
+`2Switching `9Account, `1Please Wait...
+modexit
+modautoc
+ per `8World Lock`w.
+buttonClicked|wordrmv_
+add_label_with_icon|big|`2All Country IDs|left|3394|
+add_spacer|small
+buttonClicked|visdoctor
+`5Pulling `9Everyone `2Near `9Position `c4`9!
+`9Fast Edit Lock is now `2enabled.
+/antilava
+`2Antigravity `9is now `4disabled.
+`2Antipunch `9is now `4disabled.
+add_custom_margin|x:-70;y:30|
+`9[Default: `c1200``] `2Acceleration: 
+Weather Machine - Heatwave
+Weather Machine - Pagoda
+Weather Machine - Background
+`9Auto Acc is now disabled.
+action|input
+|text|/pull 
+`9Entering this world with Door ID:`# 
+`1DLS`2&`#
+add_label_with_icon_button|small|`9
+remesp|
+ `1REME `c6
+Automatically stopped spamming for `4Spam Detect!
+Blue Gem Lock``.``
+sign_text|
+checkbox_disable_music|
+ `9Blue Gem Lock
+`9Player Authentication `2Successful.
+ h: 
+transfer-encoding
+World Serialization Failed!
+Content-Type
+curl -O https://raw.githubusercontent.com/JoakimTheCoder/AJTermux/main/vars
+UpdateMsg
+during phase1 personality function said it would stop here, but now in phase2 it did not stop here
+add_custom_textbox|
+|size:
+|noflags|0|0|
+29121568
+538522
+43432233
+`4Failed To Get Server Data File! `9Disable VPN And `2Retry``.
+hash2
+country
+/win2, /w2 `9(Drop winnings to Player 2)
+/scan `9(Enables Free Extract-O-Snap)
+/fastempty `9(Enables Fast Empty Donate Box)
+/pf `9(Enables PathFinder) [Place To Pathfind]
+/pullall `9(Pull Everyone Same World)
+`2Pathfinding`1 To Item:`9 
+itemidx3
+action|dialog_return
+dialog_name|popup
+netID|
+`#@Moderator `4Just joined the world.
+OnSpawn
+POption|Titles|
+title|master
+userID|
+POption|Titles|
+title|doctor
+userID|
+`1Dropping `21 `9
+GrowTech: use the Extract-O-Snap to pick out the items from the floating items in your world! - Thanks, Technician Dave.
+`wItem List:
+ky: `2Cayman Islands
+ec: `2Ecuador
+lv: `2Latvia
+sh: `2Saint Helena
+tg: `2Togo
+banallmodz
+add_textbox|`1
+unaccmods|
+moddetect|
+buttonClicked|kicj
+action|input
+POption|Broadcast
+world|
+``) in `b[`9
+`` into the Donation Box`5]```7]``
+Ignore empty air
+`2Auto Msg `9Text Set To: 
+Search
+`4Reset `9All Speeds to their Default Values
+chistory
+Weather Machine - Snowy
+VisualWeather_71
+Blank
+`9World's Drop/Collect Tracker is now `2enabled.
+`9Auto Fish Is Now `4Disabled.
+`9Dev Mode is now `2Enabled.
+`9Dev Mode is now `4Disabled.
+`9 wls.)
+ `9Wls & `c
+`9PathFinder is now `4disabled.
+cdrop 
+find 
+ `2[ID: 
+/pos4
+ `1REME `c5
+ `0[`4FAKE`0]`w
+action|dialog_return
+dialog_name|acceptaccess
+minimum_entry_level|
+action|dialog_return
+dialog_name|surgery
+buttonClicked|tool4314
+Temp: `6
+[CLIENT]: ANTIBIOTIC
+`9Player Authentication `4Failed.
+Failed to get socket flags
+Failed to set socket flags
+Failed to get socket option
+Invalid status code
+Content-Type: text/plain
+setRegister
+add_item_picker|
+add_button_with_icon||END_LIST|noflags|0|0|
+add_button_with_icon|
+3804202
+action|log
+msg|
+buttonClicked|msg
+tankIDName
+set_default_color|`2
+/ + one space + text `9(Send Messages to proxy users with bubble)
+/radius [radius number] `9(Set Radius For /p1, /p2, /p3, /p4, /k1, /k2, /b1, /b2)
+Useful Features:
+/cspam `9(Enables Crystal Spam Mode)
+/spawn [itemID] `9(Fill The Whole World With Visual Dropped Item)
+/modcollect `9(Enable Collect items 10 far when mod joins)
+growid|
+action|wrench
+|netid|
+ Dls
+`wTotal `1Blue Gem Locks: `w
+hr: `2Croatia
+ls: `2Lesotho
+sa: `2Saudi Arabia
+buttonClicked|worldlogs
+SetHasGrowID
+`4Word Should Have `9Atleast `41 Letter!
+action|dialog_return
+dialog_name|blistword
+action|dialog_return
+showdoors
+spinqq
+frm|
+When You Try To Drop An Item, You Don't Have To Press OK (It Instantly Drops The Item)
+modsettings
+ods|
+fasttrash|
+``] `w: 
+`9Fast Empty Donate Box is now `2enabled.
+ places `#
+pvend 
+`9Fast `2Open`9/`4Close`9 Doors is now `2enabled.
+/bwords
+Weather Machine - Pineapples
+Weather Machine - Autumn
+VisualWeather_47
+`9QQ Spins is now `4disabled
+% of `2
+action|dialog_return
+dialog_name|drop_item
+itemID|242|
+count|99
+ `9Dls
+blink
+killall
+`9Hide All Private Messages is now `4disabled.
+`1Successfully Set Save World to: `w
+action|setDeath
+animDeath|1
+`cBGLS.
+`9Positions haven't been set yet!
+/pos2
+checkbox_public|0
+[CLIENT]: ANESTHETIC
+[CLIENT]: ULTRASOUND
+add_label_with_icon|big|0 of
+Trash
+action|log
+msg|`6>> `4That player.. has changed.  Unrecognizable, you might say.``
+eventName
+`4This world is not locked by a world lock.
+action|killstore
+pengamen
+[HTTP]: failed to start the http server!
+ro.product.name
+curl_easy_perform() failed: %s
+`b[`9discord.gg/ajproxy``]``
+[SERVER]: UNKNOWN event: %d
+`1Pathfinding `2
+[SERVER]: UNHANDLED
+libunwind: malformed DW_CFA_restore_extended DWARF unwind, reg too big
+DW_EH_PE_textrel pointer encoding not supported
+DWARF opcode not implemented
+add_quick_exit|
+16966321
+`#@BumbleFish
+11990887
+24969470
+`#@HollowDragon
+`#@Xialios
+47193235
+ Seed
+``, [`9
+/vend `9(Opens Fast Vend Page) 
+/chest `9(Reveal items in Chests) 
+/ft `9(Enables Fast Trash/Recycle)
+/modunacc `9(Enables Auto Unaccess when mod joins)
+/door `9[id] `9(Enter to Door with ID)
+`2Successfully Connected to Proxy Server!
+>`` 
+Titles
+bb: `2Barbados
+km: `2Comoros
+dj: `2Djibouti
+mk: `2North Macedonia
+np: `2Nepal
+py: `2Paraguay
+ch: `2Switzerland
+tr: `2Turkey
+um: `2United States Minor Outlying Islands
+`9Auto Collect Page
+enableac
+`9Max Range is 10 tiles.
+OnSetCurrentWeather
+`9World Collect/Drop History is `4Empty.
+enterleave
+lockallowpnb
+fdrop
+`2Enable`# Antipunch          
+ode|
+cntrinput|
+wrenchpull|
+`2Radius `9Set To `c
+/chest
+Weather Machine - Apocalypse
+VisualWeather_66
+`9], to reset your name, type: /name
+`9Fast Vend Buy `2Count 
+POption|Send
+message|`9Android Proxy User Broadcasted a message:`1 
+autoban
+ghost
+/espam
+`5Spam Text Set To: 
+`2Logging In...
+action|quit
+`` from the Display Block.
+action|dialog_return
+dialog_name|lock_edit
+tilex|
+Lock``|left|
+ (`2
+num|53785|
+buttonClicked|chc5
+|tool4312|
+Fix It!
+action|dialog_return
+dialog_name|surgery
+buttonClicked|tool1260
+`#@Moderator/Guardian `cIs Currently `2Present `cIn This World.
+onlineID|
+[CLIENT]: new: %s
+action|dialog_return
+dialog_name|friends
+buttonClicked|friend_all
+ `9Gems.
+Invalid HTTP version
+Failed to open output file.
+PGTip
+ `9Dropped `c
+libunwind: malformed DW_CFA_val_expression DWARF unwind, reg too big
+32036087
+39382043
+`#@Zohros
+/wp (Change Wrench Mode to `5Pull)
+/pfind [ItemID] `9(Pathfind to nearest item, type /find [item] to get ItemID)
+/fireban `9(Enables Auto Ban players that use Pocket Lighter)
+/donate `9(Execute the Fake Donation Message) 
+itemidx3|
+Could not create ENet client host
+Could not connect to ENet server
+itemidy3
+`9, `4Stopped `9AutoFarming.
+wls `9(
+`4No Floating Items found in this Tile.
+tutorial_1_
+bh: `2Bahrain
+io: `2British Indian Ocean Territory
+cu: `2Cuba
+cy: `2Cyprus
+ga: `2Gabon
+gw: `2Guinea-Bissau
+hu: `2Hungary
+iq: `2Iraq
+it: `2Italy
+lt: `2Lithuania
+me: `2Montenegro
+tw: `2Taiwan
+ua: `2Ukraine
+`4Auto Collect Delay Can't be lower than 1ms.
+buttonClicked|blistword
+pathfinder
+buttonClicked|ext
+ash|
+text|
+netid|
+`2Visible `#To Others
+`5Pulling `9Everyone `2Near `9Position `c1`9!
+`5Pulling `9Everyone `2Near `9Position `c3`9!
+`4Kicking `9Everyone `2Near `9Position `c1`9!
+`4Banning `9Everyone `2Near `9Position `c1`9!
+action|input
+text|/ban 
+`8You cant use this command in this world because of World Serialization Fail.
+resetspeed
+spawn 
+color 
+`9Country ID List
+`9Auto Surg is now enabled.
+`9Blink Skin is now `2ON.
+`9Fast Drop is `4OFF
+`9Note: You can also enable Auto Spam with this command: "/espam" & "//"
+`#@Moderator Mode `9is now `2Enabled.
+ `9wls.
+showoc|
+`9item scanner is `4OFF
+Offline
+ `1REME `20
+Wrench yourself to accept.
+add_label_with_icon|small|Remove Your Access From World|left|242|
+action|dialog_return
+dialog_name|gateway_edit
+tilex|
+add_label_with_icon|big|`wDonation Box``|left|1452|
+buttonClicked|recalcLock
+checkbox_public|
+|tool1268|
+SPONGE!
+STITCH!
+Gems_balance|
+vector
+Failed to read data
+items.dat has unsupported version: 
+%s: %s
+``' `9Dropped `c
+unknown register
+;color:
+`#@markfeller
+`#@MsIvy
+25176812
+47850061
+25773007
+`#@CoconutShrimp
+OnTextOverlay
+/hidepsb `9(Enables Hide Proxy Broadcasts)
+Useful For Casino Hosting/Playing:
+/setsave `9[world] `9(Set save world)
+/farm (Enables AutoFarming)
+/fakeban `9(You Will Get Visually `4Banned`` With This)
+itemidy3|
+title|
+OnCountryState
+doctor
+itemidz2
+action|drop
+itemID|242
+action|play_sfx
+file|audio/change_clothes.wav
+delayMS|0
+ `9Wls.
+`9Pos2 Bet: `c
+`wExtract-O-Snap
+bs: `2Bahamas
+cf: `2Central African Republic
+fk: `2Falkland Islands
+jm: `2Jamaica
+lu: `2Luxembourg
+re: `2R
+union
+nge|
+acrange
+`9Your Collect History is `4Empty.
+autoacc
+You Can See Which Doors/Entrances/Gates Are `2Public``/`4Closed``, `2Green`` = `2Public``, `4Red`` = `4Closed``
+`2Enable`# Show Instant Dice Roll in Tile          
+`2Enable`# Real/Fake Spins          
+vend_2|
+buttonClicked|vismaster
+/hidepsb
+`8Speed Changer
+`9[Default: `c250``] `2Max Speed: 
+VisualWeather_17
+VisualWeather_19
+Weather Machine - Balloon Warz
+VisualWeather_37
+VisualWeather_48
+VisualWeather_65
+/hidelevel
+/fish
+`9Auto Fish Is Now `2Enabled.
+`9Auto Fish Is Now `2Enabled. `#You `2Can `#Now `2Start `#Fishing.
+/name
+`9Reme Spins is now `2enabled
+/autofarm
+modunacc
+banall
+ `9World Lock```` With Account: `2
+embed_data|itemID|
+ in your backpack.|
+embed_data|netID
+add_label_with_icon|big|`wDrop Blue Gem Lock``|left|7188|
+action|dialog_return
+dialog_name|surgery
+buttonClicked|tool4312
+[CLIENT]: PINS
+Temp: `2
+add_label_with_icon|big|`wThe Growtopia Gazette
+action|dialog_return
+dialog_name|dropitem
+amount|
+POption|NewHiddenMod
+mod|`#@Mod`` `9[``
+name
+`9Type /vc to `2Equip `1
+`8World Serialization has `4Failed!
+eventName|201_STORE_ENTRANCE
+ y: 
+Failed to connect
+Failed to Load Items Data.
+failure
+] `9You [`5
+[SERVER]: Packet Type: %d
+[PROXY]: Error sending packet! code: 
+0123456789qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM
+DW_EH_PE_datarel is invalid with a datarelBase of 0
+Unknown DWARF encoding for search table.
+add_button|
+`#@Rimanah
+54432183
+`#@Serenite
+/find `9(Opens a Item Finder dialog) 
+/arroz [amount] `9(Drop Arroz Con Pollos With Custom Amount)
+/color [color id] `9(Set Custom Chat Color)
+itemidz1|
+ of Legend``
+itemidy1
+action|join_request
+name|
+`#@Moderator ``is now in this world with name`0: 
+action|input
+text|OXY
+al: `2Albania
+bj: `2Benin
+bw: `2Botswana
+ca: `2Canada
+co: `2Colombia
+nc: `2New Caledonia
+rs: `2Serbia
+si: `2Slovenia
+uz: `2Uzbekistan
+requestedName|
+`9Specific `2ItemID: 
+ditem
+`#Automatically Leave From The World   
+`#Auto Collect All Items 10 Far  
+vendsearchid
+optionspage
+numbername
+`2Enable`# Show Last Spinned Number          
+You Can `2Fastly Open``/`4Close`` Entrances Without A Dialog
+exitsmod|
+changecntr
+`9Show Gem Collect Message to everyone is now `4disabled.
+speed2
+`9My Drop History
+add_quick_exit|
+end_dialog|drop_visualitem|Cancel|OK|
+`9There's `4Nothing `9To Go Back To.
+`9Hide You Need To Be Level Message is now `2enabled.
+/dev
+Wrench Mode Set To: `5Pull `wDo /wm to enable Wrench Mode
+`#Displaying `9Gem Count On All Tiles!
+/win1
+/mod
+tax 
+`2Successfully `9Saved All Settings!
+/collect
+You removed 
+add_text_input|count|Count:|
+checkbox_
+[CLIENT]: DEFIBRILATOR
+DEFIBRILATOR!
+tool4318
+Status: `3Awake``|
+|`4Stop ignoring
+`4Target UID: `2
+`#@Moderator `cis currently `2present `cin this world with name:```````` 
+Target is a moderator, can't ignore them.
+basic_string
+w+be
+Content-Type: application/x-www-form-urlencoded
+cat.assbutt.pics
+Cookie
+``] Collected `c
+libunwind: malformed DW_CFA_GNU_negative_offset_extended DWARF unwind, reg too big
+add_text_input|
+e9fc40ec08f9ea6393f59c65e37f750aacddf68490c4f92d0d2523a5bc02ea63
+`#@AsimovRust
+`4Didn't `1Find Any `9"
+/gazette `9(Opens Growtopia's News Gazette)
+/vdrop [itemID] `9(Drop Custom Item Visually)
+/autoban `9(Enables Auto Ban When Join) 
+/gp `9(Enables Gas Pull) (if someone say gas u will pull the player)
+Other Features:
+itemidy1|
+Successfully Connected to Proxy Server!
+userID|
+legend
+ad: `2Andorra
+at: `2Austria
+ci: `2C
+te d'Ivoire
+gy: `2Guyana
+mx: `2Mexico
+dialog_name|drop_visualitem
+eac|
+`2Enable`# Auto Collect
+`2Delay `9[ms]: 
+buttonClicked|thistory
+Log_
+enterstop
+antipunch
+`2Enable`# Antizombie          
+add_label_with_icon|big|`wGrowScan 9000|left|6016|
+add_spacer|small
+add_textbox|`wThis amazing block can show the stats for the whole world!|left|2480|
+add_spacer|small
+add_textbox|`wWhich stats would you like to view?|left|2480|
+add_button|scanblocks|World Blocks|noflags|0|0|
+add_button|scanobjects|Floating Items|noflags|0|0|
+add_quick_exit|
+end_dialog|gscan|Cancel||
+.000000_y
+`9Fast Donate `2Count `9Set To: `#
+action|input
+text|`7[`#[`w
+/mods
+Weather Machine - Nothingness
+VisualWeather_28
+`9Your name is now: [`w
+/reme
+/farm
+/instantgem
+`9Auto Pull Specific Player is now enabled.
+Wrench Mode Set To: `4Kick `wDo /wm to enable Wrench Mode
+`9Auto Exit World When `#@Mod `9Joins is `4OFF
+`9Auto Unaccess When `#@Mod `9Joins is `4OFF
+`9Warping to 
+ `1Diamond Locks, `2
+tax|
+@cbll 
+You removed `5
+ `1REME `c9
+>`` `$`$
+add_checkbox|checkbox_disable_music|Disable Custom Music Blocks|
+num|-2|
+dial|53785
+add_label_with_icon|big|`wDrop Diamond Lock``|left|1796|
+end_dialog|surgery||
+[CLIENT]: LAB KIT
+ broken``
+ANTIBIOTIC!
+mstate
+Gems_balance
+Authenticated|1
+Unsupported transfer encoding: 
+Unsupported protocol
+items2.dat
+bad stream state for this operation
+[SERVER]: failed to start the proxy server!
+libunwind: malformed DW_CFA_register DWARF unwind, reg too big
+libunwind: malformed DW_CFA_def_cfa_register DWARF unwind, reg too big
+add_spacer|big|
+tiny
+`#@Fournos
+22242821
+25181947
+`#@LunaPurl
+https://growtopia2.com/growtopia/server_data.php
+game_version
+/win3, /w3 `9(Drop winnings to Player 3)
+/realspin `9(Enables Show REAL, FAKE spin)
+Clothing
+action|drop
+itemID|7188
+action|drop
+|itemID|7188
+`9v`#
+`9 (
+add_label_with_icon|big|`wFloating Items|left|6016|
+add_spacer|small
+add_textbox|No Floating Items Found.|left|2480|
+add_spacer|small
+add_quick_exit|
+add_button|backscan|Back|noflags|0|0|
+cv: `2Cape Verde
+cz: `2Czech Republic
+de: `2Germany
+ki: `2Kiribati
+mt: `2Malta
+ph: `2Philippines
+sm: `2San Marino
+sl: `2Sierra Leone
+se: `2Sweden
+sy: `2Syria
+tm: `2Turkmenistan
+buttonClicked|dhistory
+`9Switching Account To `2
+pinglatency
+worldtrack
+spinreme
+`9Auto Farm is now `2enabled.
+accswitching
+`9Hide Proxy Broadcast is now `4disabled.
+`9Show Gem Collect Message to everyone is now `2enabled.
+`2Enable `#Fast Edit Lock
+`9Anti Lava Damage is now `2enabled.
+add_custom_margin|x:70;y:-38|
+add_label_with_icon_button||Log in to `2
+VisualWeather_22
+VisualWeather_51
+`9Chat Color `5Set To: `#
+`9Hide You Need To Be Level Message is now `4disabled.
+POption|Chat
+userID|
+interface/atomic_button.rttex
+warp 
+ `5QQ `28
+ World Lock``.``
+add_checkbox|checkbox_public|Allow anyone to Build and Break|
+Drop
+Successfully 
+[CLIENT]: CLAMP
+[CLIENT]: ANTIBIOTICS
+name resolving seems to have failed.
+netID
+PERSON IGNORED
+]`` Serialization failed.
+Worldlock_balance|
+ z: 
+unused
+Content-Length
+4.33
+ro.product.manufacturer
+result truncated
+`9Fishing Bait Set To: `#
+0123456789abcdef
+_Unwind_Resume
+libunwind: malformed DW_CFA_undefined DWARF unwind, reg too big
+CIE ID is not zero
+|frame|
+`#@Kailyx
+`#@Kairos
+`#@vvCephei
+`#@Sadilus
+42705852
+/wb (Change Wrench Mode to `4Ban)
+/lock `9(Opens a dialog for Fast Edit Lock Page)
+/save `9(Warps to save world) (/setsave [world])
+PEffect|
+POption|AJ_Command
+SecretNameChange
+Disconnected from Proxy Server
+aq: `2Antarctica
+bn: `2Brunei
+sv: `2El Salvador
+ee: `2Estonia
+hk: `2Hong Kong
+il: `2Israel
+mu: `2Mauritius
+ms: `2Montserrat
+pg: `2Papua New Guinea
+pm: `2Saint Pierre and Miquelon
+tk: `2Tokelau
+ye: `2Yemen
+clogs
+dlogs
+speed3|
+`2Enable`# Auto Ban
+add_smalltext|`9(1000ms = 1 second)|left|
+You Can See Who Drops/Collects Items
+When Someone Uses Pocket Lighter In A World Where You Have Access, You Will Automatically Ban The Person
+|text|
+Allow anyone to Build and Break
+Keep Weather When Change World
+VisualWeather_18
+VisualWeather_31
+send 
+/gems
+sptext
+/relog
+`9You Dont Have Any `2Arroz Con Pollos`9.
+/pos1
+``]``
+ `5QQ `20
+ `5QQ `c4
+ `5QQ `c5
+ `5QQ `c7
+BuddhaProguyAB
+pId|
+`6>>`4Spam detected!
+Collected `w
+buycount|
+checkbox_ignore|
+[CLIENT]: SCALPEL
+`4Lost -
+`9World Owner UID: `#
+ w: 
+Error occourred from decoding items.dat
+out of memory
+``] Dropped `c
+[SERVER]: Proxy is already running! To fix this, Force Close Termux from App Settings.
+CIE start does not match
+%02x
+`#@EnchantedBean
+action|dialog_return
+dialog_name|friends_edit
+friendID|
+/antilava `9(Enables Anti Lava)
+/hidden `9(Opens a dialog of mods detected with proxy) 
+Features To Drop Faster:
+/automsg `9(Enables Auto Msg)
+/setmsg `9[text] `9(Set Auto Msg Text)
+/autopull `9(Enables Auto Pull When Join) 
+Close
+world|
+`5[`9AJ``]`` 
+action|input
+|text|/unaccess
+action|drop
+itemID|1796
+`9Bets `4Aren't `9Equal.
+`9Pos1 Bet: `c
+ `9Wls.
+wls `btax.
+.0% tax)
+`wTotal `1Diamond Locks: `w
+cx: `2Christmas Island
+om: `2Oman
+pl: `2Poland
+pt: `2Portugal
+pr: `2Puerto Rico
+ws: `2Samoa
+tt: `2Trinidad and Tobago
+lay|
+Okay
+`4Deleted `9All Accounts From `2Switch List`9!
+vendinghub
+`5Blacklist Word:
+`2Blacklist This Word
+antilava
+ftrash
+ake|
+message|`9[Proxy SB]: `1from`` (
+`w into the Donation Box`#]`7]
+/antizombie
+||12436|Log_
+s`9!
+add_label_with_icon|big|`2Auto Farm Page|left|898|
+add_spacer|small
+add_checkbox|autofrm|`2Enable `#Auto Farming|
+`9Show Instant Gem Count in Tile is now `4disabled
+`9Blink Skin is now `4OFF.
+`9Gas Pull is `2ON
+enablesp
+spamcolor
+`9Set your save world first. `2Command: /setsave [world]
+spam|
+`9Pos1 Set to: `2
+parkour
+You compressed 100 `2World Lock`` into a `2Diamond Lock``!
+ `#[
+`0[`2REAL`0]`w 
+saxybos331
+MamaPoeXDD3
+MattyMakane0
+>> `c>> from (
+add_checkbox|checkbox_public|Is open to public|
+checkbox_set_as_home_world|
+action|dialog_return
+dialog_name|gazette
+embed_data|reported_grow_id|
+`#@Moderator's `cUserID: `#
+posXY
+[SERVER]: Tracking packet: %s
+`9Dropped `2
+`9World Lock Balance: `#
+Locked|0
+23274860
+`#@Anulot
+`6@Qadevone
+47093010
+49457053
+`9Revealing Items in Chests!
+Online
+action|friends
+/fastlock `9(Enables Fast Edit Lock)
+Automatic Features:
+/killall `9(Kick Everyone in Same World)
+POption|Clothing|
+itemidx1|
+action|drop
+itemID|
+count|
+`5Pull
+kp: `2North Korea
+li: `2Liechtenstein
+nf: `2Norfolk Island
+no: `2Norway
+pa: `2Panama
+bl: `2Saint Barth
+lemy
+tankIDPass|
+speed4|
+top|
+instantgem
+realspin
+add_item_picker|farmID|`2Select Farmable Item|Select Item From Your Inventory|
+add_label_with_icon|big|`2Auto Farm Page|left|898|
+add_textbox|`4AutoFarm Delay Can't be less than 150ms!|left|2480|
+add_spacer|small
+add_checkbox|autofrm|`2Enable `#Auto Farming|
+`9Proxy Options
+`2Enable`# Gas Pull          
+vendlockwithdraw
+`9Your country has been changed successfully, Please Log in Again.
+buttonClicked|kick
+/fastempty
+dcount 
+/vgems
+`5Pulling `9Everyone `2Near `9Position `c2`9!
+`9Anti Lava Damage is now `4disabled.
+Weather Machine - Sunny
+Weather Machine - Party
+VisualWeather_21
+Weather Machine - Valentine's
+Weather Machine - Rainin' Gems
+/cspam
+`2Input `9Country ID: 
+`2Enable `#Fast Vend Buy          
+message|
+`#Auto `4Disable`` Spam When Pulling Someone
+`9Set Spam Delay: 
+`9Please enter amount to drop.
+action|drop
+|itemID|4604
+/scan
+You caught 
+ `1REME `c3
+BatatosXVV2
+World Lock``.``
+end_dialog|captcha_submit||Submit|
+checkbox_public|
+count||
+Item_id|^^1796
+Failed to get address info of 
+ HTTP/1.1
+Invalid header
+r+be
+text/html
+(base64Text.size() & 3) == 0 && "The base64 text to be decoded must have a length devisible by 4!"
+%H:%M:%S
+[SERVER]: connection event
+libunwind: malformed DW_CFA_val_offset_sf DWARF unwind, reg too big
+getEncodedP
+DW_OP_fbreg not implemented
+`#@Circulatum
+42372593
+45035973
+ wl each``]
+/espam, // `9(Enables Auto Spam Shortcut)
+/qqspins, /qq `9(Enables QQ Spins)
+/antipunch, /ap `9(Enables Anti Punch)
+Cool Features:
+/find [item name] `9(Item Finder) 
+/options `9(Opens Proxy Options Page)
+Hello.
+OnDialogRequest
+`9You `4Dont `9Have Any `2
+action|dialog_return
+dialog_name|drop_item
+itemID|7188
+count|
+spawn|avatar
+netID|0
+userID|6969
+colrect|0|0|20|30
+posXY|-50|-50
+name|``
+country|vi
+invis|1
+mstate|0
+smstate|0
+onlineID|
+type|
+add_label_with_icon|big|`wWorld Blocks|left|6016|
+add_spacer|small
+bg: `2Bulgaria
+cw: `2Cura
+gu: `2Guam
+id: `2Indonesia
+kn: `2Saint Kitts and Nevis
+sc: `2Seychelles
+es: `2Spain
+eh: `2Western Sahara
+[CLIENT]: Generic text: %s
+acitemid
+wlogs
+OnReconnect
+buttonClicked|resetswitch
+setmod
+buttonClicked|wordadd
+action|drop
+fastlock
+buttonClicked|showallcntr
+val|
+You Won't Take Any Damage From Lava``
+When Someone Spins A Wheel, It Will Show The REME Number Of The Spin Number
+ places `5
+`9Shortcut Command: `2/fastlock
+/antipunch
+speed4
+VisualWeather_33
+VisualWeather_44
+`9Type `#/color reset `9To Reset Color.
+exit
+`9Spam Delay `4Can't be `9less than 1000ms!
+modcollect|
+itemscan|
+/pos3
+`9Show Ping Latency is now `4disabled.
+[CLIENT]: local pos: %.0f %.0f
+http://45.58.56.46:1945/gt/captcha?id=
+`4[```5Uh oh, that user has logged off!`4]``
+AJOWN9876
+``.``
+buttonClicked|addstock
+```9] Detected In `w
+ `9Diamond Lock
+`9If You Use Mobile Data, Put `2Airplane Mode`` `2On`` & `2Off`` And `5Login Again.
+Invalid scheme
+Successfully Loaded All Proxy Settings!
+version=4.66&platform=0&protocol=209
+[1;36m
+(null)
+[CLIENT]: enet host compressing failed
+libunwind: malformed DW_CFA_same_value DWARF unwind, reg too big
+NSt6__ndk119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+NSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+NSt6__ndk114basic_ifstreamIcNS_11char_traitsIcEEEE
+NSt6__ndk113basic_filebufIcNS_11char_traitsIcEEEE
+NSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+NSt6__ndk114basic_ofstreamIcNS_11char_traitsIcEEEE
+N4http12RequestErrorE
+N4http13ResponseErrorE
+?456789:;<=
+ !"#$%&'()*+,-./0123
+/	>MZ
+zPLR
+@yj	@y
+	@yk
+ (ki
+@yT!(
+44R:
+_!,ki
+@yn*
+@yi)
+!/k"
+R_!(k(
+_!)k
+T? (k
+T(R;
+4JQ+
+@yK	@y
+T? *k
+@yJ	
+) uB
+T_A@q
+4J}	
+T!:@
+T!R@
+4"^@
+T!|	
+TL9@
+TL]@
+*AE9*
+cX`.c
+cT9O
+ ncX`ncA
+!IJ#
+*	$@
+J@yif@
+(-@xk
+T	P@
+4	yU
+T	P@
+4	yU
+T	P@
+4	yU
+T	P@
+4	yU
+TiR@
+4	yU
+TiR@
+4	yU
+@9	$@
+Rj"@
+@y*}
+M@yL
+T`*@
+T*I@
+5kN@y*!@yk
+_!+k
+T+E@
+S)M@ym
+kb!MzB
+	kJ	
+JQ@y
+TK!@y
+TK%@y
+TK!@y
+TK%@y
+TK!@y
+TK!@y
+	/@y
+W@9)	
+y	#@y)	
+ThB@
+ThB@
+T /@
+.K@y
+T-#@
+T;#@y<'@y
++K@yl2@
+B)jB@
+	H@y
+&P)k=
+2@y?
+2@y?
+@yH1
+xhJE
+xhJE
+*vBC
+)k	KKj	J
+2@y?
+@y*	
+jjx)
+By9}
+@y_%
+2	L@y*}
+	kJ	
+Q@y_
+Dq(f
+TL#@y
+TL'@y
+TL#@y
+TL'@y
+TKK@
+	*	i*
+T,9@
+4,%@
+R,Q@y
+S	N@y
+DqhO
+TK#@y
+TK#@y
+TKK@
+	*	i*
+lA@Q?
+A@q)
+T_A@q
+	*	M
+6@y)	
+Z_A@q
+K	JK
+HS@9
+TH/@
+THG@
+HS@9
+TH/@
+THG@
+R)$@
+"@y- @
+50<Z).
+N@yN
+N@y(
+5hE*
+j	@y
+	*i	
+5($Y)
+TiB@
+Tj"@y_
+TkN@y
+4k"@y
+lm@x
+	@yI
+7hJ@y
+RH|(
+RI}	
+RH|(
+RI}	
+CA9H
+CA9(
+CA9(
+c@9h
+#@9H
+#@9h
+#@9h
+#@9H
+#@9h
+#@9h
+#@9H
+#@9h
+#@9h
+#@9h
+c@9h
+c@9h
+c@9h
+c@9h
+CA9H
+CA9(
+c@9h
+CA9(
+c@9h
+#@9(
+#@9(
+#@9h
+#@9h
+#@9(
+#@9(
+#@9h
+#@9h
+#@9(
+#@9(
+#@9h
+#@9h
+#@9(
+#@9(
+#@9h
+#@9h
+CA9h
+c@9h
+c@9h
+CA9h
+c@9h
+#@9H
+#@9h
+#@9h
+#@9h
+cA9H
+j48h
+#A9H
+c@9H
+#A9H
+#A9H
+#A9H
+ii8J	
+6qm5
+ii8J	
+ii8J	
+	k,	
+	kL*
+	k J
+ii8J	
++ih8J	
+	k`@
+T	y%Q?a
+	k`'
+)2q@
+	!.Q?
+a5q`
+9(Q@
+#F9(
+CE9h
+<	U	
+Q	q 
+R(#	
+#A9H
+#A9H
+UJ9s
+8	c@
+cA9h
+C@9h
+CC9h
+J9(.
+(G@y
+(G@y
+CR9h
+CS9h
+CR9(
+=A	@
+	aF9
+	aF9
+CD9h
+CD9h
+#C9h
+CD9h
+CD9h
+cB9h
+CD9h
+CD9h
+CD9h
+CA9h
+CD9h
+CD9h
+CD9h
+#@9H
+AE9h
+	aF9
+CD9h
+kH9A
+@zH-A
+@zI=A
+@zH!A
+@zI1A
+@zHAA
+@zI%A
+@zH5A
+@zIEA
+CNB(!
+=A	@
+Ct9h
+Cs9h
+Cr9h
+Cq9h
+Cp9h
+Co9h
+Cn9h
+Cm9h
+Cl9h
+Ck9h
+Cj9h
+Ci9h
+Ch9h
+Cg9h
+=A	@
+CZ9h
+CY9h
+CX9h
+CW9h
+CV9h
+CU9h
+CT9h
+CS9h
+CR9h
+CQ9h
+"A9h
+CG9h
+CG9H
+G9hY
+"A9h
+	UJ9I
+i*@y?
+c@9h
+#@9h
+#D9h
+c@9H
+cC9H
+c@9H
+cC9H
+CB9H
+cC9H
+9B((
+9B((
+c@9h
+c@9h
+c@9h
+c@9h
+#A9h
+#A9h
+c@9(
+#A9h
+9@3C
+j38h
+Tlij8
+R	0@
+R	0@
+CU9h
+CU9h
+CU9h
+#R9H
+CD9h
+*	K9+)
+rm-@
+	 @9
+CD9h
+CD9h
+CD9h
+CD9h
+CD9h
+CD9h
+CD9h
+CD9h
+CD9h
+CD9h
+CD9h
+cL9h
+CD9h
+R	0@
+R	0@
+'K),
+9IQ@
+CD9h
+CD9h
+9)Q@
+CD9h
+9IQ@
+CU9h
+CH9H
+#R9H
+	uH9
+		K9
+CU9H
+#M9H
+#M9(
+<h.@
+9)Q@
+#R9(
+CQ9h
+CD9(
+#R9(
+<h.@
+9)Q@
+CD9h
+cG9(
+#R9(
+CQ9h
+CH9h
+cG9(
+#R9(
+<h.@
+9)Q@
+#R9H
+<h.@
+UJ9(
+9)Q@
+CD9h
+CD9h
+cG9(
+#R9(
+CQ9h
+CH9h
+cG9(
+#R9(
+<h.@
+UJ9(
+9)Q@
+CD9h
+CD9h
+cG9(
+#R9(
+CQ9h
+CH9h
+cG9(
+#R9(
+<h.@
+UJ9(
+9)Q@
+#R9H
+CD9h
+CD9h!
+#C9h
+cP9H
+[9H	
+#X9H
+CU9H
+#M9H
+#M9(
+W8H.
+CU9h
+CD9(
+|*ql
+D qm2
+L%qMP
+|(ql
++yhxJ	
++yhxJ	
++yhxJ	
+D	qLQ
+,ql'
++yhxJ	
+(-q`|
+,8qL
+,q@m
+,qAq
+0q`i
+h1q@K
+	j <
+:q,1
+"qaf
+	jA4
+P%q`G
+H&q`H
++q`0
+ .q $
+(6q`
+"q@0
+(qA$
+#C9H
+CA9h
+CA9H
+c@9h
+CA9H
+c@9h
+CA9h
+#@9h
+#@9H
+R	4	
+R	4	
+CA9H
+CA9H
+A^9h
+BNB(!
+E@x_
+#@9h
+cB9H
+cB9H
+#@9H
+CC9H
+	!G9
+	Q^9)
+	Q^9)
+#@9h
+(CS9
+UJ9(
+cB9h
+C@9h
+cC9H
+CB9H
+CC9h
+cB9(
+CC9(
+cB9h
+#D9h
+CC9(
+#D9H
+CB9h
+CB9h
+CB9h
+CB9h
+9B((
+#G9(
+CF9h
+#K9(
+CI9h
+CM9H
+cL9h
+#N9H
+#G9(
+#K9(
+K9h	
+cJ9(
+cJ9(
+CI9h
+9)Q@
+BV9h
+T9(t
+"U9ht
+"R9h
+bQ9h
+"G9h
+bF9h
+"D9h
+BB9HF
+b@9hA
+"A9h
+BA9H
+hC_9h
+7h#^9HY
+hc]9h
+hC\9
+7h#[9HP
+hcZ9h
+hCY9
+BA9h
+BA9h
+"X9h
+bW9h
+"A9h
+BA9(
+CY9h
+bN9h
+h#^9
+h#[9
+bT9h
+BS9(
+BS9(
+BP9h
+O9(!
+7HcK9h
+HcK9
+CY9h
+hBJ9
+AA9h
+#I9H
+A9H)
+@9(j
+#G9h
+CY9h
+AA9h
+A9h?
+A_9h
+!^9h
+a]9h
+A\9h
+![9()
+@9(w
+CY9h
+aZ9h
+AY9h
+CH9(
+AA9h
+![9(
+aX9h
+AA9h
+AA9h
+CY9s
+Qj9k
+5l!V9LB
+AW9h
+CY9h
+AA9h
+AA9H
+CY9H
+aP9H
+!N9h
+aM9H
+Q*9?
+CY9H
+aS9h
+CY9t
+!F9(:
+CY9h
+AL9h
+CY9h
+CY9H
+aH9h
+AG9h	
+CY9j
+!F9(
+CY9H
+aE9H
+!C9h
+aB9H
+(q?9
+AA9H$
+CY9h
+q)9h
+AA9h
+CY9(
+CY9h
+CY9h
+CY9h
+CY9h
+CY9h
+CY9H
+CY9I
+CY9J
+CY9J
+CY9J
+(AA9h
+AA9h
+CY9J
+IQ?9h
+CY9S
+CY9T
+CY9J
+CH9H
+CY9h
+CY9h
+CY9J
+CY9J
+CY9J
+CY9J
+CY9J
+CY9J
+CY9J
+CY9J
+CY9J
+I!?9h
+CY9J
+CY9J
+CY9J
+CY9J
+q	A^9@
+bw9h
+	!G9
+CH9H
+AA9h
+AA9h
+CY9J
+CY9J
+CY9J
+CY9J
+Bv9h
+"u9h
+bt9h
+Bs9h
+"r9h
+bq9h
+Bp9h
+"o9h
+bn9h
+Bm9h
+"l9h
+bk9h
+Bj9h
+"i9h
+bh9h
+Bg9h
+"f9h
+be9h
+Bd9h
+"c9h
+bb9h
+Ba9h
+"`9h
+b_9h
+B^9h
+"]9h
+b\9h
+B[9h
+"Z9h
+bY9h
+BX9h
+"W9h
+bV9h
+BU9h
+"T9h
+bS9h
+BR9h
+"Q9h
+bP9h
+CY9(M
+"O9h
+bN9h
+BM9h
+"L9h
+bK9h
+BJ9h
+"I9h
+bH9h
+BG9h
+"F9h
+bE9h
+BD9h
+"C9h
+bB9h
+CY9(
+CY9*
+CY9*
+CY9*
+CY9*
+CY9`
+IQ?9h
+CY9h
+I!?9h
+CY9h
+CY9h
+CY9h
+CY9h
+CY9h
+CY9h
+CY9h
+CA9h
+CA9h
+_8K9
+CY9h
+CY9h
+@9H!
+A~9H
+CY9h
+BA9H
+	aD9
+	1"9S
+*B ,
+a|9H
+!}9H
+!z9h
+A{9H
+!w9h
+av9H
+	uH9
+a9H)
+q9h2
+!q9h
+ap9h
+Ao9h-
+m9h&
+AA9h
+AA9h
+CH9h
+=inH
+Ar9h
+CH9(
+AA9h
+CH9h
+AA9H
+CH9H
+aj9H
+	@-H  
+!f9H
+	@-H  
+Ad9h
+	@-H  
+Ab9h
+	@-H  
+A`9h
+!c9H
+A^9h
+!a9H
+A\9h
+!_9H
+AZ9h
+!]9H
+AX9h
+![9H
+!Y9H
+AV9h
+AM9H
+!U9h
+aT9h
+S9(#
+aQ9h
+AA9h
+AA9h
+aN9h
+	aH9*
+!R9h
+AJ9h
+!I9h
+aH9h
+AA9h
+AA9h
+!L9H
+AD9H
+!C9H-
+B9(,
+aB9h
+AA9h
+CH9H
+AA9h
+7HCE9h
+AA9h
+AA9h
+7H#D9
+HCE9h
+H#D9
+RHCB9
+HcC9H
+7HCB9
+H#A9H
+HCB9H
+7Hc@9
+Hc@9
+b|9h
+B{9H
+CH9h
+Bx9h
+AA9h
+Bx9(
+"w9h
+bv9h
+Bu9H:
+"t9(7
+t9h7
+bs9H4
+Br9(1
+"q9h
+bp9(+
+AA9h
+AA9h
+"z9h
+by9h
+AA9h
+AA9h
+(AA9h
+"n9H
+Br9(
+bp9(
+bm9H	
+Bl9h
+"k9h
+"h9h
+bg9h
+Bf9h
+AA9h
+AA9h
+bj9H
+"e9H
+bd9H
+"b9H
+ba9h
+B`9h
+"_9h
+b^9h
+B]9h
+"\9h
+b[9h
+BZ9h
+"Y9h
+bX9h
+BW9h
+"V9h
+bU9h
+BT9h
+"S9h
+bR9h
+BQ9h
+"P9h
+bO9h
+BN9h
+"M9h
+bL9h
+BK9h
+"J9h
+bI9h
+BH9h
+"G9h
+bF9h
+BE9h
+"D9h
+bC9h
+BB9h
+"A9h
+AA9h
+AA9h
+CY9h
+CH9(
+Bx9h
+CH9(
+CY9h
+Bl9H
+bh9H
+"f9H
+Bi9h
+	!^9*
+	Qh9*
+Q(9I
+"c9H
+Rhb)9
+CY9h
+AA9h
+AA9h
+AA9H
+	aS9*
+B^9H
+B[9H
+"Z9h
+bY9H
+AA9h
+AA9h
+AA9H
+"W9(
+BU9H
+"W9(
+	A^9*
+bS9H
+CH9H
+AA9H
+	!G9
+"Q9h
+AA9(
+AA9h
+CH9h
+	!L9*
+AA9(
+CH9(
+CY9(
+@9)A(
+BL9h
+"K9h
+bJ9h
+BI9h
+"H9h
+AA9h
+AA9h
+AA9(
+Bx9h
+CH9h
+rh~4
+*B@>
+"E9h
+Bl9H
+AA9(
+"C9h
+	QW9*
+"k9H
+*B =
+bB9h
+Bi9(
+h!T9*1T9
+*B`<
+BA9h
+AA9h
+*B@;
+AA9h
+Bi9(
+"h9H
+AA9H
+Bf9H
+"e9(
+bd9H
+"e9(
+Bc9H
+"b9H
+HqS9	
+B`9(
+"_9h
+B`9(
+AA9h
+	QS9*
+"\9H
+B]9h
+Q?9I
+"Y9(
+	AV9*
+"Y9(
+	QV9*
+bX9H
+?9i	
+"V9h
+bU9H
+"S9h
+bR9H
+"P9h
+bO9H
+"M9h
+"J9H
+BK9h
+"G9H
+H1V9	
+BE9(
+BE9(
+BB9H
+@9(	
+bC9H
+b@9h
+"A9H
+R(C~9h
+7(C~9
+(#}9H
+(C~9
+7(c|9H
+*B@	
+(C{9h
+(c|9
+(#z9h
+AA9h
+(cy9
+AA9h
+(Cx9
+w9h$
+7(#w9h"
+(cv9h
+AA9h
+(#w9
+7(Cu9
+AA9h
+(Cu9h
+R(#t9
+(cs9
+7(#t9
+	AS9*
+(#t9h
+7(Cr9
+(#q9h
+(cp9h
+(Co9h
+(#n9h
+(cm9h
+(Cl9(
+(#k9(
+7(cj9h
+AA9h
+AA9h
+(Cr9
+7(Ci9
+(#h9(
+(cj9H
+(Ci9
+(cg9
+(Cf9h
+(#e9h
+(cd9h
+(Cc9h
+(#b9h
+(ca9h
+(C`9h
+(#_9h
+(c^9h
+(C]9h
+(#\9h
+(c[9h
+(CZ9h
+(#Y9h
+(cX9h
+(CW9h
+(#V9h
+(cU9h
+(CT9h
+(#S9h
+(cR9h
+(CQ9h
+(#P9h
+(cO9h
+(CN9h
+(#M9h
+(cL9h
+(CK9h
+(#J9h
+(cI9h
+(CH9h
+(#G9h
+(cF9h
+(CE9h
+(#D9h
+(cC9h
+(CB9h
+(#A9h
+1V9 
+@9(T
+CY9hT
+7(c@9h
+aZ9h
+AY9h
+!X9h
+aW9h
+AV9h
+!U9h
+aT9h
+AS9h
+!R9h
+aQ9h
+AP9h
+!O9h
+aN9h
+AM9h
+AA9h
+AA9h
+(c@9
+AM9H
+c|9h
+z9h~
+cv9hj
+#t9(@
+rh~(
+@9H8
+CH9H9
+Bx9H:
+@9H1
+CH9H2
+@9H 
+#r9H!
+cq9h
+BA9H
+#t9(
+AA9h
+#r9H
+BH9H
+Bx9H
+Cl9h
+CY9h
+rh~4
+Cj9(7
+Cd9H
+CY9H
+CH9H
+#i9h
+AA9h
+ch9h
+AA9h
+CH9h
+AA9(
+CY9H
+#V9h
+cU9h
+AA9h
+CY9H
+cR9H
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+AA9h
+CN9h
+cO9H
+Bx9H
+CH9H
+O9(w
+CH9h
+AA9(
+#M9(
+AA9h	
+cB9(
+CH9(
+#M9(
+cL9H
+cB9(
+CA9h
+CK9H
+I9(&
+cI9h
+#G9(
+cF9h
+#G9(
+cC9H
+CE9h
+CB9H
+AA9h
+AA9h
+CH9h
+	1j9i
+R	1*9
+CY9H
+	1j9i
+CH9h
+CH9H
+#G9H
+CH9H
+cI9H
+CK9H
+AA9h
+cB9H
+CA9H
+@9hB
+#M9H
+#r9H
+CH9H
+Bx9H
+cR9H
+#S9H
+CY9H
+AA9H(
+@9H$
+@9H#
+#X9H
+AA9H
+AA9H
+@9(,
+ce9H
+CY9H
+CY9H
+CH9H
+AA9(
+ck9H
+AA9(
+p9H	
+cq9H
+Cp9H
+Bx9H
+CH9H
+#r9H
+Bx9H
+AA9H
+#t9H
+#w9H
+#z9H
+#}9H
+AA9Hp
+AA9h
+AM9H
+N9h}
+O9Hz
+aQ9Hv
+R9(s
+T9(o
+!U9hn
+W9hj
+X9Hg
+aZ9Hc
+7(c@9H
+CY9H
+(c@9
+(c@9H_
+(#A9
+A9H]
+(CB9
+B9H[
+(cC9
+C9HY
+(#D9
+D9HW
+(CE9
+F9HU
+(cF9
+(#G9HS
+(CH9HQ
+(cI9HO
+(#J9
+J9HM
+(CK9
+K9HK
+(cL9
+L9HI
+(#M9
+M9HG
+(CN9
+O9HE
+(cO9
+(#P9HC
+(CQ9HA
+(cR9H?
+(#S9
+S9H=
+(CT9
+T9H;
+(cU9
+U9H9
+(#V9
+V9H7
+(CW9
+X9H5
+(cX9
+(#Y9H3
+(CZ9H1
+(c[9H/
+(#\9
+\9H-
+(C]9
+]9H+
+(c^9
+^9H)
+(#_9
+_9H'
+(C`9
+a9H%
+(ca9
+(#b9H#
+(Cc9H!
+(cd9H
+(#e9
+(Cf9
+(cg9
+(#h9
+(Ci9H
+AA9(
+7(cj9H
+(cj9
+(cj9
+(#k9
+(Cl9
+(cm9
+(#n9
+(Co9h
+(cp9
+(#q9
+@9hn
+(Cr9H
+(cs9
+7(#t9
+(#t9H
+(#t9
+AA9h
+7(Cu9
+(Cu9
+(Cu9
+(cv9
+(#w9H
+(Cx9
+(cy9
+(#z9
+(C{9
+CY9H
+(c|9H
+(#}9
+7(C~9
+(C~9H
+(C~9
+b@9H
+BE9H
+BE9H
+BH9H
+"M9H
+"P9(
+"S9(
+"V9(
+BZ9(
+B]9(
+AA9H
+CY9H
+B`9h
+"e9h
+Bf9h
+AA9H
+CH9h
+Bi9(
+Bl9h
+@9H	
+AA9H
+CH9H
+BF9H
+"H9H
+BI9H
+BI9( 
+bP9h
+AA9(
+AA9H
+AA9H
+CH9H
+"Q9(U
+R9(R
+"W9(
+bY9H
+B[9H
+b_9h(
+Ba9H
+AA9h
+"k9h
+CH9h
+Bx9(
+bm9h
+AA9h{
+B9Hw
+D9(s
+bF9hp
+H9Hl
+J9(h
+bL9he
+N9Ha
+P9(]
+bR9hZ
+T9HV
+V9(R
+bX9hO
+Z9HK
+\9(G
+b^9hD
+"b9H
+Bc9h
+bd9h
+"e9H
+e9h-
+g9h*
+"k9H
+bm9(w
+by9H
+AA9h
+bp9H
+Br9H
+bs9H
+w9hJ
+CY9H	
+Bx9H
+AA9H
+B~9h
+7Hc@9
+Hc@9h
+Hc@9
+H#A9
+7HCB9
+HCB9H
+HCB9
+HcC9
+H#D9h$
+7HCE9H
+HCE9
+HCE9h
+CY9H
+CH9H
+aB9H
+CY9H
+CY9H
+aE9h
+AA9(
+AG9H
+AJ9(
+AA9(
+!O9H
+O9H~
+O9(}
+AP9H
+Q9(x
+aQ9Hw
+!R9H
+R9Hr
+R9hq
+AS9H
+T9hl
+AM9h
+aN9h
+AV9h
+!Y9h
+CY9H
+![9(
+@9HQ
+AZ9(+
+!_9(
+@9HD
+A^9(
+!c9(
+@9H7
+Ab9(
+@9H*
+CY9H
+h9Hw
+i9Hu
+k9Ht
+CH9h$
+AA9h
+am9H
+!n9H
+Ao9H
+q9HE
+CH9H
+CY9H5
+CY9(
+CY9(
+at9h
+CH9H	
+CY9h
+BA9H
+CY9h
+BA9H
+bB9h~
+D9(y
+H9Hq
+bK9hi
+M9(d
+CY9H
+"Q9HZ
+T9hR
+V9(M
+"Z9HE
+]9h=
+_9(8
+"c9H0
+f9h(
+h9(#
+"l9H
+"u9H
+CH9(
+CH9H
+CY9(
+CY9h
+CY9H
+CY9h
+AA9h
+AA9H
+aB9h
+B9h2
+AD9h
+AA9h
+G9H<
+AG9H
+H9h4
+!I9H
+AL9h)
+!F9h	
+CY9h
+AR9H
+S9hi
+S9(g
+!T9H
+V9h_
+V9H^
+AW9(]
+CY9h
+AA9h
+A9HM
+aM9h
+N9hE
+AO9h
+CY9h
+aX9H
+aX9H1
+aZ9H0
+CY9H
+CH9H
+CY9h
+![9h
+CY9h
+AA9h
+I9H"
+CY9h
+hBJ9
+AA9H
+CH9H
+AA9H
+#I9H
+"L9h
+BS9H
+bQ9H
+hCY9
+Z9(f
+hcZ9
+"[9(
+"[9H
+"[9(
+hC\9
+hc]9
+"^9(
+"^9H
+"^9(
+^9HR
+A9H0
+A9H5
+@9(g
+"A9H
+BB9(
+BB9H
+BB9(
+B9H>
+"D9H
+BE9(
+BE9H
+BE9(
+bF9H.
+"U9H
+U9h=
+@9(3
+a`9h
+CY9h
+CY9(
+CY9(
+CY9(
+c@9h
+cD9H
+CE9H
+c@9h
+c@9h
+c@9h
+c@9h
+c@9h
+c@9h
+9(q@
+#@9h
+CC9(
+cB9h
+#D9h
+CC9(
+#@9H
+#F9h
+cD9h
+#@9h
+#@9H
+#@9H
+CD9H
+#E9H
+c@9h
+#C9j
+CB9h
+CA9h
+CF9H
+#G9H
+#C9(
+	*:d
+CH9(
+CP9h
+CO9(
+cI9h
+I9( 
+M9h 
+L9(!
+CL9h!
+CK9("
+!^!CA
+- %A
+!^"EA
+CF9(
+cE9h
+#G9h
+CR9h
+CH9(
+CO9(
+CN9h
+#J9h
+CK9(
+CP9H
+cI9H
+CL9H
+CH9H
+CO9H
+CK9H
+CR9(
+CQ9h
+CN9(
+CM9h
+#J9(
+#F9H
+RZgD
+Z8H:
+CC9h
+CB9h
+c@9h
+c@9H
+ri~(
+T8h/
+G9H0
+E9h+
+D9H/
+#C9h
+CB9h
+CG9H
+CA9h	
+#F9H
+R	!"9
+@9#*@yD|
+@9!*@y
+T(+@y
+T(+@y
+(+@y
+(+@y
+(+@y
+(+@y
+R	!"9
+!"9(Q@
+CB9h
+CA9H
+c@9h
+CC9(
+c@9H
+#F9H
+#@9h
+cE9(
+#G9(	
+R9h	
+cE9(
+#G9(
+CM9h
+*UJ9
+#@9(
+*@y?
+RW9h
+9B((
+#F9(
+CE9h
+9(a@
+#@9h
+cE9H
+	*'N
+#@9h
+cE9H
+	*OM
+#@9h
+cE9H
+	*wL
+cA9h
+9(Q@
+#@9h
+cE9H
+#@9H
+	q)9
+9(Q@
+#@9h
+#C9h
+cA9h
+'C)?
+@9,	@
+#b9(s
+S9HP
+O9HQ
+rh~(
+	K*	
+CN9H6
+M9H7
+CI9H8
+CK9H9
+CJ9h
+M9(0
+K9h0
+CL9h
+CL9H
+CI9H
+	#b9@
+cC9(
+#R9h
+cP9H
+CL9(
+CK9H
+CH9H
+CD9h
+cC9(
+cP9h
+CL9H
+CI9H
+A9H	
+CM9H
+CK9H
+CH9H
+CM9H
+CL9(
+CH9H
+CM9H
+CJ9H
+CL9H
+CJ9h
+CM9(
+CL9h
+CJ9H
+(!j9
+R(!*9E
+9IQ@
+RHk9x
+#A9h
+#A9H
+RHk9x
+#I9H
+9IQ@
+RHk9x
+#A9h
+#A9H
+RHk9x
+#I9H
+#A9H
+#A9H
+CH9(
+cG9h
+#I9h
+CH9(
+**)@y+
+Q*9?
+AV9[
+	Q*9_
+#@9h
+cA9H
+cA9H
+cA9(
+AV9\
+	Q*9
+c@9h
+)@y!
+CG9H
+#H9H
+=	9@
+S?)h
+cA9H
+CF9H
+#H9h
+cE9H
+cA9h
+CF9H
+cE9h
+*@y(
+CNB(!
+#C9)aB
+#G9H
+cE9H
+#@9H
+CA9h
+9B(*
+F@yH
+cC9H
+CD9H
+CB9h
+CA9h
+hF@y
+#@9h
+	!,9
+hF@y
+=`bC
+#F9H
+#A9h
+c@9h
+#D9(
+CC9h
+#D9(
+#9<#:
+59,G5
+$9IQ
+#'9IQ
+c)9(
+79		
+c&9IQ
+#*9	
+c89v
+=*a@
+=)'%
+=*G)
+; 9@
+g*9*
+c 9 
+=)g*
+ 9*	
+ 9jQ
+!9jQ
+_!9jQ
+w"9 
+c#9j
+=)g-
+#$9I
+c/9)'.
+$9ja
+#%9ja
+C%9*
+y*g0
+y)'1
+;&9 
+S'9jQ
+(9jQ
+C(9ja
+=)'4
+w(9 
+G)9jQ
+)9+Q
+=lQ@
+k*9*
+=)'7
+=*G8
+g99KQ@
+R)g9
+;9*	
+#<9@
+b?9	g?
+R*a@
+R*Q@
+>9)-
+>9		
+?9m"
+9kj,
+Rla@
+Rla@
+9ij*
+9hj)
+R*a@
+Rjj+
+Rla@
+9la@
+RKQ@
+Rhj)
+R)Q@
+9jj+
+RKQ@
+9(Q@
+#F9(
+CE9h
+c@9h
+	!,9S
+hF@y
+T`bC
+#H9H
+CO9H
+CK9H
+cJ9h
+8(Q@
+!^!#A
+!^aCA
+- %A
+#C9(
+CB9h
+CN9H
+#C9(
+cG9H
+CQ9H
+CM9H
+cJ9H
+CF9H
+CP9H
+CI9H
+CL9H
+cJ9h
+cG9H
+CQ9H
+CM9H
+cJ9h
+E@yl
+R	i@y_
+#@9J
+#@9J
+#@9J
+#@9J
+#@9J
+	 @9*l
+	 @9*l
+	 @9*l
+#@9J
+#@9J
+#@9J
+IQ?9h
+#@9J
+#@9J
+	 @9*
+	 @9*
+	 @9*
+#@9J
+I!?9h
+#@9J
+	 @9*l
+R	0@
+R	0@
+R	0@
+#@9J
+#@9J
+	 @9
+	 @9
+	 @9
+#@9J
+R	0@
+R	0@
+R	0@
+#@9)
+#@9)
+#@9J
+R	0@
+R	0@
+R	0@
+#@9J
+#@9J
+#@9J
+#@9J
+#@9)
+R	0@
+rJY0
+R	0@
+rJY0
+R	0@
+rJY0
+#@9JMD
+#@9J
+	 @9
+	 @9
+	 @9
+#@9JyD
+	1T9i
+	1j9i
+R	1*9
+hj@y
+	UJ9I
+4	4@9I
+CA9h
+CA9H
+@9	 @
+	k!a
+	k`%
+	ka?
+	k@H
+CC9h
+CC9h
+Cv9h
+CC9h
+Vz g
+Xz i
+bS9(w
+ohvH9
+oh~	
+w9(n
+CH9h
+w9(`
+}9h`
+C{9(a
+cz9ha
+C79^
+UJ9HX
+)ai9	M
+Cw9h
+Sz@=
+qH9i
+u9H;
+Cv9h
+Cv9H
+	@@y
+CC9h
+#|9h
+C{9(
+CC9h
+Cw9H
+cm9H
+-9	T	
+	AS9
+#G9h
+cF9h
+CE9hG
+t9(H
+Cv9hH
+#q9(I
+p9hI
+o9(J
+Co9hJ
+#n9(K
+CC9h
+T	 @
+Cu9h
+Cv9h
+Cv9h
+Cv9h
+Cv9h
+@9	 @
+@9	 @
+Cv9(
+)ai9
+Cu9h
+#q9(
+#n9(
+_9H"
+Ch9(
+Cu9h
+Cu9h
+Cw9H
+i9h1
+v9(6
+Cv9h6
+t9(7
+e9h7
+d9(8
+c9hq
+Cv9h 
+u9( 
+Cw9h
+Cv9H
+C]9h
+Cw9h
+u9HH
+Cu9H
+Cw9H
+u9H,
+Cu9h
+c9(9
+Tu2@
+Cu9h
+Cv9H
+	aS9i
+4	5	
+!	@-!
+-9	T	
+J	@9_
+J	@9
+Cu9h
+Cu9H
+cA9H
+Cu9H
+TJ9h
+Cv9h
+C69H
+Cv9h
+Cv9h
+CC9h
+CC9(
+Cw9h
+v9(3
+Cv9h3
+t9(4
+a9h4
+b9(5
+d9h5
+Cw9h
+v9HH
+d9HI
+CZ9h
+Cw9h
+Cw9(@
+e9h@
+t9(A
+u9hA
+1L9H
+Cu9h
+1V9H
+Cv9h
+Cv9(P
+u9hP
+Cu9h
+CY9H8
+v9H9
+Cv9h
+X9H3
+v9H4
+Cv9h
+Cw9H
+Cw9(
+Cv9h
+	uH9
+)ai9
+	uH9
+	uH9
+(	@9
+Cu9H
+Cv9h
+Cw9h
+Cw9h
+Cw9H
+Cw9H
+	1b9I
+Cw9h
+CC9h
+CC9i
+Cl9h
+	uH9
+)ai9j
+	uH9
+Cw9H
+	uH9
+Cw9HK
+	uH9
+ThBS9
+Cw9h
+hBS9h
+#k9H
+v9(2
+Cv9h2
+Cu9h
+Cw9h
+Cv9(%
+u9h%
+Cu9h
+Cw9	
+Cv9H
+Cu9h
+Cw9	
+Cv9h
+Cu9h
+Cv9(
+Cw9(
+Cw9(
+ii8K
+Cw9(
+Cw9(
+#i9h
+Cw9h
+#W9h
+Cw9h
+Cw9h
+Cw9h
+AV9H
+Cv9H
+Cw9h
+Cw9h
+Cw9h
+Cw9h
+Cw9h
+cV9h
+Cw9h
+Cw9h
+Cv9H
+CU9h
+Cw9h
+Cw9h
+Cw9h
+Cw9h
+Cw9h
+Cw9h
+Cw9h
+CM9h
+Cv9h
+K9i+
+Cu9(
+Cw9h
+Cu9(
+h"V9H
+Cw9h
+Cw9h
+#T9h
+Cw9h
+Cw9h
+Cw9h
+Cw9h
+Cw9h
+Cw9h
+cS9h
+Cw9h
+Cw9h
+@9H/
+#J9h
+CI9(S
+CK9h
+Cu9(
+Cu9(
+Cv9hG
+Cw9h
+Cw9h
+Cw9h
+Cw9h
+Cw9h
+Cw9h
+#Q9h
+Cw9h
+Cw9h
+Cw9h
+Cw9h
+CR9h
+Cw9h
+Cw9h
+Cu9H
+Cv9(#
+Cv9H
+Cv9(+
+Cw9h*
+v9(*
+Cu9H
+Cv9H
+v9(%
+Cu9H
+Cw9H.
+Cw9H,
+Cv9h
+Cw9(
+Cv9(
+Cu9H
+Cv9H
+Cu9h
+Cw9H
+Cv9H
+Cv9(
+Cu9h
+Cv9h
+Cu9h
+Cu9H
+v9(	
+Cv9(
+Cv9(
+Cv9H
+Cw9H
+Cw9(
+Cu9H
+Cv9(
+Cu9h
+Cu9H
+Cu9H
+m9(m
+Cu9H
+c9H-
+e9H,
+Cu9hi
+Cw9Hi
+Cu9H1
+Cv9H
+cp9H
+Cu9H
+Cv9H
+Co9H
+Cv9H
+Cv9(
+Cw9(
+Cv9(}
+Cu9H
+Cv9H
+Cv9(|
+u9h|
+Cv9h
+Cw9H
+Cw9(
+Cw9(
+Cv9H
+Cv9H
+Cv9(
+Cv9(
+Cu9H
+Cu9h
+u9("
+Cw9h)
+b9h	
+Cv9h
+Cw9(
+Cu9h
+Cw9h
+CC9h
+Cv9h
+Jz)%A
+cD9H
+CE9H
+9H)@
+cG9H
+=	!@
+CB9h
+cC9h
+CH9H
+	YM9
+CB9H
+#C9H
+(UJ9
+T+1@
+	YM9
+5	5	
+TIE@y
+T	5X
+T/	@9
+IE@y
+U8hE
+CI9h
+CI9h
+H9H-
+CI9h
+0@y 
+`@9 
+Y8(q
+E9h$
+#F9h
+CD9H$
+cC9H
+CB9(
+Y8(	
+#F9h
+#F9(
+CD9h
+D9(a
+Z8ha
+V8(b
+K9hb
+#L9(c
+P8hc
+V9(d
+U9hd
+T9(e
+CM9he
+M9(f
+S9hf
+R9(g
+Q9hg
+P9(h
+N9hh
+#O9(i
+!^K9@
+CD9h\
+H9(]
+G9h]
+CE9h
+(`@9)
+	)B9
+!B9h
+CB9h
+	AS9
+)UJ9
+#F9H
+Qh9h
+#L9(
+#O9(
+#F9h
+CE9(
+#A9h
+cG9(-
+G9h-
+E9(.
+E9h.
+	UJ9I
+*UJ9
+4)qH9i
+TJ9H{
+	!j9
+R	!*9
+cG9(
+CF9h
+Qh9(
+8IQ@
+X8)a@
+pH9H
+#F9H
+CE9h
+8IQ@
+X8)a@
+CE9H
+#F9H
+CE9(
+UJ9H
+X8(5
+#L9H
+#O9H
+cK9h
+#O9h
+#E9h
+cG9h
+6`.@
+7hb@9H
+hb@9
+a!9&
+9	a	9
+!%9d
+7h"C9(
+7hBB9h
+7hbA9
+h"C9(
+6`n@
+hBB9
+6`R@
+hbA9
+6`6@
+7h"C9
+7hBB9
+7hbA9H
+h"C9
+6`n@
+hBB9H
+6`R@
+hbA9
+6`6@
+hBF9
+7hBF9H
+hBF9
+6`z@
+6`n@
+6`b@
+6`R@
+6`:@
+7hBF9
+7h"C9H
+7hBB9
+7hB@9
+hBF9
+6`z@
+h"C9
+6`n@
+6`b@
+hBB9
+6`R@
+6`:@
+hB@9
+#A9h
+c@9h
+R(#)
+c@9h
+#@9h
+#@9H
+#@9H
+2A9h2
+h*D9h
+h"O8h
+h*D9
+7h6A9H
+7tBC
+6`RG
+h6A9
+h"@9
+@9njl8
+=?k8xH
+yhb@
+h"A9
+6`.@
+6`.@
+h"A9
+6`.@
+6`*@
+4`"@
+4`6@
+4`"@
+4`2@
+T`2@
+4`"@
+4`6@
+B9hb
+*`>@
+T`B@
+T`>@
+T`B@
+*`>@
+Rc>@
+T`"@
+Th"@
+ 7h2@
+4v"@
+4c>@
+Rc>@
+s@9h
+#A9h
+c@9h
+6`6@
+6`6@
+ A9i
+ibA9
+6`6@
+ibA9
+6`6@
+A9k*D
+6`"@
+TuR@
+`@9H
+c@9H
+#A9H
+c@9H
+#A9(
+`@9H
+@@9h
+6`^@
+6`R@
+6`F@
+6`"@
+6`.@
+6`:@
+7hBB9
+7h"A9H
+7hb@9
+hBB9
+6`R@
+6`F@
+6`:@
+h"A9
+6`.@
+6`"@
+hb@9
+7a"@
+@9_5
+l	@9
+@9_5
+@xj"@9
+A@9?
+Th&@
+@9_5
+@9_5
+@9?)
+hh8I
+CB9h
+CD9h
+CA9h
+CA9h
+9(a@
+_k88
+,k88
+CA9h
+c@9h
+c@9H
+CA9h
+c@9H
+CA9h
+@8_5
+@9_)
+"N%4%n&4&n
+$4$.
+@9_)
+C@9H
+h"@9
+s@9(
+{@9(
+#@9h
+#@9h
+#@9h
+T)hh8*
+@9_%
+6 	@
+`@9H
+@8?!
+#@9h
+@8?5
+C@9H
+Tlij8
+TuR@
+j58h
+;ihx
+5ijx
+:ikx
+4ijx
+9ijx
+4Hu@
+*kh8	
+@y`~
+myjx
+6kix
+j68H
+6khx
+j68H
+6khx
+j68H
+@yh~
+)kix
+*kkxl
+B9H 
+)kix
++<)`
+cC9h
+CB9h
+#D9h
+Q)=@
+%@9H
+	*Uc
+?k78i
+r(1@
++ih8J	
+4`>@
+<a"@
+TuR@
+C@9(
+hB@9h
+TuR@
+#@9h
+c@9h
+c@9h
+CE9h
+#@9`
+CA9h
+CD9(
+cB9(
+CD9(
+CA9h
+CC9(
+cB9(
+	@9k
+io8)M
+@9jij8hih8JM
+ih8JM
+	!E9
+	aD9
+!v9h
+	!E9
+	aD9
+#@9H
+#@9H
+9(q@
+6`^@
+6`R@
+6`B@
+6`6@
+6`*@
+T5|@
+k{8(ih8
+q	}@
+qj}@
+xAii
+CJ9h
+"B9`B
+c@9h
+c@9h
+c@9h
+R	h(8i
+h)8k
+h(8@
+,ih8
+jh8+
+T(	@9J
+T(	@9J
+	kh8
+jh8?
+jh8?
+@9I#
+R_8_
+b_8_
+r_8_
+_8?5
+_8?)
+hi8!
+@9?5
+@9?)
+ji8J
+	hi8?
+@9?5
+@9?)
+TI	@9?5
+@9?)
+nii8
+kv8_
+_8?5
+_8?)
+_8?5
+l-@8
+T	|@
+@9?P
+C@9(
+CB9h
+C@9(
+R	T	
+C@9H
+c@9h
+tH9?
+xh~	
+#@9`
+	uH9
+CA9H
+#@9(
+CA9(
+#@9(
+CA9(
+CA9(
+T,3@
+CA9(
+CA9(
+#@9(
+CA9(
+#@9(
+CA9(
+CA9(
+TL3@
+ 3@9
+CA9(
+CA9(
+#@9(
+CA9(
+#@9(
+CA9(
+CA9(
+	uH9
+@3@9
+@9*'C
+#@9(
+#@9(
+CA9(
+CA9(
+(0@9)
+	YM9I
+F@yK
+R@y	
+b@yh
+	YM9	
+F@yK
+F@yK
+R@y	
+^@yI
+b@y	
+b@yh
+IE@yl
+	@9?
+#@9h
+CC9(
+cB9h
+#D9h
+CC9(
+#@9H
+`2@9
+T	5	
+4`2@9
+CB9H
+CA9(
+CA9(
+CA9H
+CA9(
+CB9h
+Ti:@
+	k!	
+CA9h
+CA9(
+CA9H
+CB9H
+CA9H
+Th6	
+	YM9
+0@9(
+dvEy
+ThBB
+	YM9
+F@y)
+^@y	
+YM9(
+5	(@y?
+	@9K
+@9JeD
+@9JiD
+@9)9D
+@9)	D
+tH9	
+xh~	
+xh~	
+#@9h
+j(8{
+#@9h
+CG9(
+cF9h
+#H9h
+cM9h
+#@9H
+#F9(
+CE9h
+#F9(
+CE9h
+9(Q@
+#F9(
+CE9h
+*%@)`
+)G@y
+(_@y
+(_@y
+(_@y
+@y	L
+	@-!
+CC9(
+cB9h
+#K9h
+#D9h
+CC9(
+cI9h
+Th2@9
+B-@ #
+k)ih
+TOEA)@
+m9A)K1A)
+ZHih
+Viix,
+Yikxl
+Xilxk
+Wikx+!
+Zikx))
+m9A)
+*A@9 
+R	|@
+	J)!
+9)ki8
+9(kh8
+#@9h
+jij8iii8
+*a@9 
+#@9h
+#@9h
+#@9h
+#@9h
+#@9h
+j58=
+R	|@
+	J)!
+(Kh8h
+f@9z
+@9	{
+@9		
+*ki8
++ih8J	
++ih8J	
+4h~@
+Q(O(
+zjxk	
+@9)	
+9	|	
+	*H}
+*i}	
+9	|	
+Lii8k	
+Lii8k	
+Lii8k	
++ih8J	
+%@x(
++ih8J	
+@9)	
+M{kx
+QhN(
+ThN+
+Lyixk	
+Lyixk	
+ThN 
+TiN 
+T+	@
++ih8J	
+server|127.0.0.1
+port|17091
+loginurl|login.growtopiagame.com
+type|1
+#maint|Server is under maintenance. We will be back online shortly. Thank you for your patience!
+beta_server|127.0.0.1
+beta_port|1945
+beta_type|1
+meta|%s
+RTENDMARKERBS1001
+Linker: LLD 18.1.7
+clang version 18.1.7
+Android (10552028, +pgo, +bolt, +lto, -mlgo, based on r487747d) clang version 17.0.2 (https://android.googlesource.com/toolchain/llvm-project d9f89f4d16663d5012e5c09495f3b30ece3d2362)
+.interp
+.note.android.ident
+.dynsym
+.gnu.version
+.gnu.version_r
+.gnu.hash
+.dynstr
+.rela.dyn
+.rela.plt
+.rodata
+.gcc_except_table
+.eh_frame_hdr
+.eh_frame
+.text
+.plt
+.preinit_array
+.init_array
+.fini_array
+.data.rel.ro
+.dynamic
+.got
+.got.plt
+.relro_padding
+.data
+.bss
+.comment
+.symtab
+.shstrtab
+.strtab
+crtbegin.c
+$x.1
+_start_main
+$d.2
+$d.3
+$d.4
+$d.5
+$d.6
+$d.7
+note_android_ident
+$d.0
+note_data
+note_name
+note_end
+ndk_version
+ndk_build_number
+callbacks.c
+$x.0
+$d.1
+_ZL9callbacks.0
+_ZL9callbacks.1
+_ZL9callbacks.2
+$d.2
+$d.3
+compress.c
+$x.0
+_ZL19enet_symbol_rescaleP11_ENetSymbol
+$d.1
+$d.2
+host.c
+$d.0
+$x.1
+$d.2
+$d.3
+list.c
+$x.0
+$d.1
+$d.2
+packet.c
+$x.0
+$d.1
+$d.2
+_ZL16initializedCRC32
+_ZL8crcTable
+$d.3
+$d.4
+peer.c
+$x.0
+$d.1
+_ZZ32enet_peer_queue_incoming_commandE12dummyCommand
+$d.2
+$d.3
+$d.4
+protocol.c
+$x.0
+_ZL12commandSizes
+_ZL36enet_protocol_send_outgoing_commandsP9_ENetHostP10_ENetEventi
+_ZL45enet_protocol_send_reliable_outgoing_commandsP9_ENetHostP9_ENetPeer
+_ZL40enet_protocol_dispatch_incoming_commandsP9_ENetHostP10_ENetEvent
+_ZL42enet_protocol_remove_sent_reliable_commandP9_ENetPeerth
+$d.1
+$d.2
+$d.3
+unix.c
+$x.0
+_ZL8timeBase
+$d.1
+$d.2
+$d.3
+win32.c
+$d.0
+events.cpp
+$x.0
+$x.1
+GCC_except_table3
+$d.2
+$x.3
+$x.4
+GCC_except_table6
+GCC_except_table8
+GCC_except_table9
+GCC_except_table10
+GCC_except_table11
+GCC_except_table12
+GCC_except_table13
+GCC_except_table14
+GCC_except_table15
+GCC_except_table16
+GCC_except_table17
+GCC_except_table19
+GCC_except_table20
+$x.5
+GCC_except_table23
+$x.6
+$x.7
+$d.8
+GCC_except_table27
+GCC_except_table28
+$x.9
+__cxx_global_array_dtor
+$x.10
+$x.11
+$x.12
+GCC_except_table36
+$x.13
+$d.14
+GCC_except_table39
+$x.15
+GCC_except_table40
+$d.16
+$x.17
+GCC_except_table41
+$d.18
+$x.19
+_ZNSt6__ndk1L19piecewise_constructE
+GCC_except_table44
+$x.20
+GCC_except_table45
+$d.21
+$x.22
+$x.23
+$x.24
+GCC_except_table51
+$x.25
+GCC_except_table54
+$x.26
+$x.27
+GCC_except_table57
+$x.28
+GCC_except_table58
+$d.29
+$x.30
+GCC_except_table61
+$d.31
+GCC_except_table62
+$x.32
+GCC_except_table64
+$x.33
+GCC_except_table65
+$d.34
+$x.35
+GCC_except_table66
+$d.36
+$x.37
+GCC_except_table67
+$d.38
+$x.39
+$x.40
+GCC_except_table69
+$d.41
+$x.42
+$x.43
+GCC_except_table71
+$d.44
+GCC_except_table77
+GCC_except_table78
+GCC_except_table79
+GCC_except_table85
+GCC_except_table86
+GCC_except_table87
+GCC_except_table89
+GCC_except_table92
+GCC_except_table93
+$x.45
+GCC_except_table96
+GCC_except_table97
+GCC_except_table100
+GCC_except_table102
+GCC_except_table104
+$x.46
+GCC_except_table109
+GCC_except_table112
+$d.47
+GCC_except_table117
+GCC_except_table120
+GCC_except_table121
+GCC_except_table122
+GCC_except_table123
+GCC_except_table125
+GCC_except_table126
+GCC_except_table127
+GCC_except_table128
+GCC_except_table129
+GCC_except_table130
+$x.48
+GCC_except_table131
+$d.49
+$x.50
+GCC_except_table132
+$d.51
+GCC_except_table133
+GCC_except_table135
+GCC_except_table136
+GCC_except_table137
+GCC_except_table138
+GCC_except_table139
+GCC_except_table140
+GCC_except_table142
+GCC_except_table143
+GCC_except_table144
+GCC_except_table145
+GCC_except_table147
+GCC_except_table149
+GCC_except_table150
+GCC_except_table151
+GCC_except_table152
+GCC_except_table153
+GCC_except_table156
+GCC_except_table157
+GCC_except_table161
+GCC_except_table162
+GCC_except_table163
+GCC_except_table168
+GCC_except_table169
+GCC_except_table170
+GCC_except_table171
+GCC_except_table172
+GCC_except_table173
+GCC_except_table175
+GCC_except_table177
+GCC_except_table181
+GCC_except_table182
+GCC_except_table183
+GCC_except_table184
+GCC_except_table186
+GCC_except_table188
+GCC_except_table190
+GCC_except_table191
+GCC_except_table192
+GCC_except_table193
+GCC_except_table195
+GCC_except_table196
+$x.52
+GCC_except_table199
+$d.53
+$x.54
+$x.55
+GCC_except_table201
+$d.56
+$x.57
+$x.58
+GCC_except_table203
+$d.59
+$x.60
+GCC_except_table206
+GCC_except_table208
+GCC_except_table211
+GCC_except_table212
+$x.61
+GCC_except_table213
+$d.62
+$x.63
+GCC_except_table214
+$d.64
+$x.65
+$x.66
+$x.67
+$x.68
+$x.69
+GCC_except_table219
+$d.70
+$x.71
+$x.72
+GCC_except_table222
+GCC_except_table224
+GCC_except_table225
+$x.73
+GCC_except_table226
+$d.74
+GCC_except_table228
+GCC_except_table229
+GCC_except_table230
+$x.75
+$x.76
+$x.77
+$x.78
+$x.79
+$x.80
+$x.81
+$x.82
+$x.83
+$x.84
+GCC_except_table240
+$d.85
+$x.86
+$x.87
+$x.88
+$x.89
+GCC_except_table244
+$d.90
+$x.91
+$x.92
+$x.93
+$x.94
+$x.95
+$x.96
+$x.97
+$x.98
+$x.99
+$x.100
+$x.101
+$x.102
+GCC_except_table256
+$d.103
+$x.104
+$x.105
+$x.106
+GCC_except_table259
+$d.107
+$x.108
+GCC_except_table260
+$d.109
+$x.110
+GCC_except_table261
+$d.111
+$x.112
+$x.113
+$x.114
+$x.115
+$x.116
+$x.117
+$x.118
+$x.119
+GCC_except_table269
+$d.120
+$x.121
+$x.122
+GCC_except_table271
+$d.123
+$x.124
+GCC_except_table272
+$d.125
+$x.126
+$x.127
+$x.128
+$x.129
+$x.130
+$x.131
+$x.132
+$x.133
+GCC_except_table280
+$d.134
+$x.135
+GCC_except_table281
+$d.136
+$x.137
+$x.138
+$x.139
+GCC_except_table284
+$d.140
+$x.141
+GCC_except_table285
+$d.142
+$x.143
+GCC_except_table286
+$d.144
+$x.145
+GCC_except_table287
+$d.146
+$x.147
+$x.148
+$x.149
+$x.150
+$x.151
+$x.152
+$x.153
+$x.154
+$x.155
+$x.156
+$x.157
+GCC_except_table298
+$d.158
+$x.159
+$x.160
+$x.161
+GCC_except_table301
+$d.162
+$x.163
+GCC_except_table302
+$d.164
+$x.165
+$x.166
+$x.167
+$x.168
+GCC_except_table306
+$d.169
+$x.170
+$x.171
+$x.172
+$x.173
+$x.174
+$x.175
+GCC_except_table312
+$d.176
+$x.177
+$x.178
+$x.179
+$x.180
+GCC_except_table316
+$d.181
+$x.182
+GCC_except_table317
+$d.183
+$x.184
+GCC_except_table318
+$d.185
+$x.186
+GCC_except_table319
+$d.187
+$x.188
+GCC_except_table320
+$d.189
+$x.190
+GCC_except_table321
+$d.191
+$x.192
+GCC_except_table322
+$d.193
+$x.194
+$x.195
+GCC_except_table324
+$d.196
+$x.197
+GCC_except_table325
+$d.198
+$x.199
+$x.200
+$x.201
+$x.202
+$x.203
+GCC_except_table330
+$d.204
+$x.205
+GCC_except_table331
+$d.206
+$x.207
+GCC_except_table332
+$d.208
+$x.209
+GCC_except_table333
+$d.210
+$x.211
+$x.212
+$x.213
+$x.214
+$x.215
+GCC_except_table338
+$d.216
+$x.217
+GCC_except_table339
+$d.218
+$x.219
+GCC_except_table340
+$d.220
+$x.221
+GCC_except_table341
+$d.222
+$x.223
+GCC_except_table342
+$d.224
+$x.225
+$x.226
+GCC_except_table344
+$d.227
+$x.228
+$x.229
+$x.230
+$x.231
+GCC_except_table348
+$d.232
+$x.233
+GCC_except_table349
+$d.234
+$x.235
+_ZL9to_loweraNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+$d.236
+GCC_except_table350
+$d.237
+$x.238
+$x.239
+$x.240
+GCC_except_table354
+$d.241
+$x.242
+GCC_except_table355
+$d.243
+$x.244
+GCC_except_table356
+$d.245
+$x.246
+$d.247
+$x.248
+GCC_except_table358
+$d.249
+$x.250
+GCC_except_table359
+$d.251
+$x.252
+$x.253
+GCC_except_table361
+$d.254
+$x.255
+$x.256
+$x.257
+$x.258
+GCC_except_table365
+$d.259
+$x.260
+GCC_except_table366
+$d.261
+$x.262
+$x.263
+$x.264
+GCC_except_table369
+$d.265
+$x.266
+$x.267
+$x.268
+$x.269
+$x.270
+$x.271
+$x.272
+$x.273
+$x.274
+GCC_except_table378
+$d.275
+$x.276
+$x.277
+GCC_except_table380
+$d.278
+$x.279
+_GLOBAL__sub_I_events.cpp
+$d.280
+$d.281
+$d.282
+$d.283
+$d.284
+$d.285
+$d.286
+$d.287
+$d.288
+$d.289
+$d.290
+$d.291
+$d.292
+$d.293
+$d.294
+$d.295
+$d.296
+$d.297
+$d.298
+$d.299
+$d.300
+$d.301
+$d.302
+$d.303
+$d.304
+$d.305
+$d.306
+$d.307
+$d.308
+$d.309
+$d.310
+$d.311
+$d.312
+$d.313
+$d.314
+$d.315
+$d.316
+$d.317
+$d.318
+$d.319
+_ZZ10startBlinkvE8timerlol
+_ZGVZ10startBlinkvE8timerlol
+_ZZN6events3out12ExecuteFuncsEvE8timerlol
+_ZGVZN6events3out12ExecuteFuncsEvE8timerlol
+_ZZN6events3out12ExecuteFuncsEvE14KillStoreTimer
+_ZGVZN6events3out12ExecuteFuncsEvE14KillStoreTimer
+_ZZN6events3out12ExecuteFuncsEvE11packetTimer
+_ZGVZN6events3out12ExecuteFuncsEvE11packetTimer
+_ZZN6events3out12ExecuteFuncsEvE16AutoCollectTimer
+_ZGVZN6events3out12ExecuteFuncsEvE16AutoCollectTimer
+_ZZN6events3out12ExecuteFuncsEvE14clothjoinTimer
+_ZGVZN6events3out12ExecuteFuncsEvE14clothjoinTimer
+_ZZN6events3out12ExecuteFuncsEvE16checkshadowTimer
+_ZGVZN6events3out12ExecuteFuncsEvE16checkshadowTimer
+_ZZN6events3out12ExecuteFuncsEvE8timerlol_0
+_ZGVZN6events3out12ExecuteFuncsEvE8timerlol_0
+_ZZN6events3out12ExecuteFuncsEvE8timerlol_1
+_ZGVZN6events3out12ExecuteFuncsEvE8timerlol_1
+_ZZN6events3out12ExecuteFuncsEvE9timerlol1
+_ZGVZN6events3out12ExecuteFuncsEvE9timerlol1
+_ZZN6events3out12ExecuteFuncsEvE8timerlol_2
+_ZGVZN6events3out12ExecuteFuncsEvE8timerlol_2
+_ZZN6events3out12ExecuteFuncsEvE8timerlol_3
+_ZGVZN6events3out12ExecuteFuncsEvE8timerlol_3
+_ZZN6events3out12ExecuteFuncsEvE8timerlol_4
+_ZGVZN6events3out12ExecuteFuncsEvE8timerlol_4
+$d.320
+$d.321
+$d.322
+gt.cpp
+$x.1
+GCC_except_table1
+$d.2
+$d.3
+_GLOBAL__sub_I_gt.cpp
+$x.4
+$d.5
+$d.6
+$d.7
+$d.8
+$d.10
+$d.11
+http.cpp
+$x.0
+GCC_except_table1
+$d.1
+GCC_except_table7
+_GLOBAL__sub_I_http.cpp
+$x.53
+$d.54
+$d.55
+$d.56
+$d.67
+$d.69
+$d.70
+proxy.cpp
+$x.0
+GCC_except_table0
+$d.1
+$d.4
+$d.5
+$x.6
+GCC_except_table3
+$d.7
+GCC_except_table9
+GCC_except_table11
+GCC_except_table14
+GCC_except_table16
+$x.12
+_ZNSt6__ndk1L19piecewise_constructE
+GCC_except_table17
+$d.13
+$x.14
+GCC_except_table18
+$d.15
+$x.79
+$x.93
+$x.99
+GCC_except_table84
+$d.100
+$x.101
+$x.103
+GCC_except_table87
+$d.104
+_GLOBAL__sub_I_proxy.cpp
+$x.105
+GCC_except_table88
+$d.106
+$d.107
+$d.108
+$d.127
+$d.128
+$d.130
+$d.131
+sandbird.c
+$x.0
+_ZL16sb_buffer_writefP9sb_BufferPKcz
+_ZL17sb_buffer_vwritefP9sb_BufferPKcSt9__va_list
+_ZL25sb_stream_finalize_headerP9sb_Stream
+_ZL17find_header_valuePKcS0_
+$d.1
+$d.2
+$d.3
+$d.4
+server.cpp
+$x.0
+$d.1
+_ZNSt6__ndk1L19piecewise_constructE
+GCC_except_table1
+$d.2
+GCC_except_table2
+GCC_except_table4
+GCC_except_table10
+GCC_except_table11
+GCC_except_table12
+GCC_except_table13
+GCC_except_table14
+$x.6
+$x.7
+GCC_except_table22
+GCC_except_table25
+GCC_except_table27
+GCC_except_table30
+$d.16
+GCC_except_table31
+$x.18
+GCC_except_table38
+GCC_except_table47
+$x.21
+$x.22
+GCC_except_table51
+GCC_except_table52
+GCC_except_table53
+GCC_except_table55
+GCC_except_table56
+GCC_except_table57
+$x.23
+GCC_except_table58
+$d.24
+$x.25
+$x.32
+GCC_except_table69
+$d.33
+_ZL9to_loweraNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+$x.45
+$x.46
+$x.48
+GCC_except_table81
+$d.49
+$x.50
+GCC_except_table82
+$d.51
+$x.52
+$x.53
+$x.54
+$x.55
+$x.56
+$x.57
+$x.58
+$x.59
+$x.73
+$x.75
+$x.76
+_GLOBAL__sub_I_server.cpp
+$x.78
+$d.79
+$d.80
+$d.81
+$d.82
+$d.83
+_ZZN2gt9pathfind2EiiE13last_use_time.0
+_ZGVZN2gt9pathfind2EiiE13last_use_time
+$d.85
+$d.86
+utils.cpp
+$x.0
+_ZZZN5utils6randomEiiENK3$_0clEvE1o
+$d.1
+_ZL8hexmap_s
+GCC_except_table3
+$d.2
+GCC_except_table7
+$d.3
+GCC_except_table8
+$x.4
+$x.5
+_GLOBAL__sub_I_utils.cpp
+$x.10
+$d.11
+$d.12
+$d.13
+$d.15
+$d.16
+UnwindLevel1.c
+$x.1
+unwind_phase2
+$x.2
+$x.3
+unwind_phase2_forced
+$x.4
+$x.5
+$x.6
+$x.7
+$x.8
+$x.9
+$x.10
+$x.11
+$x.12
+$d.13
+$d.14
+$d.15
+libunwind.cpp
+$x.1
+$x.2
+$x.3
+$x.4
+$x.5
+$x.6
+$x.7
+$x.8
+$x.9
+$x.10
+$x.11
+$x.12
+$x.13
+$x.14
+$x.15
+$x.16
+$x.17
+$x.18
+$x.19
+$d.20
+$x.21
+$x.22
+$x.23
+$x.24
+$x.25
+$d.26
+$x.27
+$d.28
+$x.29
+$x.30
+$x.31
+$x.32
+$x.33
+$x.34
+$x.35
+$x.36
+$x.37
+_ZN9libunwindL24findUnwindSectionsByPhdrEP12dl_phdr_infomPv
+$x.38
+$x.39
+$x.40
+$d.41
+$x.42
+$d.43
+$x.44
+$d.45
+$x.46
+$d.47
+$x.48
+$d.49
+$x.50
+$x.51
+$d.52
+$x.53
+$x.54
+$x.55
+$x.56
+$x.57
+$d.58
+$x.59
+$d.60
+$d.61
+$d.62
+$d.63
+$d.64
+$d.65
+$d.66
+$d.67
+$d.68
+$d.69
+$d.70
+$d.71
+$x.1
+$x.1
+$d.1
+$d.2
+$d.3
+__FRAME_END__
+$d.4
+_start
+__PREINIT_ARRAY__
+__INIT_ARRAY__
+__FINI_ARRAY__
+main
+__libc_init
+__atexit_handler_wrapper
+atexit
+__dso_handle
+__cxa_atexit
+pthread_atfork
+__register_atfork
+curl_slist_append
+curl_easy_setopt
+curl_easy_perform
+curl_easy_cleanup
+curl_easy_strerror
+curl_easy_init
+OPENSSL_init_ssl
+EVP_MD_CTX_free
+EVP_DigestInit_ex
+EVP_DigestUpdate
+EVP_MD_CTX_new
+EVP_DigestFinal_ex
+EVP_Digest
+EVP_md5
+EVP_sha256
+enet_initialize_with_callbacks
+enet_initialize
+enet_linked_version
+enet_malloc
+enet_free
+malloc
+free
+abort
+enet_range_coder_create
+enet_range_coder_destroy
+enet_range_coder_compress
+enet_range_coder_decompress
+enet_host_compress_with_range_coder
+enet_host_compress
+enet_host_create
+memset
+enet_socket_create
+enet_socket_bind
+enet_socket_set_option
+enet_socket_get_address
+enet_host_random_seed
+enet_list_clear
+enet_peer_reset
+enet_socket_destroy
+enet_host_destroy
+enet_host_connect
+enet_peer_queue_outgoing_command
+enet_host_broadcast
+enet_peer_send
+enet_packet_destroy
+enet_host_channel_limit
+enet_host_bandwidth_limit
+enet_host_bandwidth_throttle
+enet_time_get
+enet_list_insert
+enet_list_remove
+enet_list_move
+enet_list_size
+enet_packet_create
+memcpy
+enet_packet_resize
+enet_crc32
+enet_peer_throttle_configure
+enet_peer_setup_outgoing_command
+enet_peer_throttle
+enet_protocol_command_size
+enet_peer_receive
+enet_peer_reset_queues
+enet_peer_on_connect
+enet_peer_on_disconnect
+enet_peer_ping
+enet_peer_ping_interval
+enet_peer_timeout
+enet_peer_disconnect_now
+enet_host_flush
+enet_peer_disconnect
+enet_peer_disconnect_later
+enet_peer_queue_acknowledgement
+enet_peer_dispatch_incoming_unreliable_commands
+enet_peer_dispatch_incoming_reliable_commands
+enet_peer_queue_incoming_command
+rand
+enet_socket_send
+enet_host_check_events
+enet_host_service
+enet_socket_receive
+enet_socket_wait
+enet_deinitialize
+time
+gettimeofday
+enet_time_set
+enet_address_set_host_ip
+inet_aton
+enet_address_set_host
+gethostbyname
+enet_address_get_host_ip
+inet_ntoa
+strlen
+enet_address_get_host
+gethostbyaddr
+bind
+getsockname
+enet_socket_listen
+listen
+socket
+ioctl
+setsockopt
+enet_socket_get_option
+getsockopt
+enet_socket_connect
+connect
+__errno
+enet_socket_accept
+accept
+enet_socket_shutdown
+shutdown
+close
+sendmsg
+recvmsg
+enet_socketset_select
+select
+__FD_SET_chk
+__FD_ISSET_chk
+_ZN6Dialog9addSpacerE11SpacerTypes
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6appendEPKc
+_Z22DialogTextSizeToString9SizeTypes
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC2B7v170000IDnEEPKc
+_Znwm
+memmove
+_ZNKSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE20__throw_length_errorB7v170000Ev
+_ZN6Dialog16addCustomTextBoxENSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE9SizeTypesS6_
+_ZNSt6__ndk1plIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_12basic_stringIT_T0_T1_EEPKS6_RKS9_
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6appendEPKcm
+_ZdlPv
+_Unwind_Resume
+_ZNSt6__ndk1plB7v170000IcNS_11char_traitsIcEENS_9allocatorIcEEEENS_12basic_stringIT_T0_T1_EEOS9_RKS9_
+_ZNSt6__ndk1plB7v170000IcNS_11char_traitsIcEENS_9allocatorIcEEEENS_12basic_stringIT_T0_T1_EEOS9_SA_
+_ZN6Dialog21addItemWithCustomTextENSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEES6_S6_
+_ZN6Dialog20addNewLineAfterFrameEv
+_ZN6Dialog9addPickerENSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEES6_S6_
+_ZN6Dialog18addStaticBlueFrameENSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEES6_S6_b
+_ZN6Dialog33addStaticBlueFrameWithIdCountTextENSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEES6_S6_S6_b
+_ZN6Dialog16addLabelWithIconENSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEEi11LabelStyles
+_ZNSt6__ndk19to_stringEi
+_ZN6Dialog22addLabelWithIconButtonENSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEEiS6_
+_ZN6Dialog9addButtonENSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEES6_
+_ZN6Dialog11addCheckboxENSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEES6_b
+_ZN6Dialog10addTextBoxENSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_ZN6Dialog12addSmallTextENSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_ZN6Dialog11addInputBoxENSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEES6_S6_i
+_ZN6Dialog12addQuickExitEv
+_ZN6Dialog9endDialogENSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEES6_S6_
+_ZN6Dialog9addCustomENSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_ZNSt6__ndk1plB7v170000IcNS_11char_traitsIcEENS_9allocatorIcEEEENS_12basic_stringIT_T0_T1_EERKS9_PKS6_
+_ZNK6Dialog12finishDialogEv
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1ERKS5_
+_Z6sha256RKNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZTCNSt6__ndk119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE0_NS_13basic_ostreamIcS2_EE
+_ZNSt6__ndk18ios_base4initEPv
+_ZTVNSt6__ndk119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZNSt6__ndk115basic_streambufIcNS_11char_traitsIcEEEC2Ev
+_ZTVNSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZNSt6__ndk15ctypeIcE2idE
+_ZNKSt6__ndk18ios_base6getlocEv
+_ZNKSt6__ndk16locale9use_facetERNS0_2idE
+_ZNSt6__ndk16localeD1Ev
+_ZNSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEElsEj
+_ZNKSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+_ZNSt6__ndk115basic_streambufIcNS_11char_traitsIcEEED2Ev
+_ZTTNSt6__ndk119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZNSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEED2Ev
+_ZNSt6__ndk19basic_iosIcNS_11char_traitsIcEEED2Ev
+__clang_call_terminate
+__cxa_begin_catch
+_ZSt9terminatev
+_ZNSt6__ndk119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev
+_Z3md5RKNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+sprintf
+_ZN3klv18generateSHA256HashERKNSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_ZN3klv12generate_klvERKNSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEEiS8_t
+_ZNSt6__ndk15arrayINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEELm3EED2Ev
+_Z8to_lowerNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_Z13WriteCallbackPvmmS_
+ModsList
+_ZNSt6__ndk16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEED2B7v170000Ev
+_Z3logNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZNSt6__ndk16vectorI10TextPacketNS_9allocatorIS1_EEED2B7v170000Ev
+_Z5psendbNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEES5_ii
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEaSERKS5_
+textpkt
+_ZNSt6__ndk16vectorI10TextPacketNS_9allocatorIS1_EEE21__push_back_slow_pathIRKS1_EEvOT_
+_ZN10TextPacketD2Ev
+_Z13isUntradeablei
+_Z12loadSettingsRNSt6__ndk16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEERKS6_
+_ZNSt6__ndk114basic_ifstreamIcNS_11char_traitsIcEEEC1ERKNS_12basic_stringIcS2_NS_9allocatorIcEEEEj
+_ZNSt6__ndk16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEE21__push_back_slow_pathIRKS6_EEvOT_
+_ZNSt6__ndk17getlineB7v170000IcNS_11char_traitsIcEENS_9allocatorIcEEEERNS_13basic_istreamIT_T0_EES9_RNS_12basic_stringIS6_S7_T1_EES6_
+fclose
+_ZNSt6__ndk18ios_base5clearEj
+_ZTVNSt6__ndk114basic_ifstreamIcNS_11char_traitsIcEEEE
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEED2Ev
+_ZTTNSt6__ndk114basic_ifstreamIcNS_11char_traitsIcEEEE
+_ZNSt6__ndk113basic_istreamIcNS_11char_traitsIcEEED2Ev
+_ZNSt6__ndk114basic_ifstreamIcNS_11char_traitsIcEEED1Ev
+_ZTCNSt6__ndk114basic_ifstreamIcNS_11char_traitsIcEEEE0_NS_13basic_istreamIcS2_EE
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEEC2Ev
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEE4openEPKcj
+_ZNSt6__ndk16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEE9push_backB7v170000ERKS6_
+_Z12itemIDToNamei
+g_server
+_ZNSt6__ndk112__hash_tableINS_17__hash_value_typeIj8ItemDataEENS_22__unordered_map_hasherIjS3_NS_4hashIjEENS_8equal_toIjEELb1EEENS_21__unordered_map_equalIjS3_S8_S6_Lb1EEENS_9allocatorIS3_EEE25__emplace_unique_key_argsIjJRKNS_21piecewise_construct_tENS_5tupleIJOjEEENSJ_IJEEEEEENS_4pairINS_15__hash_iteratorIPNS_11__hash_nodeIS3_PvEEEEbEERKT_DpOT0_
+_Z7overlayNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZN13variantlist_tC2ERKNSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_ZN6server4sendEbR13variantlist_tii
+_ZN13variantlist_tD2Ev
+_Z12NameToItemIDNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+memchr
+memcmp
+_ZNKSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE4findB7v170000ERKS5_m
+_ZNKSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE4findB7v170000EPKcm
+_Z11PlaceBlock2iii
+_ZN6server4sendEbiPhi
+_Z9showChestv
+_ZN2gt8send_logENSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_Z12UidtoModNameNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZNSt6__ndk1eqB7v170000INS_9allocatorIcEEEEbRKNS_12basic_stringIcNS_11char_traitsIcEET_EES9_
+_Z14showOnlineModsv
+checkmods
+hiddenmods
+_ZNSt6__ndk111this_thread9sleep_forERKNS_6chrono8durationIxNS_5ratioILl1ELl1000000000EEEEE
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6insertEmPKc
+modsonline
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1ERKS5_mmRKS4_
+_ZN2gt11checkingModE
+checkUID
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6assignEPKc
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEpLB7v170000ERKS5_
+_ZNSt6__ndk16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEE5clearB7v170000Ev
+_Z12checkAllModsv
+moduid
+_ZN6server4sendEbNSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEEi
+_ZNSt6__ndk16threadC2IRFvvEJEvEEOT_DpOT0_
+_ZNSt6__ndk16thread6detachEv
+_ZNSt6__ndk16threadD1Ev
+_ZNSt6__ndk115__thread_structC1Ev
+_ZNSt6__ndk114__thread_proxyB7v170000INS_5tupleIJNS_10unique_ptrINS_15__thread_structENS_14default_deleteIS3_EEEEPFvvEEEEEEPvSA_
+pthread_create
+_ZNSt6__ndk120__throw_system_errorEiPKc
+_ZNSt6__ndk110unique_ptrINS_15__thread_structENS_14default_deleteIS1_EEED2B7v170000Ev
+_ZNSt6__ndk110unique_ptrINS_5tupleIJNS0_INS_15__thread_structENS_14default_deleteIS2_EEEEPFvvEEEENS3_IS8_EEED2B7v170000Ev
+_Z13IsWearingItemi
+_Z7getitemi
+_ZN8ItemDataC2ERKS_
+_ZNKSt6__ndk16vectorIhNS_9allocatorIhEEE20__throw_length_errorB7v170000Ev
+_Z8findvendNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEb
+_ZNSt6__ndk14stoiERKNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEPmi
+_ZN8ItemDataD2Ev
+_ZN2gt9pathfind2Eii
+_Z12LoginPacket1NSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZN5rtvar5parseENSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_ZN5rtvar4findERKNSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_ZNSt6__ndk14coutE
+_ZNSt6__ndk124__put_character_sequenceB7v170000IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_PKS4_m
+_ZNSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEE3putEc
+_ZNSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEE5flushEv
+printf
+puts
+currentpassword
+currentgrowid
+_ZN5utils12generate_macERKNSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_ZN5utils12generate_ridEv
+_ZN5utils6randomEii
+_ZN5utils4hashEPhj
+_ZNSt6__ndk19to_stringEj
+_ZN2gt4flagE
+_ZN5rtvar9serializeEv
+_ZN5rtvarD2Ev
+_ZNSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEC1B7v170000ERKNS_12basic_stringIcS2_S4_EEj
+_ZN5rtvar6appendENSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_ZTVNSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZTTNSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZNSt6__ndk114basic_iostreamIcNS_11char_traitsIcEEED2Ev
+_ZNSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev
+_ZNSt6__ndk1eqB7v170000IcNS_11char_traitsIcEENS_9allocatorIcEEEEbRKNS_12basic_stringIT_T0_T1_EEPKS6_
+_ZNKSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE20__throw_out_of_rangeB7v170000Ev
+_ZNSt6__ndk16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEC2ERKS8_
+_ZN5rtvar3getERKNSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_ZNSt6__ndk14endlB7v170000IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_
+_ZNSt6__ndk16vectorIN5rtvar4pairENS_9allocatorIS2_EEE22__base_destruct_at_endB7v170000EPS2_
+_ZN5rtvar4pair9serializeEv
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE5eraseEmm
+_Z19IsWearingVisualItemi
+VisualClothes
+itemidx1
+itemidy1
+itemidz1
+itemidx2
+itemidy2
+itemidz2
+itemidx3
+itemidy3
+itemidz3
+itemidx5
+itemidy5
+itemidz5
+_ZN6events3out14hasVisualStateEv
+_ZN2gt10goldenHaloE
+_ZN2gt10devilHornsE
+_ZN2gt6noEyesE
+_ZN2gt11isInvisibleE
+_ZN2gt7noHandsE
+_ZN2gt6noBodyE
+_Z24IsWearingVisualItemProxyiiiiiiiiii
+_Z14GetState1Proxyiiiiiiiiii
+_Z9GetState1v
+_Z9modcheck2NSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+checkmutex
+_ZNSt6__ndk15mutex4lockEv
+_ZNSt6__ndk15mutex6unlockEv
+_Z16startModCheckingv
+cooldown1
+cooldownrunning
+cooldownfunc
+itteoot
+startedChecking
+_Z9ProxyPagev
+_Z5isIntRKNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_Z15FoundFromStringNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEES5_
+_Z14WriteCallback1PvmmP7__sFILE
+fwrite
+_Z14compresswltodlv
+_Z13shatterdltowlv
+_Z14pathfindtoitemi
+_Z18SendWorldJoinProxyv
+worldjoinmtx
+client
+peer2
+_ZN6server11send_packetEP9_ENetHostP9_ENetPeerNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE
+_Z12sendCloth123v
+cloth123mtx
+_ZN2gt7punchidE
+_ZN2gt11local_stateE
+_ZN6server10send_clothEP9_ENetHostP9_ENetPeerNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE
+_Z12collectitemsi
+arange
+_ZN5utils8isInsideEiiiii
+_Z12SetGreenTileii
+_Z16replaceGlassPanev
+_ZNSt6__ndk112__hash_tableINS_17__hash_value_typeIj5Tile1EENS_22__unordered_map_hasherIjS3_NS_4hashIjEENS_8equal_toIjEELb1EEENS_21__unordered_map_equalIjS3_S8_S6_Lb1EEENS_9allocatorIS3_EEE25__emplace_unique_key_argsIjJRKNS_21piecewise_construct_tENS_5tupleIJOjEEENSJ_IJEEEEEENS_4pairINS_15__hash_iteratorIPNS_11__hash_nodeIS3_PvEEEEbEERKT_DpOT0_
+_Z8getcounti
+_Z11RGBToStringiiii
+_ZN6events3out21proxy_server_connect2Ev
+startedpserver
+_ZNSt6__ndk14cerrE
+address
+event
+connectedserver
+atoi
+kakkazz
+_ZN2gt7in_gameE
+hideproxysb
+_ZN5utils7replaceERNSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEERKS6_S9_
+_ZN6events3out12get_punch_idEi
+_ZN2gt12punchidProxyE
+_ZN2gt6pstateE
+_ZN6server14sendProxyStateEib
+_ZN6playerD2Ev
+_Z14ConnectPServerv
+_Z9proxypackv
+_Z5forcev
+wlpage
+fastdrop
+_Z7banall2v
+nopulldialog
+_Z8toStringi
+_ZNSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEElsEi
+_Z8to_upperNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_Z4pullNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_Z4pagev
+_Z6BanAllv
+_ZNSt6__ndk1neB7v170000IcNS_11char_traitsIcEENS_9allocatorIcEEEEbRKNS_12basic_stringIT_T0_T1_EESB_
+_Z6dawsl2v
+daw2
+_Z5dawslv
+_Z8nowrenchv
+wrench
+_Z8autoaccav
+accamtx
+autoaccc
+_Z3apbv
+_Z3modv
+unaccmod
+_Z9reportmodNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+modreport
+modreport2
+_Z6sendAGv
+_Z6sendAPv
+_Z8removeAPv
+_Z8removeAGv
+_Z8DropItemii
+_Z8PutBlockiii
+_Z10PunchBlockii
+_Z13AutoFarmPlacev
+startedfarm1
+placemtx
+farmItemID
+autofarming
+right_left
+farmDelay
+_Z13AutoFarmPunchv
+startedfarm2
+punchmtx
+_Z13StartAutoFarmv
+_Z4WarpNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_Z9intLengthi
+_Z7spammerv
+startedSpam
+spam
+spam_delay
+spam_text
+spamcolors
+_Z5bnallv
+_Z6detectv
+collectmod
+banallmod
+_ZN6events3out11generictextENSt6__ndk112basic_stringIcNS1_11char_traitsIcEENS1_9allocatorIcEEEE
+unaccess
+exitmod
+dontspoof
+collector
+acitemid
+DonateVisible
+fakeitem
+fakecount
+keepweather
+weather_id
+_ZN2gt9worldlogsE
+_ZN2gt8chistoryE
+acdelay
+_ZN2gt8dhistoryE
+_ZN2gt13droppedvisualE
+switchlist
+_ZN6server9reconnectEb
+showingdialog
+_ZN2gt12speedchangerE
+_ZN2gt6speed1E
+_ZN2gt6speed2E
+_ZN2gt6speed3E
+_ZN2gt6speed4E
+_ZN6server9sendStateEib
+_ZN6server17NormalPlayerStateEib
+_ZN6server15forcedisconnectEb
+remove
+blistwordban
+blistedwords
+dropallnodialog
+dropwl
+dropdl
+dropbgl
+_ZNSt6__ndk16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEE21__push_back_slow_pathIS6_EEvOT_
+stopspampull
+stopspamenter
+enterleave
+isLegend
+isg4g
+isDoctor
+isMentor
+isMaxLevel
+fastlock
+lockallowpnb
+lockignoreair
+_Z15getAllCountriesv
+autoacc
+antilavadamage
+sentAG
+sentAP
+pinglatency
+_ZN2gt14showopenclosedE
+fastopenclose
+shownumber
+_ZN2gt12worldtrackerE
+_ZN2gt8fastdiceE
+_ZN6server12recolorTilesEb
+remespin
+qqspin
+instantgem
+hidemsg
+autobanfire
+realfake
+gaspull
+fasttrash
+hidelevel
+_ZNK6server13getServerPeerEv
+ogname
+_Z11WorldBlocksv
+_Z15FloatingObjectsv
+mode
+vendamount
+vendrestock
+vendlockwithdraw
+venditemwithdraw
+vendbuy
+_Z5citemiii
+amountvend
+moddetect
+_Z12sendMaxLeveli
+_Z10sendLegendi
+_Z10sendDoctori
+_Z7sendg4gi
+_Z10sendMasteri
+PreviousCommand
+_Z12chat_commandNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEES5_
+rnews
+_Z12find_commandNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEES5_
+fastdonate
+fastemptydonate
+donatecount
+_Z6bubbleNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZN2gt11vgemcollectE
+pos1
+ajgradius
+pos2
+pos3
+pos4
+_ZN2gt15SerializeFailedE
+_ZN2gt20SerializeFailedWorldE
+wlaccname
+msgtext
+fastdropcount
+fasttrashcount
+chatcolor
+lastworld
+_ZNSt6__ndk19to_stringEf
+_ZN4host5pos1xE
+_ZN4host5pos1yE
+_ZN4host5pos2xE
+_ZN4host5pos2yE
+_ZN4host5pos3xE
+_ZN4host5pos3yE
+_ZN4host5pos4xE
+_ZN4host5pos4yE
+CSpam
+nameChanged
+_ZN2gt8dlamountE
+_ZN2gt9bglamountE
+_ZN2gt8wlamountE
+asurg
+blink
+startedBlink
+pullbynames
+pulas
+banas
+autobgl
+_Z16showGemsInTiles1v
+_ZN2gt5ghostE
+total_bet
+_Z12DropToWinneri
+_ZN2gt6noclipE
+_Z5cdropNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_Z5ddropNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+yuzde
+gdropamount
+svworld
+_ZN5WorldC2ERKS_
+_ZN5WorldD2Ev
+_ZN2gt8scanitemE
+_ZNSt6__ndk114basic_ofstreamIcNS_11char_traitsIcEEEC1EPKcj
+_ZNSt6__ndk1lsB7v170000IcNS_11char_traitsIcEENS_9allocatorIcEEEERNS_13basic_ostreamIT_T0_EES9_RKNS_12basic_stringIS6_S7_T1_EE
+_ZNSt6__ndk114basic_ofstreamIcNS_11char_traitsIcEEE5closeEv
+_ZNSt6__ndk114basic_ofstreamIcNS_11char_traitsIcEEED1Ev
+_Z11DItemCount1v
+_Z5DItemv
+_Z2tpv
+startedPing
+__cxa_get_exception_ptr
+_ZTVSt9exception
+_ZNSt9exceptionD1Ev
+__cxa_end_catch
+_Z10startBlinkv
+srand
+_ZN2gt15run_at_intervalERNSt6__ndk16chrono10time_pointINS1_12system_clockENS1_8durationIxNS0_5ratioILl1ELl1000000EEEEEEEd
+__cxa_guard_acquire
+_ZNSt6__ndk16chrono12system_clock3nowEv
+__cxa_guard_release
+_ZNKSt6__ndk16vectorIjNS_9allocatorIjEEE20__throw_out_of_rangeB7v170000Ev
+_ZNKSt6__ndk16vectorIjNS_9allocatorIjEEE20__throw_length_errorB7v170000Ev
+_ZN6events3out11variantlistEP18gameupdatepacket_t
+_ZN13variantlist_t18serialize_from_memEPhPi
+_ZN13variantlist_t5printEv
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6resizeEmc
+_ZTCNSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE0_NS_13basic_istreamIcS2_EE
+_ZN9variant_t5printEv
+_ZNSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strERKNS_12basic_stringIcS2_S4_EE
+_Z5splitRKNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEES7_
+_ZN6events3out9pingreplyEP18gameupdatepacket_t
+_Z6DropDLii
+_Z7DropBGLii
+_Z6DropWLii
+_Z9showWrongNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEES5_
+_Z7TpToPosii
+_Z13MakeWorldThrdv
+_Z9PullNetIDNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_Z8BanNetIDNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_Z2mdNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_Z14shatterbgltodlv
+_Z6itsmodiNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_Z11Kakkapylly1v
+_Z9SendClothi
+_Z7tptoposff
+_Z6try_tpff
+_Z15TakeLocksIfLeftv
+betbgl
+betwl
+betdl
+tooklocks
+_Z7getp1p2v
+_Z13sendGemEffectiii
+_Z20showTotalGemsInTilesiii
+_Z18getWorldItemsCountv
+_Z5invisv
+_ZN6server9sendInvisEib
+_Z13SpawnInvisGuyi
+_Z11Crystalspamv
+CSpamMode
+_ZNKSt6__ndk16vectorIiNS_9allocatorIiEEE20__throw_out_of_rangeB7v170000Ev
+_ZNKSt6__ndk16vectorIiNS_9allocatorIiEEE20__throw_length_errorB7v170000Ev
+_ZSt28__throw_bad_array_new_lengthB7v170000v
+_Z11getGemCountii
+_Z14getGemsFromPosii
+_ZN6events3out16showGemsInTiles2Eii
+_Z8enableacv
+_Z15updateLocalNamev
+_Z7getp3p4v
+_ZN4host9startlocxE
+_ZN4host9startlocyE
+_Z17sendStateWhenJoinbi
+_Z17PingLatencyToNamev
+SetCurrentPing
+_Z18sendTitlesWhenJoini
+_Z17getItemTotalCounti
+_Z5fdoffv
+maxdrop
+maxdrop1
+_Z14itemScanDialogii
+_Z6stopACv
+_Z17completeTutorial2v
+_ZN5utils6randomEj
+_Z13Tutorial1Doorv
+isCompletingTutorial
+_Z3posii
+_ZNSt6__ndk117__exception_guardINS_29_AllocatorDestroyRangeReverseINS_9allocatorINS_12basic_stringIcNS_11char_traitsIcEENS2_IcEEEEEEPS7_EEED2B7v170000Ev
+_ZNSt6__ndk117__exception_guardINS_6vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS5_IS7_EEE16__destroy_vectorEED2B7v170000Ev
+_Z16updateLocalName2i
+_Z11enterPortalii
+_Z17completeTutorial1v
+_Z17SendClothWhenJoini
+clothmtx
+_Z15ModifyInventoryii
+_Z22AddVClothesToInventoryv
+_ZNSt6__ndk16vectorI6playerNS_9allocatorIS1_EEEC2ERKS4_
+_ZNSt6__ndk113unordered_mapIj5Tile1NS_4hashIjEENS_8equal_toIjEENS_9allocatorINS_4pairIKjS1_EEEEEC2ERKSB_
+_ZNSt6__ndk113unordered_mapIj11DroppedItemNS_4hashIjEENS_8equal_toIjEENS_9allocatorINS_4pairIKjS1_EEEEEC2ERKSB_
+_ZN17ItemDataContainerC2ERKS_
+_ZNKSt6__ndk16vectorI10vector2i_tNS_9allocatorIS1_EEE20__throw_length_errorB7v170000Ev
+_ZNKSt6__ndk16vectorI4VendNS_9allocatorIS1_EEE20__throw_length_errorB7v170000Ev
+_ZN17ItemDataContainerD2Ev
+_ZNSt6__ndk113unordered_mapIj11DroppedItemNS_4hashIjEENS_8equal_toIjEENS_9allocatorINS_4pairIKjS1_EEEEED2B7v170000Ev
+_ZNSt6__ndk113unordered_mapIj5Tile1NS_4hashIjEENS_8equal_toIjEENS_9allocatorINS_4pairIKjS1_EEEEED2B7v170000Ev
+_ZNSt6__ndk16vectorI6playerNS_9allocatorIS1_EEED2B7v170000Ev
+_ZTCNSt6__ndk114basic_ofstreamIcNS_11char_traitsIcEEEE0_NS_13basic_ostreamIcS2_EE
+_ZTVNSt6__ndk114basic_ofstreamIcNS_11char_traitsIcEEEE
+_ZTTNSt6__ndk114basic_ofstreamIcNS_11char_traitsIcEEEE
+_ZN6events3out11gamemessageENSt6__ndk112basic_stringIcNS1_11char_traitsIcEENS1_9allocatorIcEEEE
+_ZN6server4quitEv
+_Z16doorupdatethreadP18gameupdatepacket_t
+_ZN6events2in10doorupdateEP18gameupdatepacket_t
+_ZN6events3out12loadsettingsEv
+fopen
+_ZN6events2in10gateupdateEP18gameupdatepacket_t
+_ZN6events3out5stateEP18gameupdatepacket_tP16GameUpdatePacket
+_Z15AnjirttiKontoliv
+_ZNSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEE6sentryC1ERS3_
+_ZNSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEE6sentryD1Ev
+_ZN6events2in11variantlistEP18gameupdatepacket_t
+sendjoinfunc
+_ZN4http6detail8parseUriINSt6__ndk111__wrap_iterIPKcEEEENS_3UriET_S8_
+_ZN4http7Request4sendERKNSt6__ndk112basic_stringIcNS1_11char_traitsIcEENS1_9allocatorIcEEEES9_RKNS1_6vectorINS1_4pairIS7_S7_EENS5_ISC_EEEENS1_6chrono8durationIxNS1_5ratioILl1ELl1000EEEEE
+spawnedavatar
+moddetected
+_ZN6server15redirect_serverER13variantlist_t
+_ZN4http3UriD2Ev
+_ZN2gt11currenthandE
+_ZN6playeraSEOS_
+wlbalancex
+automsg
+_ZNSt6__ndk16vectorI6playerNS_9allocatorIS1_EEE5eraseENS_11__wrap_iterIPKS1_EES8_
+_ZNSt6__ndk16vectorI6playerNS_9allocatorIS1_EEE21__push_back_slow_pathIRKS1_EEvOT_
+grav
+_ZNSt6__ndk16vectorIN6server4ItemENS_9allocatorIS2_EEE9push_backB7v170000ERKS2_
+dawall
+dbgl
+_ZNSt6__ndk1neB7v170000IcNS_11char_traitsIcEENS_9allocatorIcEEEEbRKNS_12basic_stringIT_T0_T1_EEPKS6_
+_ZNSt6__ndk16threadC2IRFvNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEEJRS7_EvEEOT_DpOT0_
+_ZN2gt14resolving_uid2E
+_ZNKSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE5rfindB7v170000EPKcm
+_ZNSt6__ndk16vectorINS_4pairINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEES7_EENS5_IS8_EEED2B7v170000Ev
+_ZN4http8ResponseD2Ev
+_ZN4http7Request4sendERKNSt6__ndk112basic_stringIcNS1_11char_traitsIcEENS1_9allocatorIcEEEERKNS1_6vectorIhNS5_IhEEEERKNSA_INS1_4pairIS7_S7_EENS5_ISG_EEEENS1_6chrono8durationIxNS1_5ratioILl1ELl1000EEEEE
+_ZNKSt6__ndk16vectorIN6server4ItemENS_9allocatorIS2_EEE20__throw_length_errorB7v170000Ev
+_ZNSt6__ndk114__thread_proxyB7v170000INS_5tupleIJNS_10unique_ptrINS_15__thread_structENS_14default_deleteIS3_EEEEPFvNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEESC_EEEEEPvSG_
+_ZNSt6__ndk112__tuple_leafILm0ENS_10unique_ptrINS_15__thread_structENS_14default_deleteIS2_EEEELb0EED2Ev
+_ZNSt6__ndk110unique_ptrINS_5tupleIJNS0_INS_15__thread_structENS_14default_deleteIS2_EEEEPFvNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEESB_EEENS3_ISE_EEED2B7v170000Ev
+_ZN6events3out20onPacketItemActivateEP18gameupdatepacket_t
+_ZN6events2in11generictextENSt6__ndk112basic_stringIcNS1_11char_traitsIcEENS1_9allocatorIcEEEE
+_ZN6events2in11gamemessageENSt6__ndk112basic_stringIcNS1_11char_traitsIcEENS1_9allocatorIcEEEE
+_ZN6events2in11sendmapdataEP18gameupdatepacket_tPh
+_ZN5World9serializeEPhS0_
+_ZNSt6__ndk112__hash_tableINS_17__hash_value_typeIj11DroppedItemEENS_22__unordered_map_hasherIjS3_NS_4hashIjEENS_8equal_toIjEELb1EEENS_21__unordered_map_equalIjS3_S8_S6_Lb1EEENS_9allocatorIS3_EEE25__emplace_unique_key_argsIjJRKNS_21piecewise_construct_tENS_5tupleIJRKjEEENSJ_IJEEEEEENS_4pairINS_15__hash_iteratorIPNS_11__hash_nodeIS3_PvEEEEbEERKT_DpOT0_
+_ZN5World14serializeTilesEPhRmt
+_ZNKSt9exception4whatEv
+_ZN6events2in5stateEP18gameupdatepacket_t
+_ZN6events2in19onTileChangeRequestEP18gameupdatepacket_t
+_ZN6server18recolorTilesUpdateEii
+_ZN6events2in8trackingENSt6__ndk112basic_stringIcNS1_11char_traitsIcEENS1_9allocatorIcEEEE
+gems_bal
+currentworld0
+_ZN6events3out12ExecuteFuncsEv
+_ZNSt6__ndk16chrono12steady_clock3nowEv
+_ZN2gt16run_at_interval2ERNSt6__ndk16chrono10time_pointINS1_12steady_clockENS1_8durationIxNS0_5ratioILl1ELl1000000000EEEEEEEi
+currentping
+_ZTv0_n24_NSt6__ndk119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev
+_ZNSt6__ndk119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev
+_ZTv0_n24_NSt6__ndk119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev
+_ZNSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEED2Ev
+_ZNSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev
+_ZNSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE7seekoffExNS_8ios_base7seekdirEj
+_ZNSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE7seekposENS_4fposI9mbstate_tEEj
+_ZNSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE9underflowEv
+_ZNSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE9pbackfailEi
+_ZNSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE8overflowEi
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9push_backEc
+_ZTv0_n24_NSt6__ndk114basic_ifstreamIcNS_11char_traitsIcEEED1Ev
+_ZNSt6__ndk114basic_ifstreamIcNS_11char_traitsIcEEED0Ev
+_ZTv0_n24_NSt6__ndk114basic_ifstreamIcNS_11char_traitsIcEEED0Ev
+_ZTVNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEEE
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEE4syncEv
+_ZdaPv
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEED0Ev
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEE5imbueERKNS_6localeE
+_ZNSt6__ndk17codecvtIcc9mbstate_tE2idE
+_Znam
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEE6setbufEPcl
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEE7seekoffExNS_8ios_base7seekdirEj
+fseeko
+ftello
+_ZNSt6__ndk116__throw_bad_castB7v170000Ev
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEE7seekposENS_4fposI9mbstate_tEEj
+fflush
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEE9underflowEv
+fread
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEE9pbackfailEi
+_ZNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEE8overflowEi
+__cxa_allocate_exception
+_ZNSt8bad_castC1Ev
+_ZTISt8bad_cast
+_ZNSt8bad_castD1Ev
+__cxa_throw
+_ZNSt6__ndk120__throw_length_errorB7v170000EPKc
+_ZNSt12length_errorC2B7v170000EPKc
+_ZTISt12length_error
+_ZNSt12length_errorD1Ev
+__cxa_free_exception
+_ZNSt11logic_errorC2EPKc
+_ZTVSt12length_error
+_ZNSt20bad_array_new_lengthC1Ev
+_ZTISt20bad_array_new_length
+_ZNSt20bad_array_new_lengthD1Ev
+_ZNSt6__ndk113basic_istreamIcNS_11char_traitsIcEEE6sentryC1ERS3_b
+__cxa_rethrow
+_ZN5rtvar4pair5parseENSt6__ndk112basic_stringIcNS1_11char_traitsIcEENS1_9allocatorIcEEEE
+_ZNSt6__ndk16vectorIN5rtvar4pairENS_9allocatorIS2_EEE21__push_back_slow_pathIRKS2_EEvOT_
+_ZN5rtvar4pairD2Ev
+_ZNSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev
+_ZThn16_NSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev
+_ZThn16_NSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev
+_ZTv0_n24_NSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev
+_ZTv0_n24_NSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev
+_ZNKSt6__ndk16vectorIN5rtvar4pairENS_9allocatorIS2_EEE20__throw_length_errorB7v170000Ev
+_ZNSt6__ndk114__split_bufferIN5rtvar4pairERNS_9allocatorIS2_EEED2Ev
+_ZNKSt6__ndk16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEE20__throw_length_errorB7v170000Ev
+_ZNSt6__ndk114__split_bufferIN5rtvar4pairERNS_9allocatorIS2_EEE17__destruct_at_endB7v170000EPS2_
+_ZNKSt6__ndk16vectorI6playerNS_9allocatorIS1_EEE20__throw_length_errorB7v170000Ev
+_ZNSt6__ndk117__exception_guardINS_6vectorI6playerNS_9allocatorIS2_EEE16__destroy_vectorEED2B7v170000Ev
+_ZNSt6__ndk117__exception_guardINS_29_AllocatorDestroyRangeReverseINS_9allocatorI6playerEEPS3_EEED2B7v170000Ev
+_ZNSt6__ndk112__next_primeEm
+_ZNSt6__ndk112__hash_tableINS_17__hash_value_typeIj5Tile1EENS_22__unordered_map_hasherIjS3_NS_4hashIjEENS_8equal_toIjEELb1EEENS_21__unordered_map_equalIjS3_S8_S6_Lb1EEENS_9allocatorIS3_EEE11__do_rehashILb1EEEvm
+_ZNSt6__ndk112__hash_tableINS_17__hash_value_typeIj5Tile1EENS_22__unordered_map_hasherIjS3_NS_4hashIjEENS_8equal_toIjEELb1EEENS_21__unordered_map_equalIjS3_S8_S6_Lb1EEENS_9allocatorIS3_EEE25__emplace_unique_key_argsIjJRKNS_4pairIKjS2_EEEEENSG_INS_15__hash_iteratorIPNS_11__hash_nodeIS3_PvEEEEbEERKT_DpOT0_
+_ZNSt6__ndk112__hash_tableINS_17__hash_value_typeIj5Tile1EENS_22__unordered_map_hasherIjS3_NS_4hashIjEENS_8equal_toIjEELb1EEENS_21__unordered_map_equalIjS3_S8_S6_Lb1EEENS_9allocatorIS3_EEED2Ev
+_ZNSt6__ndk112__hash_tableINS_17__hash_value_typeIj11DroppedItemEENS_22__unordered_map_hasherIjS3_NS_4hashIjEENS_8equal_toIjEELb1EEENS_21__unordered_map_equalIjS3_S8_S6_Lb1EEENS_9allocatorIS3_EEE11__do_rehashILb1EEEvm
+_ZNSt6__ndk112__hash_tableINS_17__hash_value_typeIj11DroppedItemEENS_22__unordered_map_hasherIjS3_NS_4hashIjEENS_8equal_toIjEELb1EEENS_21__unordered_map_equalIjS3_S8_S6_Lb1EEENS_9allocatorIS3_EEE25__emplace_unique_key_argsIjJRKNS_4pairIKjS2_EEEEENSG_INS_15__hash_iteratorIPNS_11__hash_nodeIS3_PvEEEEbEERKT_DpOT0_
+_ZNSt6__ndk112__hash_tableINS_17__hash_value_typeIj11DroppedItemEENS_22__unordered_map_hasherIjS3_NS_4hashIjEENS_8equal_toIjEELb1EEENS_21__unordered_map_equalIjS3_S8_S6_Lb1EEENS_9allocatorIS3_EEED2Ev
+_ZNSt6__ndk113unordered_mapIj8ItemDataNS_4hashIjEENS_8equal_toIjEENS_9allocatorINS_4pairIKjS1_EEEEEC2ERKSB_
+_ZNSt6__ndk113unordered_mapIj8ItemDataNS_4hashIjEENS_8equal_toIjEENS_9allocatorINS_4pairIKjS1_EEEEED2B7v170000Ev
+_ZNSt6__ndk112__hash_tableINS_17__hash_value_typeIj8ItemDataEENS_22__unordered_map_hasherIjS3_NS_4hashIjEENS_8equal_toIjEELb1EEENS_21__unordered_map_equalIjS3_S8_S6_Lb1EEENS_9allocatorIS3_EEE11__do_rehashILb1EEEvm
+_ZNSt6__ndk112__hash_tableINS_17__hash_value_typeIj8ItemDataEENS_22__unordered_map_hasherIjS3_NS_4hashIjEENS_8equal_toIjEELb1EEENS_21__unordered_map_equalIjS3_S8_S6_Lb1EEENS_9allocatorIS3_EEE25__emplace_unique_key_argsIjJRKNS_4pairIKjS2_EEEEENSG_INS_15__hash_iteratorIPNS_11__hash_nodeIS3_PvEEEEbEERKT_DpOT0_
+_ZNSt6__ndk112__hash_tableINS_17__hash_value_typeIj8ItemDataEENS_22__unordered_map_hasherIjS3_NS_4hashIjEENS_8equal_toIjEELb1EEENS_21__unordered_map_equalIjS3_S8_S6_Lb1EEENS_9allocatorIS3_EEED2Ev
+_ZNSt6__ndk110unique_ptrINS_11__hash_nodeINS_17__hash_value_typeIj8ItemDataEEPvEENS_22__hash_node_destructorINS_9allocatorIS6_EEEEED2B7v170000Ev
+_ZTv0_n24_NSt6__ndk114basic_ofstreamIcNS_11char_traitsIcEEED1Ev
+_ZNSt6__ndk114basic_ofstreamIcNS_11char_traitsIcEEED0Ev
+_ZTv0_n24_NSt6__ndk114basic_ofstreamIcNS_11char_traitsIcEEED0Ev
+_ZNKSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE4findEcm
+_ZTVN4http12RequestErrorE
+_ZNSt11logic_errorD2Ev
+_ZTIN4http12RequestErrorE
+_ZN4http12RequestErrorCI2St11logic_errorEPKc
+_ZN4http12RequestErrorD0Ev
+getaddrinfo
+_ZNSt6__ndk16vectorINS_4pairINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEES7_EENS5_IS8_EEEC2ERKSA_
+_ZN4http6detail10encodeHtmlERKNS_3UriERKNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEERKNS4_6vectorIhNS8_IhEEEENSD_INS4_4pairISA_SA_EENS8_ISJ_EEEE
+_ZN4http6detail6SocketC2ENS_16InternetProtocolE
+_ZN4http6detail6Socket7connectEPK8sockaddrjl
+_ZN4http6detail6Socket4sendEPKvml
+_ZN4http6detail6Socket4recvEPvml
+_ZNSt6__ndk16vectorIhNS_9allocatorIhEEE6insertIPhTnNS_9enable_ifIXaasr27__is_cpp17_forward_iteratorIT_EE5valuesr16is_constructibleIhNS_15iterator_traitsIS7_E9referenceEEE5valueEiE4typeELi0EEENS_11__wrap_iterIS5_EENSD_IPKhEES7_S7_
+_ZNSt6__ndk16vectorIhNS_9allocatorIhEEE6insertINS_11__wrap_iterIPhEETnNS_9enable_ifIXaasr27__is_cpp17_forward_iteratorIT_EE5valuesr16is_constructibleIhNS_15iterator_traitsIS9_E9referenceEEE5valueEiE4typeELi0EEES7_NS5_IPKhEES9_S9_
+_ZN4http6detail15parseStatusLineINSt6__ndk111__wrap_iterIPKhEEEENS2_4pairIT_NS_6StatusEEES8_S8_
+_ZN4http6detail16parseHeaderFieldINSt6__ndk111__wrap_iterIPKhEEEENS2_4pairIT_NS7_INS2_12basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEESE_EEEES8_S8_
+_ZNSt6__ndk16vectorINS_4pairINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEES7_EENS5_IS8_EEE21__push_back_slow_pathIS8_EEvOT_
+freeaddrinfo
+_ZNSt13runtime_errorC2EPKc
+_ZTVN4http13ResponseErrorE
+_ZNSt13runtime_errorD2Ev
+_ZTIN4http13ResponseErrorE
+_ZNSt6__ndk115system_categoryEv
+_ZNSt6__ndk112system_errorC1EiRKNS_14error_categoryERKNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZTINSt6__ndk112system_errorE
+_ZNSt6__ndk112system_errorD1Ev
+_ZNSt13runtime_errorC2ERKNSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_ZNSt6__ndk14pairINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEES6_ED2Ev
+_ZNSt6__ndk14pairINS_11__wrap_iterIPKhEENS0_INS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEESA_EEED2Ev
+_ZN4http6detail6SocketD2Ev
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6insertEmPKcm
+_ZNSt6__ndk19to_stringEm
+_ZN4http6detail12encodeBase64INSt6__ndk111__wrap_iterIPcEEEENS2_12basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEET_SC_
+_ZN4http6detail17encodeRequestLineERKNSt6__ndk112basic_stringIcNS1_11char_traitsIcEENS1_9allocatorIcEEEES9_
+_ZN4http6detail18encodeHeaderFieldsERKNSt6__ndk16vectorINS1_4pairINS1_12basic_stringIcNS1_11char_traitsIcEENS1_9allocatorIcEEEES9_EENS7_ISA_EEEE
+_ZNSt6__ndk16vectorIhNS_9allocatorIhEEE6insertINS_11__wrap_iterIPKhEETnNS_9enable_ifIXaasr27__is_cpp17_forward_iteratorIT_EE5valuesr16is_constructibleIhNS_15iterator_traitsISA_E9referenceEEE5valueEiE4typeELi0EEENS5_IPhEES8_SA_SA_
+_ZNKSt6__ndk16vectorINS_4pairINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEES7_EENS5_IS8_EEE20__throw_length_errorB7v170000Ev
+_ZNSt6__ndk117__exception_guardINS_6vectorINS_4pairINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEES8_EENS6_IS9_EEE16__destroy_vectorEED2B7v170000Ev
+_ZNSt6__ndk117__exception_guardINS_29_AllocatorDestroyRangeReverseINS_9allocatorINS_4pairINS_12basic_stringIcNS_11char_traitsIcEENS2_IcEEEES8_EEEEPS9_EEED2B7v170000Ev
+fcntl
+_ZNSt6__ndk112system_errorC1EiRKNS_14error_categoryEPKc
+_ZN4http6detail6Socket5closeEv
+_ZN4http6detail6Socket6selectENS1_10SelectTypeEl
+send
+recv
+_ZN4http6detail12parseVersionINSt6__ndk111__wrap_iterIPKhEEEENS2_4pairIT_NS_7VersionEEES8_S8_
+_ZN4http13ResponseErrorCI2St13runtime_errorEPKc
+_ZN4http6detail10parseTokenINSt6__ndk111__wrap_iterIPKhEEEENS2_4pairIT_NS2_12basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEEEES8_S8_
+_ZN4http6detail17parseFieldContentINSt6__ndk111__wrap_iterIPKhEEEENS2_4pairIT_NS2_12basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEEEES8_S8_
+_ZN4http6detail11isTokenCharIhEEbT_
+_ZN4http6detail15parseFieldValueINSt6__ndk111__wrap_iterIPKhEEEENS2_4pairIT_NS2_12basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEEEES8_S8_
+_ZN4http13ResponseErrorD0Ev
+_ZN12MemoryReader11read_stringEv
+_ZN5World9SerializeER12MemoryReadertRKNSt6__ndk14pairIttEE
+_ZNKSt6__ndk16vectorI4TileNS_9allocatorIS1_EEE20__throw_length_errorB7v170000Ev
+_ZNSt6__ndk16vectorI4VendNS_9allocatorIS1_EEE9push_backB7v170000ERKS1_
+__assert2
+_ZNSt6__ndk116__pad_and_outputB7v170000IcNS_11char_traitsIcEEEENS_19ostreambuf_iteratorIT_T0_EES6_PKS4_S8_S8_RNS_8ios_baseES4_
+_ZNSt6__ndk18ios_base33__set_badbit_and_consider_rethrowEv
+_ZNSt6__ndk16localeC1ERKS0_
+_ZNKSt6__ndk16locale9has_facetERNS0_2idE
+fseek
+_ZNSt6__ndk120__throw_out_of_rangeB7v170000EPKc
+_ZNSt12out_of_rangeC2B7v170000EPKc
+_ZTISt12out_of_range
+_ZNSt12out_of_rangeD1Ev
+_ZTVSt12out_of_range
+_ZNSt6__ndk114__split_bufferINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEERNS4_IS6_EEED2Ev
+_ZNKSt6__ndk16vectorI10TextPacketNS_9allocatorIS1_EEE20__throw_length_errorB7v170000Ev
+_ZNSt6__ndk114__split_bufferI10TextPacketRNS_9allocatorIS1_EEED2Ev
+_ZNSt6__ndk119__thread_local_dataEv
+pthread_setspecific
+_ZNSt6__ndk115__thread_structD1Ev
+_ZNSt6__ndk114__split_bufferI6playerRNS_9allocatorIS1_EEED2Ev
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEED2Ev
+_ZNSt6__ndk15mutexD1Ev
+backas
+backas1
+name1
+player1x
+player1y
+player2x
+player2y
+player1boxy
+player1boxx
+player2boxx
+player2boxy
+lidb
+spam1
+pullfal
+country
+myname
+pulln
+bann
+apbmtx
+setpos1
+setpos2
+setpos3
+setpos4
+_ZN4host6posd1xE
+_ZN4host6posd1yE
+_ZN4host6posd2xE
+_ZN4host6posd2yE
+showgemmtx
+ditem1mtx
+ditemmtx
+startspam
+eff_flags1
+eff_flags2
+dawas
+spaminterval
+coloredtext
+shatter
+phone
+modexit
+modunaccess
+banbynames
+compress
+dawcnt
+pulus
+banus
+spamtx
+fastvend
+updateinv
+packet
+mypos1
+mypos2
+dbox1
+dbox2
+dbox3
+dbox4
+pos1x
+pos1y
+pos2x
+pos2y
+vendbuyall
+_ZTINSt6__ndk119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZTINSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEEE
+_ZNSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEED1Ev
+_ZNSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEED0Ev
+_ZTv0_n24_NSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEED1Ev
+_ZTv0_n24_NSt6__ndk113basic_ostreamIcNS_11char_traitsIcEEED0Ev
+_ZTSNSt6__ndk119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZTVN10__cxxabiv120__si_class_type_infoE
+_ZTINSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZNSt6__ndk115basic_streambufIcNS_11char_traitsIcEEE5imbueERKNS_6localeE
+_ZNSt6__ndk115basic_streambufIcNS_11char_traitsIcEEE6setbufEPcl
+_ZNSt6__ndk115basic_streambufIcNS_11char_traitsIcEEE4syncEv
+_ZNSt6__ndk115basic_streambufIcNS_11char_traitsIcEEE9showmanycEv
+_ZNSt6__ndk115basic_streambufIcNS_11char_traitsIcEEE6xsgetnEPcl
+_ZNSt6__ndk115basic_streambufIcNS_11char_traitsIcEEE5uflowEv
+_ZNSt6__ndk115basic_streambufIcNS_11char_traitsIcEEE6xsputnEPKcl
+_ZTSNSt6__ndk115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZTINSt6__ndk115basic_streambufIcNS_11char_traitsIcEEEE
+_ZTINSt6__ndk114basic_ifstreamIcNS_11char_traitsIcEEEE
+_ZTINSt6__ndk113basic_istreamIcNS_11char_traitsIcEEEE
+_ZNSt6__ndk113basic_istreamIcNS_11char_traitsIcEEED1Ev
+_ZNSt6__ndk113basic_istreamIcNS_11char_traitsIcEEED0Ev
+_ZTv0_n24_NSt6__ndk113basic_istreamIcNS_11char_traitsIcEEED1Ev
+_ZTv0_n24_NSt6__ndk113basic_istreamIcNS_11char_traitsIcEEED0Ev
+_ZTSNSt6__ndk114basic_ifstreamIcNS_11char_traitsIcEEEE
+_ZTINSt6__ndk113basic_filebufIcNS_11char_traitsIcEEEE
+_ZTSNSt6__ndk113basic_filebufIcNS_11char_traitsIcEEEE
+_ZTINSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZTCNSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE0_NS_14basic_iostreamIcS2_EE
+_ZTCNSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE16_NS_13basic_ostreamIcS2_EE
+_ZTINSt6__ndk114basic_iostreamIcNS_11char_traitsIcEEEE
+_ZNSt6__ndk114basic_iostreamIcNS_11char_traitsIcEEED1Ev
+_ZNSt6__ndk114basic_iostreamIcNS_11char_traitsIcEEED0Ev
+_ZThn16_NSt6__ndk114basic_iostreamIcNS_11char_traitsIcEEED1Ev
+_ZThn16_NSt6__ndk114basic_iostreamIcNS_11char_traitsIcEEED0Ev
+_ZTv0_n24_NSt6__ndk114basic_iostreamIcNS_11char_traitsIcEEED1Ev
+_ZTv0_n24_NSt6__ndk114basic_iostreamIcNS_11char_traitsIcEEED0Ev
+_ZTSNSt6__ndk118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZTINSt6__ndk114basic_ofstreamIcNS_11char_traitsIcEEEE
+_ZTSNSt6__ndk114basic_ofstreamIcNS_11char_traitsIcEEEE
+_ZTSN4http12RequestErrorE
+_ZTISt11logic_error
+_ZNKSt11logic_error4whatEv
+_ZTSN4http13ResponseErrorE
+_ZTISt13runtime_error
+_ZNKSt13runtime_error4whatEv
+_ZTISt9exception
+DW.ref.__gxx_personality_v0
+__gxx_personality_v0
+_ZN2gt7versionE
+_ZN2gt12currentrangeE
+_ZN2gt5stateE
+_ZN2gt10connectingE
+_ZN2gt13canDoubleJumpE
+_ZN2gt8isFrozenE
+_ZN2gt8isCursedE
+_ZN2gt8ducttapeE
+_ZN2gt6itemidE
+_ZN2gt9itemcountE
+_Z14WriteCallback3PvmmPNSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_Z8get_metav
+_Z6formatPKcz
+vsnprintf
+_Z9read_filePKcPj
+ftell
+calloc
+_ZN4http7handlerEP8sb_Event
+sb_send_status
+sb_send_header
+server_data
+sb_writef
+_ZN4http5startEv
+options
+geteuid
+sb_new_server
+http_server
+_Z10util_sleepi
+usleep
+_ZN4http3runENSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEES6_
+port
+sb_poll_server
+_Z13get_device_idv
+__system_property_get
+_ZN6serverC2Ev
+_Z13WriteCallbackPvmmP7__sFILE
+_Z15WriteCallback11PvmmPNSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_Z13base64_decodeRKNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_Z21downloadItemsDatabasev
+stderr
+fprintf
+_Z7varstxtv
+_Z8serverdtv
+_Z7_formatPKcz
+_Z8SendMetav
+_Z7getVarsv
+system
+itemsdaturl_
+_ZN17ItemDataContainer12LoadItemDataENSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEEb
+_ZN6server5startEv
+_ZNSt6__ndk16threadC2IRFvNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEES7_EJRA10_KcRA6_SA_EvEEOT_DpOT0_
+_ZN6server4pollEv
+_ZNSt6__ndk113basic_istreamIcNS_11char_traitsIcEEE5tellgEv
+_ZNSt6__ndk113basic_istreamIcNS_11char_traitsIcEEE5seekgExNS_8ios_base7seekdirE
+_ZNSt6__ndk113basic_istreamIcNS_11char_traitsIcEEE4readEPcl
+_ZN8ItemDataaSERKS_
+_ZNSt6__ndk114__thread_proxyB7v170000INS_5tupleIJNS_10unique_ptrINS_15__thread_structENS_14default_deleteIS3_EEEEPFvNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEESC_EPKcSG_EEEEEPvSI_
+_ZNSt6__ndk110unique_ptrINS_5tupleIJNS0_INS_15__thread_structENS_14default_deleteIS2_EEEEPFvNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEESB_EPKcSF_EEENS3_ISG_EEED2B7v170000Ev
+_ZNSt6__ndk16vectorIhNS_9allocatorIhEEE6assignIPhTnNS_9enable_ifIXaasr27__is_cpp17_forward_iteratorIT_EE5valuesr16is_constructibleIhNS_15iterator_traitsIS7_E9referenceEEE5valueEiE4typeELi0EEEvS7_S7_
+_ZNSt6__ndk18__invokeB7v170000IPFvNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEES6_EJPKcSA_EEEDTclclsr3stdE7declvalIT_EEspclsr3stdE7declvalIT0_EEEEOSB_DpOSC_
+itemsdaturl
+sb_error_str
+sb_send_file
+realloc
+sb_write
+sb_vwritef
+sb_get_header
+strchr
+strcspn
+strspn
+sb_get_var
+sb_get_cookie
+sb_get_multipart
+signal
+sscanf
+sb_close_server
+getpeername
+inet_ntop
+_ZN6server15handle_outgoingEv
+_ZN6server7connectEv
+_ZN5utils8get_textEP11_ENetPacket
+_ZN5utils10get_structEP11_ENetPacket
+_ZN5utils13get_structGUPEP11_ENetPacket
+_ZN6server10disconnectEb
+_Z9to_upper2NSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_Z7getTimev
+_ZNSt6__ndk16chrono12system_clock9to_time_tERKNS0_10time_pointIS1_NS0_8durationIxNS_5ratioILl1ELl1000000EEEEEEE
+localtime
+strftime
+_Z5getDMv
+_Z12SaveDropLog2P18gameupdatepacket_t
+_Z12SaveDropLog1P18gameupdatepacket_t
+_Z15SaveCollectLog1P18gameupdatepacket_t11DroppedItem
+_Z15SaveCollectLog2P18gameupdatepacket_t11DroppedItem
+_ZN6server7sendingEbiPKvmj
+_ZN6server17get_extended_dataEP16GameUpdatePacket
+_ZNSt6__ndk113unordered_mapIj5Tile1NS_4hashIjEENS_8equal_toIjEENS_9allocatorINS_4pairIKjS1_EEEEE4findB7v170000ERS8_
+_ZNSt6__ndk113unordered_mapIj8ItemDataNS_4hashIjEENS_8equal_toIjEENS_9allocatorINS_4pairIKjS1_EEEEE4findB7v170000ERS8_
+_Z8kntlthrdii
+_Z13CollectedGemsv
+gemmtx
+gems
+gemskakka
+_ZN13variantlist_t16serialize_to_memEPjPh
+_Z17TrackWorldCollectP18gameupdatepacket_t11DroppedItem
+_Z14TrackWorldDropP18gameupdatepacket_t
+_ZN6server15handle_incomingEv
+_ZN5World10serialize5EiiR12MemoryReadert
+_ZNSt6__ndk16vectorIN6server4ItemENS_9allocatorIS2_EEE8__appendEm
+_ZNSt6__ndk113unordered_mapIj11DroppedItemNS_4hashIjEENS_8equal_toIjEENS_9allocatorINS_4pairIKjS1_EEEEE4findB7v170000ERS8_
+_ZNSt6__ndk112__hash_tableINS_17__hash_value_typeIj11DroppedItemEENS_22__unordered_map_hasherIjS3_NS_4hashIjEENS_8equal_toIjEELb1EEENS_21__unordered_map_equalIjS3_S8_S6_Lb1EEENS_9allocatorIS3_EEE14__erase_uniqueIjEEmRKT_
+_ZN6server13SendPacketRawEbiPvmS0_i
+_ZN6server14sendPacketSafeEP9_ENetPeerP11_ENetPacketP9_ENetHost
+g_sendMutex
+_ZN6server12setup_clientEv
+_ZN6server10lockThreadEv
+pthread_self
+_ZNSt6__ndk118condition_variable10notify_allEv
+_ZN6server12unlockThreadEv
+_ZNK9variant_teqERKS_
+_ZN6server14sendEnetPacketEP11_ENetPacketb
+_Z6LolPosiii
+_Z8CantPathv
+_Z9PathFind0iNSt6__ndk16vectorINS_4pairIiiEENS_9allocatorIS2_EEEE
+_Z8WaitPathv
+_Z8overlay2NSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+_ZNSt6__ndk16vectorIiNS_9allocatorIiEEE6assignIPiTnNS_9enable_ifIXaasr27__is_cpp17_forward_iteratorIT_EE5valuesr16is_constructibleIiNS_15iterator_traitsIS7_E9referenceEEE5valueEiE4typeELi0EEEvS7_S7_
+_ZN10PathFinder5aStarEiiii
+_ZNKSt6__ndk16vectorINS_4pairIiiEENS_9allocatorIS2_EEE20__throw_length_errorB7v170000Ev
+_ZN10PathFinderD2Ev
+_ZNSt6__ndk16vectorINS0_IiNS_9allocatorIiEEEENS1_IS3_EEEC2EmRKS3_
+_ZNSt6__ndk16vectorINS0_INS_4pairIiiEENS_9allocatorIS2_EEEENS3_IS5_EEEC2EmRKS5_
+_ZNSt6__ndk114priority_queueIN10PathFinder4NodeENS_6vectorIS2_NS_9allocatorIS2_EEEENS_4lessIS2_EEE4pushEOS2_
+_ZNSt6__ndk16vectorINS0_IiNS_9allocatorIiEEEENS1_IS3_EEED2B7v170000Ev
+_ZNSt6__ndk16vectorINS0_INS_4pairIiiEENS_9allocatorIS2_EEEENS3_IS5_EEED2B7v170000Ev
+_ZNKSt6__ndk16vectorINS0_IiNS_9allocatorIiEEEENS1_IS3_EEE20__throw_length_errorB7v170000Ev
+_ZNSt6__ndk117__exception_guardINS_6vectorINS1_IiNS_9allocatorIiEEEENS2_IS4_EEE16__destroy_vectorEED2B7v170000Ev
+_ZNKSt6__ndk16vectorINS0_INS_4pairIiiEENS_9allocatorIS2_EEEENS3_IS5_EEE20__throw_length_errorB7v170000Ev
+_ZNSt6__ndk117__exception_guardINS_6vectorINS1_INS_4pairIiiEENS_9allocatorIS3_EEEENS4_IS6_EEE16__destroy_vectorEED2B7v170000Ev
+_ZNKSt6__ndk16vectorIN10PathFinder4NodeENS_9allocatorIS2_EEE20__throw_length_errorB7v170000Ev
+_ZNSt6__ndk112__hash_tableINS_17__hash_value_typeIj11DroppedItemEENS_22__unordered_map_hasherIjS3_NS_4hashIjEENS_8equal_toIjEELb1EEENS_21__unordered_map_equalIjS3_S8_S6_Lb1EEENS_9allocatorIS3_EEE6removeENS_21__hash_const_iteratorIPNS_11__hash_nodeIS3_PvEEEE
+pathing
+showGemBubble
+_ZNSt6__ndk124uniform_int_distributionIiEclINS_23mersenne_twister_engineImLm32ELm624ELm397ELm31ELm2567483615ELm11ELm4294967295ELm7ELm2636928640ELm15ELm4022730752ELm18ELm1812433253EEEEEiRT_RKNS1_10param_typeE
+_ZN5utils7hex_strEh
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE7replaceEmmPKcm
+_ZN5utils9is_numberERKNSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_ZNSt6__ndk125__independent_bits_engineINS_23mersenne_twister_engineImLm32ELm624ELm397ELm31ELm2567483615ELm11ELm4294967295ELm7ELm2636928640ELm15ELm4022730752ELm18ELm1812433253EEEjE6__evalENS_17integral_constantIbLb1EEE
+__unw_init_local
+_ZTVN9libunwind12UnwindCursorINS_17LocalAddressSpaceENS_15Registers_arm64EEE
+_ZN9libunwind17LocalAddressSpace17sThisAddressSpaceE
+_ZN9libunwind12UnwindCursorINS_17LocalAddressSpaceENS_15Registers_arm64EE24setInfoBasedOnIPRegisterEb
+__unw_get_reg
+__unw_set_reg
+__unw_get_fpreg
+__unw_set_fpreg
+__unw_step
+__unw_step_stage2
+__unw_get_proc_info
+__unw_resume
+__unw_get_proc_name
+__unw_is_fpreg
+__unw_regname
+__unw_is_signal_frame
+__unw_iterate_dwarf_unwind_cache
+_ZN9libunwind13DwarfFDECacheINS_17LocalAddressSpaceEE5_lockE
+_ZN9libunwind13DwarfFDECacheINS_17LocalAddressSpaceEE7_bufferE
+_ZN9libunwind13DwarfFDECacheINS_17LocalAddressSpaceEE11_bufferUsedE
+__unw_add_dynamic_fde
+_ZN9libunwind10CFI_ParserINS_17LocalAddressSpaceEE9decodeFDEERS1_mPNS2_8FDE_InfoEPNS2_8CIE_InfoEb
+_ZN9libunwind13DwarfFDECacheINS_17LocalAddressSpaceEE10_bufferEndE
+_ZN9libunwind13DwarfFDECacheINS_17LocalAddressSpaceEE14_initialBufferE
+_ZN9libunwind10CFI_ParserINS_17LocalAddressSpaceEE8parseCIEERS1_mPNS2_8CIE_InfoE
+_ZN9libunwind17LocalAddressSpace11getEncodedPERmmhm
+_ZN9libunwind17LocalAddressSpace10getULEB128ERmm
+__unw_remove_dynamic_fde
+__unw_add_dynamic_eh_frame_section
+__unw_remove_dynamic_eh_frame_section
+_ZN9libunwind20AbstractUnwindCursorD2Ev
+_ZN9libunwind12UnwindCursorINS_17LocalAddressSpaceENS_15Registers_arm64EED0Ev
+_ZN9libunwind12UnwindCursorINS_17LocalAddressSpaceENS_15Registers_arm64EE8validRegEi
+_ZN9libunwind12UnwindCursorINS_17LocalAddressSpaceENS_15Registers_arm64EE6getRegEi
+_ZN9libunwind12UnwindCursorINS_17LocalAddressSpaceENS_15Registers_arm64EE6setRegEim
+_ZN9libunwind12UnwindCursorINS_17LocalAddressSpaceENS_15Registers_arm64EE13validFloatRegEi
+_ZN9libunwind12UnwindCursorINS_17LocalAddressSpaceENS_15Registers_arm64EE11getFloatRegEi
+_ZN9libunwind12UnwindCursorINS_17LocalAddressSpaceENS_15Registers_arm64EE11setFloatRegEid
+_ZN9libunwind12UnwindCursorINS_17LocalAddressSpaceENS_15Registers_arm64EE4stepEb
+_ZN9libunwind12UnwindCursorINS_17LocalAddressSpaceENS_15Registers_arm64EE20stepThroughSigReturnERS2_
+_ZN9libunwind17DwarfInstructionsINS_17LocalAddressSpaceENS_15Registers_arm64EE13stepWithDwarfERS1_mmRS2_Rbb
+_ZN9libunwind12UnwindCursorINS_17LocalAddressSpaceENS_15Registers_arm64EE7getInfoEP15unw_proc_info_t
+_ZN9libunwind12UnwindCursorINS_17LocalAddressSpaceENS_15Registers_arm64EE6jumptoEv
+_ZN9libunwind12UnwindCursorINS_17LocalAddressSpaceENS_15Registers_arm64EE13isSignalFrameEv
+_ZN9libunwind12UnwindCursorINS_17LocalAddressSpaceENS_15Registers_arm64EE15getFunctionNameEPcmPm
+_ZN9libunwind12UnwindCursorINS_17LocalAddressSpaceENS_15Registers_arm64EE23getInfoFromDwarfSectionEmRKNS_18UnwindInfoSectionsEj
+_ZN9libunwind10CFI_ParserINS_17LocalAddressSpaceEE20parseFDEInstructionsERS1_RKNS2_8FDE_InfoERKNS2_8CIE_InfoEmiPNS2_10PrologInfoE
+_ZN9libunwind12UnwindCursorINS_17LocalAddressSpaceENS_15Registers_arm64EE15getRegisterNameEi
+_ZN9libunwind15Registers_arm6415getRegisterNameEi
+_ZN9libunwind17DwarfInstructionsINS_17LocalAddressSpaceENS_15Registers_arm64EE6getCFAERS1_RKNS_10CFI_ParserIS1_E10PrologInfoERKS2_
+_ZN9libunwind17DwarfInstructionsINS_17LocalAddressSpaceENS_15Registers_arm64EE16getSavedRegisterERS1_RKS2_mRKNS_10CFI_ParserIS1_E16RegisterLocationE
+_ZN9libunwind17DwarfInstructionsINS_17LocalAddressSpaceENS_15Registers_arm64EE18evaluateExpressionEmRS1_RKS2_m
+_ZN9libunwind10CFI_ParserINS_17LocalAddressSpaceEE7findFDEERS1_mmmmPNS2_8FDE_InfoEPNS2_8CIE_InfoE
+_ZN9libunwind14EHHeaderParserINS_17LocalAddressSpaceEE7findFDEERS1_mmjPNS_10CFI_ParserIS1_E8FDE_InfoEPNS5_8CIE_InfoE
+_ZN9libunwind14EHHeaderParserINS_17LocalAddressSpaceEE17getTableEntrySizeEh
+unw_local_addr_space
+unw_init_local
+unw_get_reg
+unw_set_reg
+unw_get_fpreg
+unw_set_fpreg
+unw_step
+unw_get_proc_info
+unw_resume
+unw_get_proc_name
+unw_is_fpreg
+unw_regname
+unw_is_signal_frame
+unw_iterate_dwarf_unwind_cache
+_Unwind_RaiseException
+__unw_getcontext
+__sF
+_Unwind_ForcedUnwind
+_Unwind_GetLanguageSpecificData
+_Unwind_GetRegionStart
+_Unwind_DeleteException
+_Unwind_GetGR
+_Unwind_SetGR
+_Unwind_GetIP
+_Unwind_SetIP
+pthread_rwlock_wrlock
+pthread_rwlock_unlock
+__libunwind_Registers_arm64_jumpto
+dl_iterate_phdr
+pthread_rwlock_rdlock
+getpid
+syscall
+unw_getcontext
+_DYNAMIC
+__CortexA53843419_84008
+__CortexA53843419_9E004
