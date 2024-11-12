@@ -11,7 +11,7 @@ if [ -f "proxy" ]; then
     sleep 1
     echo -e "${GREEN}Getting proxy...${ENDCOLOR}"
 fi
-wget -q https://github.com/KYGALAXYSMPG/KYGALAXYSMPG/blob/main/PROXYLEON
+wget -q https://github.com/KYGALAXYSMPG/KYGALAXYSMPG/blob/main/proxyj
 sleep 1
 echo -e "${GREEN}LeonProxy is now Installed.${ENDCOLOR}"
 echo -e "${GREEN}Execute proxy with this command: ./proxy${ENDCOLOR}"
